@@ -44,8 +44,8 @@ body{
     -webkit-border-radius:100px;
     -moz-border-radius:50px;
     border-radius:40px;
-    width:400px;
-	height:400px;
+    width:500px;
+	height:500px;
 	transform: translateX(-70px);
 }
 

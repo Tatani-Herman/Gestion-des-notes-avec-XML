@@ -8,13 +8,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-	<img class="wave" src="img/wave.png">
+	
 	<div class="container">
 		<div class="img">
 			<img class="roundedImage" src="img/ensat.jpg">
 		</div>
 		<div class="login-content">
-			<form action="dashboard.html">
+			<form method="POST">
 				<img src="img/avatar.svg">
 				<h2 class="title">Bienvenue</h2>
            		<div class="input-div one">
@@ -23,7 +23,7 @@
            		   </div>
            		   <div class="div">
            		   		<h5>Username</h5>
-           		   		<input type="text" class="input" name="login">
+           		   		<input type="text" class="input" name="login" required>
            		   </div>
            		</div>
            		<div class="input-div pass">
@@ -32,10 +32,10 @@
            		   </div>
            		   <div class="div">
            		    	<h5>Password</h5>
-           		    	<input type="password" class="input" name="pass">
+           		    	<input type="password" class="input" name="pass" required>
             	   </div>
             	</div>
-            	<input type="submit" class="btn" value="Login" name="valider">
+            	<input type="Submit" class="btn" value="Login" name="valider">
             </form>
         </div>
     </div>
@@ -43,12 +43,13 @@
 </body>
 </html>
 
+
 <?php
 	
 	if(isset($_POST['valider'])){
      $login=$_POST['login'];
 	   $pass=$_POST['pass'];
-		if($login ="admin" && $pass="admin"){
+		if($login =='admin' && $pass=='admin'){
     header("location:dashboard.php");
     exit();
     }
