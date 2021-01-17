@@ -50,7 +50,7 @@
      $login=$_POST['login'];
 	   $pass=$_POST['pass'];
 		if($login =='admin' && $pass=='admin'){
-    header("location:dashboard.php");
+    header("location:dashboard.html");
     exit();
     }
 		else{
