@@ -1,4 +1,17 @@
-<input type="checkbox" id="check">
+<!DOCTYPE>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title><?php echo $titre; ?></title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+    <link rel="icon" href="img/index.ico"/>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+  </head>
+  <body>
+  <div class="wrapper">
+   
+   <input type="checkbox" id="check">
     <!--header area start-->
     <header>
       <label for="check">
@@ -13,6 +26,7 @@
     </header>
     <!--header area end-->
     <!--sidebar start-->
+  
     <div class="sidebar">
       <center>
         <img src="img/1.png" class="profile_image" alt=""> 

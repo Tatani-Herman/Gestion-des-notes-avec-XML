@@ -65,8 +65,8 @@
     exit();
     }
 		else{
-    echo "mot de passe ou nom d'utilisateur invalide";
-    header("location:index.php");
+    //header("location:index.php");
+    echo '<script>alert("mot de passe ou nom d utilisateur invalide");</script>';
 		}
 	}
 ?>
