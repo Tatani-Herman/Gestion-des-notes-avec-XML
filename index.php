@@ -8,6 +8,7 @@
       crossorigin="anonymous"
     ></script>
     <link rel="stylesheet" href="css/style2.css" />
+    <link rel="icon" href="img/index.ico"/>
     <title>LOGIN</title>
   </head>
   <body>
