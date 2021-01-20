@@ -18,7 +18,7 @@
         <h3>ENSA <span>Tanger</span></h3>
       </div>
       <div class="right_area">
-        <a href="#" class="logout_btn">Logout</a>
+        <a href="index.php" class="logout_btn">Logout</a>
       </div>
     </header>
     <!--header area end-->
