@@ -43,7 +43,12 @@ header{
   background: #0B87A6;
 }
 
-.sidebar {
+.wrapper{
+  display: flex;
+  position: relative;
+}
+
+.wrapper .sidebar {
   background: #2f323a;
   margin-top: 70px;
   padding-top: 30px;
@@ -62,9 +67,41 @@ header{
   margin-bottom: 10px;
 }
 
+/*.wrapper .main_content{
+  width: 100%;
+  margin-left: 300px;
+}*/
+
+.wrapper .main_content{
+  margin-left: 250px;
+ /* background: url(../img/ensat.jpg) no-repeat;*/
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  transition: 0.5s;
+}
+
+.header{
+  padding: 20px;
+  margin: 80px;
+  background: #fff;
+  color: #717171;
+  border-bottom: 1px solid #e0e4e8;
+}
+
+.wrapper .main_content .info{
+  margin: 20px;
+  color: #717171;
+  line-height: 25px;
+}
+
 .sidebar h4{
   color: #ccc;
   margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.wrapper .main_content .info div{
   margin-bottom: 20px;
 }
 
@@ -82,6 +119,10 @@ header{
 
 .sidebar a:hover{
   background: #19B3D3;
+}
+
+.sidebar.active a{
+  background: #8adfee;
 }
 
 .sidebar i{
@@ -119,15 +160,8 @@ label #sidebar_btn:hover{
   width: 80px;
 }
 
-.content{
-  margin-left: 250px;
-  background-position: center;
-  background-size: cover;
-  height: 100vh;
-  transition: 0.5s;
-}
 
-#check:checked ~ .content{
+#check:checked ~ .main_content{
   margin-left: 60px;
 }
 
