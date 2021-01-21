@@ -3,4 +3,5 @@
 <!ELEMENT CNE (#PCDATA)>
 <!ELEMENT FirstName (#PCDATA)>
 <!ELEMENT DateofBirth (#PCDATA)>
+<!ELEMENT Phone (#PCDATA)>
 <!ELEMENT Email (#PCDATA)>
