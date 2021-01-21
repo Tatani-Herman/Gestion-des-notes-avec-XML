@@ -1,0 +1,7 @@
+<!ELEMENT professeur (CNE,LastName,FirstName,Dept_Attachment,Phone,Email)>
+<!ELEMENT LastName (#PCDATA)>
+<!ELEMENT CNE (#PCDATA)>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT Dept_Attachment (#PCDATA)>
+<!ELEMENT Phone (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
