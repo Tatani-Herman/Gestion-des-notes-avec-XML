@@ -45,12 +45,12 @@ class ExcelToXml
             $index++;
         }
         
-        $xml = $this->array2xml($data, $class,false);
+        $xml = $this->array2xml($data, $class,$categorie,false);
         return $xml;
 
     }
 
-    private function array2xml($array,$root,$xml = false){
+    private function array2xml($array,$root,$categorie,$xml = false){
 
         
         
@@ -61,14 +61,14 @@ class ExcelToXml
         foreach($array as $key => $value){
             if(is_array($value)){
                 if( is_numeric($key) ){
-                    $key = 'item'.$key; //dealing with <0/>..<n/> issues
+                    $key = $categorie; 
                 }
-                $this->array2xml($value,$key,$xml->addChild($key));
+                $this->array2xml($value,$key,$categorie,$xml->addChild($key));
             } else {
-                if($value){
-                    $xml->addChild($key, htmlspecialchars($value));
-                }
                
+                    if($value){
+                        $xml->addChild($key, htmlspecialchars($value));
+                    }
             }
         }
     
