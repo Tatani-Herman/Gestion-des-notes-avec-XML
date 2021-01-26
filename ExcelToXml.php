@@ -41,8 +41,10 @@ class ExcelToXml
                 $result[] = $rowValue;
             }
             
-            $data[str_replace(array("-"," "), "_", $worksheet->getTitle())] = $result;
+            //$data[str_replace(array("-"," "), "_", $worksheet->getTitle())] = $result;
+            $data=$result;
             $index++;
+
         }
         
         $xml = $this->array2xml($data, $class,$categorie,false);
