@@ -1,0 +1,6 @@
+<!ELEMENT notes (CNE,LastName,FirstName,note*)>
+<!ELEMENT LastName (#PCDATA)>
+<!ELEMENT CNE (#PCDATA)>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT note (#PCDATA)>
+<!ATTLIST note codeMat #PCDATA #REQUIRED>
