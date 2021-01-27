@@ -89,6 +89,11 @@ class ExcelToXml
                             $key="matiere";
                             $xml->addChild($key, htmlspecialchars($value));
                         }
+                        else if(preg_match("#^ElementName#", $key))
+                        {
+                            $key="ElementName";
+                            $xml->addChild($key, htmlspecialchars($value));
+                        }
                         else {
                             $xml->addChild($key, htmlspecialchars($value));
                         }

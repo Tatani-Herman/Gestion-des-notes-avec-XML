@@ -5,59 +5,81 @@
     <ModuleName>GINF31</ModuleName>
     <Name>POO &amp; XML</Name>
     <ChefModule>EL Haddad</ChefModule>
+    <ElementName>Java</ElementName>
+    <ElementName>XML</ElementName>
   </modules>
   <modules>
     <ModuleName>GINF32</ModuleName>
     <Name>Qualit&#xE9; et approche processus</Name>
     <ChefModule>Badir</ChefModule>
+    <ElementName>Qualit&#xE9;</ElementName>
+    <ElementName> Cycle de vie Logiciel</ElementName>
     <ElementName> Optimisation des processus</ElementName>
   </modules>
   <modules>
     <ModuleName>GINF33</ModuleName>
     <Name>Mod&#xE9;lisation OO &amp; IHM</Name>
     <ChefModule>Ezzine</ChefModule>
+    <ElementName>UML</ElementName>
+    <ElementName>IHM</ElementName>
   </modules>
   <modules>
     <ModuleName>GINF34</ModuleName>
     <Name>BD Avanc&#xE9;es I</Name>
     <ChefModule>El Alami Hassoun</ChefModule>
+    <ElementName>Optimisation BD</ElementName>
+    <ElementName> Admin. BD</ElementName>
     <ElementName> BD Distribu&#xE9;es</ElementName>
   </modules>
   <modules>
     <ModuleName>GINF35</ModuleName>
     <Name>Admin. Et prog. Syst&#xE8;me</Name>
     <ChefModule>Lazaar</ChefModule>
+    <ElementName>Ad. Sys</ElementName>
+    <ElementName> Prog. Sys</ElementName>
   </modules>
   <modules>
     <ModuleName>GINF36</ModuleName>
     <Name>Langues et Communication</Name>
     <ChefModule>El Haddad</ChefModule>
+    <ElementName>Anglais</ElementName>
+    <ElementName> Espagnol</ElementName>
   </modules>
   <modules>
     <ModuleName>GINF41</ModuleName>
     <Name>Technologies distribu&#xE9;s</Name>
     <ChefModule>EL Haddad</ChefModule>
+    <ElementName>J2EE</ElementName>
+    <ElementName> C#</ElementName>
   </modules>
   <modules>
     <ModuleName>GINF42</ModuleName>
     <Name>BD Avacnc&#xE9;es II &amp; Cloud</Name>
     <ChefModule>El Alami Hassoun</ChefModule>
+    <ElementName>Gestion des donn&#xE9;es Complexes</ElementName>
+    <ElementName> NOSQL</ElementName>
     <ElementName> Cloud Computing</ElementName>
   </modules>
   <modules>
     <ModuleName>GINF43</ModuleName>
     <Name>Traitement de l'image </Name>
     <ChefModule>Badir</ChefModule>
+    <ElementName>Traitement d'image</ElementName>
+    <ElementName> vision num&#xE9;rique</ElementName>
     <ElementName> Processus stochastique</ElementName>
   </modules>
   <modules>
     <ModuleName>GINF44</ModuleName>
     <Name>Prog. D&#xE9;clarative et TAV</Name>
     <ChefModule>Ezzine</ChefModule>
+    <ElementName>Prog. D&#xE9;clarative</ElementName>
+    <ElementName> Technique algorithmique avanc&#xE9;e</ElementName>
   </modules>
   <modules>
     <ModuleName>GINF45</ModuleName>
     <Name>S&#xE9;curit&#xE9; des syst&#xE8;mes &amp; Crypto.</Name>
     <ChefModule>Ben Achrab</ChefModule>
+    <ElementName>S&#xE9;curit&#xE9; des syst&#xE8;mes</ElementName>
+    <ElementName> Cryptographie</ElementName>
   </modules>
 </GINF2>
