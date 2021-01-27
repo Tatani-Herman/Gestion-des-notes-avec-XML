@@ -1,7 +1,0 @@
-<!ELEMENT eleve (CNE,LastName,FirstName,DateofBirth,Phone,Email)>
-<!ELEMENT LastName (#PCDATA)>
-<!ELEMENT CNE (#PCDATA)>
-<!ELEMENT FirstName (#PCDATA)>
-<!ELEMENT DateofBirth (#PCDATA)>
-<!ELEMENT Phone (#PCDATA)>
-<!ELEMENT Email (#PCDATA)>
