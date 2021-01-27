@@ -13,7 +13,15 @@ class ExcelToXml
     public function Excel2Xml($class,$categorie)
     {
     $objReader = IOFactory::createReader('Xlsx');
-        $file="resources/".$class."/".$categorie.".xlsx";
+        if ($categorie=="professeurs") {
+            $file="resources/".$categorie.".xlsx";
+            $class="professeurs";
+            $categorie="professeur";
+        }
+        else{
+            $file="resources/".$class."/".$categorie.".xlsx";
+        }
+        
         $objPHPExcel = $objReader->load($file);
        
     
@@ -69,13 +77,27 @@ class ExcelToXml
             } else {
                
                     if($value){
-                        $xml->addChild($key, htmlspecialchars($value));
+                        if(preg_match("#^Note#", $key))
+                        {
+                            $attribute=substr($key,5);
+                            $key="note";
+                            $tag=$xml->addChild($key, htmlspecialchars($value));
+                            $tag->addAttribute('codeMat', $attribute);
+                        }
+                        else if(preg_match("#^Matiere#", $key))
+                        {
+                            $key="matiere";
+                            $xml->addChild($key, htmlspecialchars($value));
+                        }
+                        else {
+                            $xml->addChild($key, htmlspecialchars($value));
+                        }
+                        
                     }
             }
         }
     
-        //return $xml->asXML();
-        return $xml;
+        return $xml->asXML();
     }
 
 }
