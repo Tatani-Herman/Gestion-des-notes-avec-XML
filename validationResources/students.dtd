@@ -1,4 +1,4 @@
-<!ELEMENT students (CNE,LastName,FirstName,DateofBirth,Phone,Email)>
+<!ELEMENT student (CNE,LastName,FirstName,DateofBirth,Phone,Email)>
 <!ELEMENT LastName (#PCDATA)>
 <!ELEMENT CNE (#PCDATA)>
 <!ELEMENT FirstName (#PCDATA)>
