@@ -11,7 +11,7 @@ elementFormDefault="qualified">
           <xs:element name="CNE" type="xs:string"/>
           <xs:element name="LastName" type="xs:string"/>
           <xs:element name="FirstName" type="xs:string"/>
-          <xs:element name="not" maxOccurs="12">
+          <xs:element name="matiere" maxOccurs="12">
               <xs:complexType>
                 <xs:attribute name="codeMat" type="xs:string" use="required" />
                  <xs:restriction base="xs:float">
