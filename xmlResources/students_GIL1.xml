@@ -1,0 +1,372 @@
+<?xml version="1.0"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+<students>
+  <student>
+    <CNE>1</CNE>
+    <LastName>Gardy</LastName>
+    <FirstName>Pauley</FirstName>
+    <DateofBirth>17/05/1996</DateofBirth>
+    <Phone>164 233 7365</Phone>
+    <Email>gpauley0@squarespace.com</Email>
+  </student>
+  <student>
+    <CNE>2</CNE>
+    <LastName>Brewster</LastName>
+    <FirstName>Wondraschek</FirstName>
+    <DateofBirth>16/04/1996</DateofBirth>
+    <Phone>990 745 4180</Phone>
+    <Email>bwondraschek1@jiathis.com</Email>
+  </student>
+  <student>
+    <CNE>3</CNE>
+    <LastName>Leilah</LastName>
+    <FirstName>Beldham</FirstName>
+    <DateofBirth>19/10/1995</DateofBirth>
+    <Phone>202 971 0235</Phone>
+    <Email>lbeldham2@networksolutions.com</Email>
+  </student>
+  <student>
+    <CNE>4</CNE>
+    <LastName>Brett</LastName>
+    <FirstName>Fingleton</FirstName>
+    <DateofBirth>07/10/1999</DateofBirth>
+    <Phone>932 245 6831</Phone>
+    <Email>bfingleton3@ihg.com</Email>
+  </student>
+  <student>
+    <CNE>5</CNE>
+    <LastName>Maris</LastName>
+    <FirstName>Vitall</FirstName>
+    <DateofBirth>25/03/1996</DateofBirth>
+    <Phone>210 771 5690</Phone>
+    <Email>mvitall4@sina.com.cn</Email>
+  </student>
+  <student>
+    <CNE>6</CNE>
+    <LastName>Marrilee</LastName>
+    <FirstName>Novotni</FirstName>
+    <DateofBirth>10/10/1997</DateofBirth>
+    <Phone>972 969 0687</Phone>
+    <Email>mnovotni5@dmoz.org</Email>
+  </student>
+  <student>
+    <CNE>7</CNE>
+    <LastName>Wallis</LastName>
+    <FirstName>Jaggli</FirstName>
+    <DateofBirth>19/10/1998</DateofBirth>
+    <Phone>713 774 2558</Phone>
+    <Email>wjaggli6@washingtonpost.com</Email>
+  </student>
+  <student>
+    <CNE>8</CNE>
+    <LastName>Eugenio</LastName>
+    <FirstName>Youtead</FirstName>
+    <DateofBirth>19/07/1995</DateofBirth>
+    <Phone>838 776 9525</Phone>
+    <Email>eyoutead7@yellowpages.com</Email>
+  </student>
+  <student>
+    <CNE>9</CNE>
+    <LastName>Harrietta</LastName>
+    <FirstName>Baudassi</FirstName>
+    <DateofBirth>12/08/1997</DateofBirth>
+    <Phone>564 291 3337</Phone>
+    <Email>hbaudassi8@issuu.com</Email>
+  </student>
+  <student>
+    <CNE>10</CNE>
+    <LastName>Tiertza</LastName>
+    <FirstName>Merali</FirstName>
+    <DateofBirth>16/04/1996</DateofBirth>
+    <Phone>930 116 5865</Phone>
+    <Email>tmerali9@seesaa.net</Email>
+  </student>
+  <student>
+    <CNE>11</CNE>
+    <LastName>Dennie</LastName>
+    <FirstName>Trineman</FirstName>
+    <DateofBirth>25/11/2000</DateofBirth>
+    <Phone>383 819 7847</Phone>
+    <Email>dtrinemana@webeden.co.uk</Email>
+  </student>
+  <student>
+    <CNE>12</CNE>
+    <LastName>Ainsley</LastName>
+    <FirstName>Gentiry</FirstName>
+    <DateofBirth>02/07/2000</DateofBirth>
+    <Phone>493 759 1444</Phone>
+    <Email>agentiryb@marketwatch.com</Email>
+  </student>
+  <student>
+    <CNE>13</CNE>
+    <LastName>Chantal</LastName>
+    <FirstName>McGeffen</FirstName>
+    <DateofBirth>23/08/1995</DateofBirth>
+    <Phone>487 305 7997</Phone>
+    <Email>cmcgeffenc@wikimedia.org</Email>
+  </student>
+  <student>
+    <CNE>14</CNE>
+    <LastName>Darelle</LastName>
+    <FirstName>Davidy</FirstName>
+    <DateofBirth>10/03/2000</DateofBirth>
+    <Phone>586 385 4129</Phone>
+    <Email>ddavidyd@telegraph.co.uk</Email>
+  </student>
+  <student>
+    <CNE>15</CNE>
+    <LastName>Jori</LastName>
+    <FirstName>Woodwing</FirstName>
+    <DateofBirth>10/01/2000</DateofBirth>
+    <Phone>476 655 0891</Phone>
+    <Email>jwoodwinge@hp.com</Email>
+  </student>
+  <student>
+    <CNE>16</CNE>
+    <LastName>Veronique</LastName>
+    <FirstName>Pember</FirstName>
+    <DateofBirth>05/03/1995</DateofBirth>
+    <Phone>792 687 4928</Phone>
+    <Email>vpemberf@huffingtonpost.com</Email>
+  </student>
+  <student>
+    <CNE>17</CNE>
+    <LastName>Torrey</LastName>
+    <FirstName>Bunten</FirstName>
+    <DateofBirth>19/09/1999</DateofBirth>
+    <Phone>346 636 8788</Phone>
+    <Email>tbunteng@hud.gov</Email>
+  </student>
+  <student>
+    <CNE>18</CNE>
+    <LastName>Grace</LastName>
+    <FirstName>Wraith</FirstName>
+    <DateofBirth>01/09/1998</DateofBirth>
+    <Phone>957 451 5049</Phone>
+    <Email>gwraithh@1und1.de</Email>
+  </student>
+  <student>
+    <CNE>19</CNE>
+    <LastName>Jenna</LastName>
+    <FirstName>Peacher</FirstName>
+    <DateofBirth>03/02/1995</DateofBirth>
+    <Phone>738 445 5523</Phone>
+    <Email>jpeacheri@engadget.com</Email>
+  </student>
+  <student>
+    <CNE>20</CNE>
+    <LastName>Elizabeth</LastName>
+    <FirstName>Dunnet</FirstName>
+    <DateofBirth>30/07/1996</DateofBirth>
+    <Phone>221 329 9098</Phone>
+    <Email>edunnetj@yellowbook.com</Email>
+  </student>
+  <student>
+    <CNE>21</CNE>
+    <LastName>Danette</LastName>
+    <FirstName>Klehyn</FirstName>
+    <DateofBirth>12/09/1999</DateofBirth>
+    <Phone>896 860 6190</Phone>
+    <Email>dklehynk@cbc.ca</Email>
+  </student>
+  <student>
+    <CNE>22</CNE>
+    <LastName>Francyne</LastName>
+    <FirstName>Walkinshaw</FirstName>
+    <DateofBirth>15/08/2000</DateofBirth>
+    <Phone>439 792 0530</Phone>
+    <Email>fwalkinshawl@nyu.edu</Email>
+  </student>
+  <student>
+    <CNE>23</CNE>
+    <LastName>Eleanor</LastName>
+    <FirstName>Jozefiak</FirstName>
+    <DateofBirth>05/02/2000</DateofBirth>
+    <Phone>172 203 2456</Phone>
+    <Email>ejozefiakm@wikia.com</Email>
+  </student>
+  <student>
+    <CNE>24</CNE>
+    <LastName>Noreen</LastName>
+    <FirstName>Dulanty</FirstName>
+    <DateofBirth>14/06/1999</DateofBirth>
+    <Phone>546 241 8727</Phone>
+    <Email>ndulantyn@webnode.com</Email>
+  </student>
+  <student>
+    <CNE>25</CNE>
+    <LastName>Nikos</LastName>
+    <FirstName>Shout</FirstName>
+    <DateofBirth>12/07/1998</DateofBirth>
+    <Phone>512 775 5101</Phone>
+    <Email>nshouto@economist.com</Email>
+  </student>
+  <student>
+    <CNE>26</CNE>
+    <LastName>Keeley</LastName>
+    <FirstName>Janz</FirstName>
+    <DateofBirth>15/11/1999</DateofBirth>
+    <Phone>765 494 8282</Phone>
+    <Email>kjanzp@artisteer.com</Email>
+  </student>
+  <student>
+    <CNE>27</CNE>
+    <LastName>Jessa</LastName>
+    <FirstName>Mamwell</FirstName>
+    <DateofBirth>20/05/1997</DateofBirth>
+    <Phone>607 915 1166</Phone>
+    <Email>jmamwellq@skyrock.com</Email>
+  </student>
+  <student>
+    <CNE>28</CNE>
+    <LastName>Raimondo</LastName>
+    <FirstName>Blomfield</FirstName>
+    <DateofBirth>06/10/1998</DateofBirth>
+    <Phone>715 147 9054</Phone>
+    <Email>rblomfieldr@ft.com</Email>
+  </student>
+  <student>
+    <CNE>29</CNE>
+    <LastName>Eustacia</LastName>
+    <FirstName>Yakunin</FirstName>
+    <DateofBirth>12/08/2000</DateofBirth>
+    <Phone>416 160 6256</Phone>
+    <Email>eyakunins@homestead.com</Email>
+  </student>
+  <student>
+    <CNE>30</CNE>
+    <LastName>Evania</LastName>
+    <FirstName>Kerford</FirstName>
+    <DateofBirth>15/11/1997</DateofBirth>
+    <Phone>720 432 6122</Phone>
+    <Email>ekerfordt@ameblo.jp</Email>
+  </student>
+  <student>
+    <CNE>31</CNE>
+    <LastName>Malcolm</LastName>
+    <FirstName>Domnin</FirstName>
+    <DateofBirth>12/11/1999</DateofBirth>
+    <Phone>302 439 9148</Phone>
+    <Email>mdomninu@e-recht24.de</Email>
+  </student>
+  <student>
+    <CNE>32</CNE>
+    <LastName>Chastity</LastName>
+    <FirstName>Kidney</FirstName>
+    <DateofBirth>17/08/2000</DateofBirth>
+    <Phone>377 914 4062</Phone>
+    <Email>ckidneyv@comsenz.com</Email>
+  </student>
+  <student>
+    <CNE>33</CNE>
+    <LastName>Mellie</LastName>
+    <FirstName>Minithorpe</FirstName>
+    <DateofBirth>02/04/2000</DateofBirth>
+    <Phone>993 193 0699</Phone>
+    <Email>mminithorpew@skyrock.com</Email>
+  </student>
+  <student>
+    <CNE>34</CNE>
+    <LastName>Northrup</LastName>
+    <FirstName>Bonsall</FirstName>
+    <DateofBirth>01/05/2000</DateofBirth>
+    <Phone>384 161 3756</Phone>
+    <Email>nbonsallx@domainmarket.com</Email>
+  </student>
+  <student>
+    <CNE>35</CNE>
+    <LastName>Harry</LastName>
+    <FirstName>Davidofski</FirstName>
+    <DateofBirth>17/12/1998</DateofBirth>
+    <Phone>489 629 0657</Phone>
+    <Email>hdavidofskiy@apple.com</Email>
+  </student>
+  <student>
+    <CNE>36</CNE>
+    <LastName>Kliment</LastName>
+    <FirstName>Prewer</FirstName>
+    <DateofBirth>23/07/1996</DateofBirth>
+    <Phone>160 783 6494</Phone>
+    <Email>kprewerz@japanpost.jp</Email>
+  </student>
+  <student>
+    <CNE>37</CNE>
+    <LastName>Meredeth</LastName>
+    <FirstName>Gillan</FirstName>
+    <DateofBirth>09/08/2000</DateofBirth>
+    <Phone>939 851 2020</Phone>
+    <Email>mgillan10@netlog.com</Email>
+  </student>
+  <student>
+    <CNE>38</CNE>
+    <LastName>Bendite</LastName>
+    <FirstName>Ianne</FirstName>
+    <DateofBirth>06/01/1996</DateofBirth>
+    <Phone>902 715 4639</Phone>
+    <Email>bianne11@friendfeed.com</Email>
+  </student>
+  <student>
+    <CNE>39</CNE>
+    <LastName>Blake</LastName>
+    <FirstName>Comerford</FirstName>
+    <DateofBirth>28/04/1999</DateofBirth>
+    <Phone>148 188 3125</Phone>
+    <Email>bcomerford12@smugmug.com</Email>
+  </student>
+  <student>
+    <CNE>40</CNE>
+    <LastName>Alexia</LastName>
+    <FirstName>Stegers</FirstName>
+    <DateofBirth>03/02/1998</DateofBirth>
+    <Phone>310 923 6134</Phone>
+    <Email>astegers13@buzzfeed.com</Email>
+  </student>
+  <student>
+    <CNE>41</CNE>
+    <LastName>Pierre</LastName>
+    <FirstName>Pinsent</FirstName>
+    <DateofBirth>24/06/1999</DateofBirth>
+    <Phone>314 187 9478</Phone>
+    <Email>ppinsent14@geocities.jp</Email>
+  </student>
+  <student>
+    <CNE>42</CNE>
+    <LastName>Tommie</LastName>
+    <FirstName>Towne</FirstName>
+    <DateofBirth>19/11/2000</DateofBirth>
+    <Phone>688 500 7276</Phone>
+    <Email>ttowne15@latimes.com</Email>
+  </student>
+  <student>
+    <CNE>43</CNE>
+    <LastName>Odo</LastName>
+    <FirstName>Haworth</FirstName>
+    <DateofBirth>20/11/1998</DateofBirth>
+    <Phone>283 567 8525</Phone>
+    <Email>ohaworth16@ucla.edu</Email>
+  </student>
+  <student>
+    <CNE>44</CNE>
+    <LastName>Mal</LastName>
+    <FirstName>Fellgate</FirstName>
+    <DateofBirth>29/01/1998</DateofBirth>
+    <Phone>218 287 4627</Phone>
+    <Email>mfellgate17@w3.org</Email>
+  </student>
+  <student>
+    <CNE>45</CNE>
+    <LastName>Ofelia</LastName>
+    <FirstName>Charlot</FirstName>
+    <DateofBirth>23/08/1998</DateofBirth>
+    <Phone>330 800 7154</Phone>
+    <Email>ocharlot18@msu.edu</Email>
+  </student>
+  <student>
+    <CNE>46</CNE>
+    <LastName>Shalne</LastName>
+    <FirstName>Charville</FirstName>
+    <DateofBirth>03/12/1997</DateofBirth>
+    <Phone>789 325 6912</Phone>
+    <Email>scharville19@ehow.com</Email>
+  </student>
+</students>
