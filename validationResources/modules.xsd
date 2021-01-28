@@ -8,7 +8,7 @@ elementFormDefault="qualified">
       <xs:element name="module" maxOccurs="12">
        <xs:complexType>
         <xs:sequence>
-          <xs:element name="ModulName" type="xs:string"/>
+          <xs:element name="Code" type="xs:string"/>
           <xs:element name="ModuleName" type="xs:string"/>
           <xs:element name="chefModule" type="xs:string"/>
           <xs:element name="ElementName" type="xs:date" maxOccurs="2" minOccurs="1"/>
