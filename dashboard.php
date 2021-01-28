@@ -11,7 +11,7 @@
       <div class="list-group">
   
               <a href="resultat.php" class="list-group-item list-group-item-action list-group-item-primary">Consulter les résultats du modules programmation orientée objet & XML</a>
-              <a href="#" class="list-group-item list-group-item-action list-group-item-secondary">Générer les cartes d'étudiant</a>
+              <a href="pdf.php" class="list-group-item list-group-item-action list-group-item-secondary">Générer les cartes d'étudiant</a>
               <a href="#" class="list-group-item list-group-item-action list-group-item-success">Générer des emploi du temps</a>
               <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Générer les relever de notes des étudiants de GINF2</a>
               <a href="#" class="list-group-item list-group-item-action list-group-item-warning">Générer le procès verbal de la filière GINF2</a>

@@ -1,0 +1,41 @@
+<?xml version='1.0' ?>
+<fo:root xmlns:b="http://businesscard.org" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<fo:layout-master-set>
+<fo:simple-page-master master-name="simple" page-height="5.5cm" page-width="8.6cm" margin-top="0.1cm" margin-bottom="0.3cm" margin-left="0.3cm" margin-right="0.1cm">
+<fo:region-body/>
+</fo:simple-page-master>
+</fo:layout-master-set>
+<fo:page-sequence master-reference="simple">
+<fo:flow flow-name="xsl-region-body">
+<fo:table>
+<fo:table-column column-width="8cm"/>
+<fo:table-column column-width="0.5cm"/>
+<fo:table-column column-width="2.5cm"/>
+<fo:table-body>
+<fo:table-row>
+<fo:table-cell>
+<fo:block font-size="1cm"  padding-top="0.1cm">
+    <fo:external-graphic src="url(../img/entete2.PNG)" content-width="8cm" content-height="1.2cm"/>
+</fo:block>
+<fo:block font-size="14pt" font-family="sans-serif" text-align="center" line-height="16pt" padding-top="0.3cm" content-width="8cm">
+  CARTE D'ETUDIANT
+</fo:block>
+<fo:block padding-top="0.5cm">
+ <fo:external-graphic src="url(../img/moi.jpeg)" content-width="1.5cm" content-height="2cm"/>
+</fo:block>
+<fo:block font-size="14pt" font-family="sans-serif" line-height="16pt" padding-top="7pt">
+(212)-0661616161
+</fo:block>
+</fo:table-cell>
+<fo:table-cell/>
+<fo:table-cell>
+<fo:block>
+<fo:external-graphic src="url(lachkar_ensaf.jpg)" content-width="2.5cm"/>
+</fo:block>
+</fo:table-cell>
+</fo:table-row>
+</fo:table-body>
+</fo:table>
+</fo:flow>
+</fo:page-sequence>
+</fo:root>
