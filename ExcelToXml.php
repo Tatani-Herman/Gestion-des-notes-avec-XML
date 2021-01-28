@@ -13,13 +13,13 @@ class ExcelToXml
     public function Excel2Xml($class,$categorie)
     {
     $objReader = IOFactory::createReader('Xlsx');
-        if ($categorie=="professeurs") {
-            $file="resources/".$categorie.".xlsx";
+        if ($categorie=="professeur") {
+            $file="resources/".$categorie."s.xlsx";
             $class="professeurs";
             $categorie="professeur";
         }
         else{
-            $file="resources/".$class."/".$categorie.".xlsx";
+            $file="resources/".$class."/".$categorie."s.xlsx";
         }
         
         $objPHPExcel = $objReader->load($file);
@@ -55,17 +55,17 @@ class ExcelToXml
 
         }
         
-        $xml = $this->array2xml($data, $class,$categorie,false);
+        $xml = $this->array2xml($data,$categorie,false);
         return $xml;
 
     }
 
-    private function array2xml($array,$root,$categorie,$xml = false){
+    private function array2xml($array,$categorie,$xml = false){
 
         
         
         if($xml === false){
-            $base='<'.$root.'/>';
+            $base='<'.$categorie.'s/>';
             $xml = new SimpleXMLElement($base);
         }
         foreach($array as $key => $value){
@@ -73,14 +73,14 @@ class ExcelToXml
                 if( is_numeric($key) ){
                     $key = $categorie; 
                 }
-                $this->array2xml($value,$key,$categorie,$xml->addChild($key));
+                $this->array2xml($value,$categorie,$xml->addChild($key));
             } else {
                
                     if($value){
                         if(preg_match("#^Note#", $key))
                         {
                             $attribute=substr($key,5);
-                            $key="note";
+                            $key="matiere";
                             $tag=$xml->addChild($key, htmlspecialchars($value));
                             $tag->addAttribute('codeMat', $attribute);
                         }

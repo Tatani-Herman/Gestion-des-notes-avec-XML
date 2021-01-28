@@ -10,10 +10,10 @@
 
 require_once "ExcelToXml.php";
 $array=array(
-    "GINF2"=>"students",
-    "professeurs"=>"professeurs",
-    "GINF2"=>"notes",
-    "GINF2"=>"modules"
+    "GINF2"=>"student",
+    "professeurs"=>"professeur",
+    "GINF2"=>"note",
+  
 
 );
 
@@ -29,12 +29,12 @@ foreach ($array as $key => $value) {
     $dom->formatOutput = true;
     $dom->loadXML($xml);
 
-    $ginf2 = $dom->getElementsByTagName($class)->item(0);
+    $ginf2 = $dom->getElementsByTagName($categorie.'s')->item(0);
 
-    $dom->insertBefore($imp->createDocumentType($categorie, 
+    $dom->insertBefore($imp->createDocumentType($categorie.'s', 
     null, 
-    $categorie.'.dtd'),$ginf2);
-    $dom->save("xmlResources/".$categorie."_".$class.".xml");
+    $categorie.'s.dtd'),$ginf2);
+    $dom->save("xmlResources/".$categorie."s_".$class.".xml");
 
 }
 /*
