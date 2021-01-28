@@ -16,7 +16,7 @@
     <!--header area start-->
     <header>
   
-      <nav class="navbar navbar-dark bg-dark">
+      <nav class="navbar navbar-dark bg-dark ">
       <div class="left_area">
         <h3>ENSA <span>Tanger</span></h3>
       </div>

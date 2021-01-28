@@ -5,7 +5,7 @@
     <CNE>1</CNE>
     <LastName>Achabar</LastName>
     <FirstName>Adnane</FirstName>
-    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF31">12</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
   </note>
@@ -13,7 +13,7 @@
     <CNE>2</CNE>
     <LastName>Adraoui</LastName>
     <FirstName>Khaoula</FirstName>
-    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF31">12</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
   </note>
@@ -21,7 +21,7 @@
     <CNE>3</CNE>
     <LastName>Aissa</LastName>
     <FirstName>Maria</FirstName>
-    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF31">13.2</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
   </note>
@@ -29,7 +29,7 @@
     <CNE>4</CNE>
     <LastName>Ahmadoun</LastName>
     <FirstName>Mohamed</FirstName>
-    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF31">9</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
   </note>
@@ -37,7 +37,7 @@
     <CNE>5</CNE>
     <LastName>Ameziane </LastName>
     <FirstName>Chaimae</FirstName>
-    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF31">8</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
   </note>
@@ -45,7 +45,7 @@
     <CNE>6</CNE>
     <LastName>Aymane</LastName>
     <FirstName>Dabdoubi</FirstName>
-    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF31">12</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
   </note>
