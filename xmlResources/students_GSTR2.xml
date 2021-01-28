@@ -1,0 +1,372 @@
+<?xml version="1.0"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+<students>
+  <student>
+    <CNE>1</CNE>
+    <LastName>Trefor</LastName>
+    <FirstName>Puttick</FirstName>
+    <DateofBirth>09/02/1996</DateofBirth>
+    <Phone>204 140 3882</Phone>
+    <Email>tputtick0@nsw.gov.au</Email>
+  </student>
+  <student>
+    <CNE>2</CNE>
+    <LastName>Moss</LastName>
+    <FirstName>Southgate</FirstName>
+    <DateofBirth>18/08/1996</DateofBirth>
+    <Phone>303 321 9950</Phone>
+    <Email>msouthgate1@blogtalkradio.com</Email>
+  </student>
+  <student>
+    <CNE>3</CNE>
+    <LastName>Karlene</LastName>
+    <FirstName>Benedek</FirstName>
+    <DateofBirth>25/10/1999</DateofBirth>
+    <Phone>456 700 9841</Phone>
+    <Email>kbenedek2@naver.com</Email>
+  </student>
+  <student>
+    <CNE>4</CNE>
+    <LastName>Ulrick</LastName>
+    <FirstName>Dobbs</FirstName>
+    <DateofBirth>23/04/1996</DateofBirth>
+    <Phone>724 919 2215</Phone>
+    <Email>udobbs3@archive.org</Email>
+  </student>
+  <student>
+    <CNE>5</CNE>
+    <LastName>Vernor</LastName>
+    <FirstName>Witcombe</FirstName>
+    <DateofBirth>06/08/1995</DateofBirth>
+    <Phone>709 670 5812</Phone>
+    <Email>vwitcombe4@apache.org</Email>
+  </student>
+  <student>
+    <CNE>6</CNE>
+    <LastName>Sonnnie</LastName>
+    <FirstName>Tiplady</FirstName>
+    <DateofBirth>06/06/1999</DateofBirth>
+    <Phone>112 233 5711</Phone>
+    <Email>stiplady5@cbsnews.com</Email>
+  </student>
+  <student>
+    <CNE>7</CNE>
+    <LastName>Flem</LastName>
+    <FirstName>Carley</FirstName>
+    <DateofBirth>16/04/1997</DateofBirth>
+    <Phone>510 366 3097</Phone>
+    <Email>fcarley6@loc.gov</Email>
+  </student>
+  <student>
+    <CNE>8</CNE>
+    <LastName>Worth</LastName>
+    <FirstName>Dougary</FirstName>
+    <DateofBirth>09/07/1999</DateofBirth>
+    <Phone>947 892 8483</Phone>
+    <Email>wdougary7@tiny.cc</Email>
+  </student>
+  <student>
+    <CNE>9</CNE>
+    <LastName>Nadiya</LastName>
+    <FirstName>MacAless</FirstName>
+    <DateofBirth>24/06/1995</DateofBirth>
+    <Phone>765 446 6570</Phone>
+    <Email>nmacaless8@friendfeed.com</Email>
+  </student>
+  <student>
+    <CNE>10</CNE>
+    <LastName>Perrine</LastName>
+    <FirstName>Mashal</FirstName>
+    <DateofBirth>03/08/2000</DateofBirth>
+    <Phone>149 223 3647</Phone>
+    <Email>pmashal9@purevolume.com</Email>
+  </student>
+  <student>
+    <CNE>11</CNE>
+    <LastName>Alexa</LastName>
+    <FirstName>Ingray</FirstName>
+    <DateofBirth>19/03/1998</DateofBirth>
+    <Phone>543 792 7992</Phone>
+    <Email>aingraya@pinterest.com</Email>
+  </student>
+  <student>
+    <CNE>12</CNE>
+    <LastName>Ricardo</LastName>
+    <FirstName>Lomb</FirstName>
+    <DateofBirth>12/03/1997</DateofBirth>
+    <Phone>650 403 8605</Phone>
+    <Email>rlombb@house.gov</Email>
+  </student>
+  <student>
+    <CNE>13</CNE>
+    <LastName>Nissy</LastName>
+    <FirstName>Hullot</FirstName>
+    <DateofBirth>25/05/1998</DateofBirth>
+    <Phone>439 276 4161</Phone>
+    <Email>nhullotc@tinypic.com</Email>
+  </student>
+  <student>
+    <CNE>14</CNE>
+    <LastName>Lynnea</LastName>
+    <FirstName>Monte</FirstName>
+    <DateofBirth>09/08/2000</DateofBirth>
+    <Phone>569 597 5807</Phone>
+    <Email>lmonted@forbes.com</Email>
+  </student>
+  <student>
+    <CNE>15</CNE>
+    <LastName>Kevon</LastName>
+    <FirstName>Roper</FirstName>
+    <DateofBirth>04/06/1998</DateofBirth>
+    <Phone>805 621 7905</Phone>
+    <Email>kropere@hao123.com</Email>
+  </student>
+  <student>
+    <CNE>16</CNE>
+    <LastName>Nina</LastName>
+    <FirstName>Nissle</FirstName>
+    <DateofBirth>08/10/1998</DateofBirth>
+    <Phone>868 779 4537</Phone>
+    <Email>nnisslef@guardian.co.uk</Email>
+  </student>
+  <student>
+    <CNE>17</CNE>
+    <LastName>Courtney</LastName>
+    <FirstName>Killoran</FirstName>
+    <DateofBirth>18/11/1997</DateofBirth>
+    <Phone>847 273 6553</Phone>
+    <Email>ckillorang@mtv.com</Email>
+  </student>
+  <student>
+    <CNE>18</CNE>
+    <LastName>Ilyssa</LastName>
+    <FirstName>Fitzroy</FirstName>
+    <DateofBirth>21/02/1995</DateofBirth>
+    <Phone>441 160 4677</Phone>
+    <Email>ifitzroyh@sfgate.com</Email>
+  </student>
+  <student>
+    <CNE>19</CNE>
+    <LastName>Bari</LastName>
+    <FirstName>Ginnell</FirstName>
+    <DateofBirth>16/11/1998</DateofBirth>
+    <Phone>377 994 0501</Phone>
+    <Email>bginnelli@loc.gov</Email>
+  </student>
+  <student>
+    <CNE>20</CNE>
+    <LastName>Elisa</LastName>
+    <FirstName>Bountiff</FirstName>
+    <DateofBirth>13/08/2000</DateofBirth>
+    <Phone>125 569 5677</Phone>
+    <Email>ebountiffj@reuters.com</Email>
+  </student>
+  <student>
+    <CNE>21</CNE>
+    <LastName>Dyann</LastName>
+    <FirstName>Alden</FirstName>
+    <DateofBirth>09/12/1997</DateofBirth>
+    <Phone>563 738 3481</Phone>
+    <Email>daldenk@addthis.com</Email>
+  </student>
+  <student>
+    <CNE>22</CNE>
+    <LastName>Friedrich</LastName>
+    <FirstName>Dessant</FirstName>
+    <DateofBirth>15/02/1999</DateofBirth>
+    <Phone>257 104 5561</Phone>
+    <Email>fdessantl@devhub.com</Email>
+  </student>
+  <student>
+    <CNE>23</CNE>
+    <LastName>Ulrick</LastName>
+    <FirstName>Hollebon</FirstName>
+    <DateofBirth>24/02/1995</DateofBirth>
+    <Phone>646 751 3368</Phone>
+    <Email>uhollebonm@abc.net.au</Email>
+  </student>
+  <student>
+    <CNE>24</CNE>
+    <LastName>West</LastName>
+    <FirstName>Paddison</FirstName>
+    <DateofBirth>10/10/1995</DateofBirth>
+    <Phone>959 485 6259</Phone>
+    <Email>wpaddisonn@google.com.au</Email>
+  </student>
+  <student>
+    <CNE>25</CNE>
+    <LastName>Dugald</LastName>
+    <FirstName>Sainsbury</FirstName>
+    <DateofBirth>25/03/1997</DateofBirth>
+    <Phone>195 439 2027</Phone>
+    <Email>dsainsburyo@blogger.com</Email>
+  </student>
+  <student>
+    <CNE>26</CNE>
+    <LastName>Bevan</LastName>
+    <FirstName>Curnock</FirstName>
+    <DateofBirth>03/02/1999</DateofBirth>
+    <Phone>711 561 2405</Phone>
+    <Email>bcurnockp@princeton.edu</Email>
+  </student>
+  <student>
+    <CNE>27</CNE>
+    <LastName>Thornton</LastName>
+    <FirstName>Kenforth</FirstName>
+    <DateofBirth>21/12/2000</DateofBirth>
+    <Phone>980 116 6534</Phone>
+    <Email>tkenforthq@sphinn.com</Email>
+  </student>
+  <student>
+    <CNE>28</CNE>
+    <LastName>Dwayne</LastName>
+    <FirstName>Barck</FirstName>
+    <DateofBirth>30/05/1996</DateofBirth>
+    <Phone>826 882 0141</Phone>
+    <Email>dbarckr@bravesites.com</Email>
+  </student>
+  <student>
+    <CNE>29</CNE>
+    <LastName>Jen</LastName>
+    <FirstName>Leak</FirstName>
+    <DateofBirth>02/05/1997</DateofBirth>
+    <Phone>285 984 8145</Phone>
+    <Email>jleaks@ucoz.com</Email>
+  </student>
+  <student>
+    <CNE>30</CNE>
+    <LastName>Hadley</LastName>
+    <FirstName>Burrell</FirstName>
+    <DateofBirth>05/02/1998</DateofBirth>
+    <Phone>882 196 5856</Phone>
+    <Email>hburrellt@linkedin.com</Email>
+  </student>
+  <student>
+    <CNE>31</CNE>
+    <LastName>Alaster</LastName>
+    <FirstName>Rutter</FirstName>
+    <DateofBirth>15/11/1999</DateofBirth>
+    <Phone>636 542 9377</Phone>
+    <Email>arutteru@exblog.jp</Email>
+  </student>
+  <student>
+    <CNE>32</CNE>
+    <LastName>Beauregard</LastName>
+    <FirstName>Cyphus</FirstName>
+    <DateofBirth>22/04/1998</DateofBirth>
+    <Phone>858 676 0100</Phone>
+    <Email>bcyphusv@a8.net</Email>
+  </student>
+  <student>
+    <CNE>33</CNE>
+    <LastName>Shamus</LastName>
+    <FirstName>Moyers</FirstName>
+    <DateofBirth>02/01/1997</DateofBirth>
+    <Phone>422 593 0101</Phone>
+    <Email>smoyersw@stanford.edu</Email>
+  </student>
+  <student>
+    <CNE>34</CNE>
+    <LastName>Flory</LastName>
+    <FirstName>Sparey</FirstName>
+    <DateofBirth>11/07/1998</DateofBirth>
+    <Phone>592 239 0942</Phone>
+    <Email>fspareyx@miitbeian.gov.cn</Email>
+  </student>
+  <student>
+    <CNE>35</CNE>
+    <LastName>Sharl</LastName>
+    <FirstName>Bartels</FirstName>
+    <DateofBirth>03/08/1997</DateofBirth>
+    <Phone>495 752 9739</Phone>
+    <Email>sbartelsy@spiegel.de</Email>
+  </student>
+  <student>
+    <CNE>36</CNE>
+    <LastName>Victoria</LastName>
+    <FirstName>Spilling</FirstName>
+    <DateofBirth>25/03/1996</DateofBirth>
+    <Phone>105 221 4305</Phone>
+    <Email>vspillingz@usgs.gov</Email>
+  </student>
+  <student>
+    <CNE>37</CNE>
+    <LastName>Jarvis</LastName>
+    <FirstName>Orteu</FirstName>
+    <DateofBirth>22/11/1996</DateofBirth>
+    <Phone>337 104 9047</Phone>
+    <Email>jorteu10@yandex.ru</Email>
+  </student>
+  <student>
+    <CNE>38</CNE>
+    <LastName>Frederick</LastName>
+    <FirstName>Roiz</FirstName>
+    <DateofBirth>21/02/1999</DateofBirth>
+    <Phone>274 154 5646</Phone>
+    <Email>froiz11@typepad.com</Email>
+  </student>
+  <student>
+    <CNE>39</CNE>
+    <LastName>Elva</LastName>
+    <FirstName>Barribal</FirstName>
+    <DateofBirth>26/09/1999</DateofBirth>
+    <Phone>995 458 4794</Phone>
+    <Email>ebarribal12@elpais.com</Email>
+  </student>
+  <student>
+    <CNE>40</CNE>
+    <LastName>Evaleen</LastName>
+    <FirstName>Sonier</FirstName>
+    <DateofBirth>09/08/1997</DateofBirth>
+    <Phone>534 160 1404</Phone>
+    <Email>esonier13@ibm.com</Email>
+  </student>
+  <student>
+    <CNE>41</CNE>
+    <LastName>Kimberlee</LastName>
+    <FirstName>Humberstone</FirstName>
+    <DateofBirth>20/03/1999</DateofBirth>
+    <Phone>122 823 7443</Phone>
+    <Email>khumberstone14@netvibes.com</Email>
+  </student>
+  <student>
+    <CNE>42</CNE>
+    <LastName>Laurence</LastName>
+    <FirstName>Waddell</FirstName>
+    <DateofBirth>02/08/1997</DateofBirth>
+    <Phone>714 865 6106</Phone>
+    <Email>lwaddell15@stumbleupon.com</Email>
+  </student>
+  <student>
+    <CNE>43</CNE>
+    <LastName>Joel</LastName>
+    <FirstName>Macvey</FirstName>
+    <DateofBirth>14/12/1997</DateofBirth>
+    <Phone>233 252 6957</Phone>
+    <Email>jmacvey16@twitter.com</Email>
+  </student>
+  <student>
+    <CNE>44</CNE>
+    <LastName>Man</LastName>
+    <FirstName>Pallesen</FirstName>
+    <DateofBirth>30/08/1998</DateofBirth>
+    <Phone>340 103 7772</Phone>
+    <Email>mpallesen17@github.io</Email>
+  </student>
+  <student>
+    <CNE>45</CNE>
+    <LastName>Ailbert</LastName>
+    <FirstName>Argyle</FirstName>
+    <DateofBirth>19/10/1997</DateofBirth>
+    <Phone>713 887 5736</Phone>
+    <Email>aargyle18@xrea.com</Email>
+  </student>
+  <student>
+    <CNE>46</CNE>
+    <LastName>Trev</LastName>
+    <FirstName>Airy</FirstName>
+    <DateofBirth>07/06/2000</DateofBirth>
+    <Phone>895 251 9256</Phone>
+    <Email>tairy19@oaic.gov.au</Email>
+  </student>
+</students>
