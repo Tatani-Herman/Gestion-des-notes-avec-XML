@@ -30,7 +30,7 @@ header('Accept-Ranges: bytes');
 @readfile($file); 
 
 
-function forcerTelechargement($nom, $situation, $poids)
+/*function forcerTelechargement($nom, $situation, $poids)
 {
   header('Content-Type: application/octet-stream');
   header('Content-Length: '. $poids);
@@ -41,6 +41,6 @@ function forcerTelechargement($nom, $situation, $poids)
   readfile($situation);
   exit();
 }
-forcerTelechargement('carte.pdf', 'carte.pdf',filesize('carte.pdf'));
+forcerTelechargement('carte.pdf', 'carte.pdf',filesize('carte.pdf'));*/
 
 ?>
