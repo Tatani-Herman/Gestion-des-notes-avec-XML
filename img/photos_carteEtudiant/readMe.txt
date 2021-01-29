@@ -1,0 +1,1 @@
+Important : les photos ont pour nom le CNE  de l'élève et doivent posséder l'extension JPEG
