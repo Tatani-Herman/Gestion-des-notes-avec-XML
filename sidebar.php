@@ -8,6 +8,11 @@
     <link rel="icon" href="img/index.ico"/>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <script>
+        /*$('sidebar').click(function(){
+            $(this).addClass("active").siblings().removeClass("active");
+        });*/
+        </script>
   </head>
   <body>
   <div class="wrapper">
@@ -42,8 +47,4 @@
       <a href="#"><i class="far fa-user"></i><span>Profile</span></a>
       <a href="#"><i class="fas fa-info-circle"></i><span>About</span></a>
     </div>
-    <script>
-        $('sidebar').click(function(){
-            $(this).addClass("active").siblings().removeClass("active");
-        });
-        </script>
+    

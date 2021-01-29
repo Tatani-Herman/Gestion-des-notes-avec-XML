@@ -1,46 +1,60 @@
 <?php
-/*require("HTTPPost.php");
+require("HTTPPost.php");
 
-// input xml data
-$xml2=simplexml_load_file ("xmlResources/carte.xml");
-// make request to FOP server
-$httppost=new HTTPPost();
-$pdfdata=$httppost->post_request("localhost","8087","C:\xampp\htdocs\Gestion-des-notes-avec-XML\xsl_foFiles\carte.fo",$xml2);
-
-// save PDF output to a PDF file
-$myFile = "testFile.pdf";
-$fh = fopen($myFile, 'w') or die("can't open file");
-fwrite($fh, $pdfdata);
-fclose($fh);*/
-
-
-// Stocker le nom du fichier dans une variable
-$file = 'carte.pdf'; 
-    
-// Type de contenu dd l'en-tête
-header('Content-type: application/pdf'); 
-  
-header('Content-Disposition: inline; filename="' . $file . '"'); 
-  
-header('Content-Transfer-Encoding: binary'); 
-  
-header('Accept-Ranges: bytes'); 
-  
-// Lire le fichier
-@readfile($file); 
-
-
-/*function forcerTelechargement($nom, $situation, $poids)
+if(isset($_GET['class'])&& isset($_GET['cne']))
 {
-  header('Content-Type: application/octet-stream');
-  header('Content-Length: '. $poids);
-  header('Content-disposition: attachment; filename='. $nom);
-  header('Pragma: no-cache');
-  header('Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0');
-  header('Expires: 0');
-  readfile($situation);
-  exit();
-}
-forcerTelechargement('carte.pdf', 'carte.pdf',filesize('carte.pdf'));*/
+    $doc = new DOMDocument();
+    $doc->load('xmlResources/students_'.$_GET['class'].'.xml');
+    $xpath = new DOMXPath($doc);
+    $query="//students/student[CNE=".$_GET['cne']."]";
+    $entries = $xpath->query($query);
 
+   $output = '';
+   $i=0;
+   $result= new DOMDocument;
+   while ( $node = $entries->item($i) ) {
+       // import node
+       $domNode = $result->importNode($node, true);
+       // append node
+       $result->appendChild($domNode);
+       $i++;
+   }
+
+  $studentXml=$result->saveXML();
+   /* studentXml Contient un xml de la forme :
+        <?xml version="1.0"?>
+    <student>
+    <firstname>TATANI BOUTCHUENG</firstname>
+    <lastname>HERMAN JOEL</lastname>
+    <CNE>17008402</CNE>
+    </student>
+  */
+  $httppost=new HTTPPost();
+  $pdfdata=$httppost->post_request("localhost","8087","C://wamp/www/Gestion-des-notes-avec-XML/xsl-foFiles/cartePrime.fo",$studentXml);
+  
+
+    // save PDF output to a PDF file
+    $myFile = $_GET['class']."_".$_GET['cne'].".pdf";
+    $fh = fopen($myFile, 'w') or die("can't open file");
+    fwrite($fh, $pdfdata);
+    fclose($fh);
+   //Display PDF
+    header('Content-type: application/pdf'); 
+  
+    header('Content-Disposition: inline; filename="' . $myFile . '"'); 
+      
+    header('Content-Transfer-Encoding: binary'); 
+      
+    header('Accept-Ranges: bytes'); 
+      
+    // Read the file 
+    @readfile($myFile); 
+    //DELETE PDF
+    unlink($myFile);
+
+    }
+else{
+    //redirect to dashboard
+    header('Location:/dashboard.php');
+}
 ?>

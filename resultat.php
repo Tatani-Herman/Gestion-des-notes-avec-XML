@@ -12,7 +12,7 @@
     <option value="2">Après rattrapage</option>
   </select>
   <div class="input-group-append">
-    <input type="submit" class="btn btn-outline-secondary" type="button" name="OK"></button>
+    <input type="submit" class="btn btn-outline-secondary" name="OK">
   </div>
 </div>
 </form>
