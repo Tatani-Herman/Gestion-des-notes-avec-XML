@@ -11,7 +11,7 @@ $xml=$xml . " <status>A</status> </person></department></departments>";
 $xml2=simplexml_load_file ("xmlResources/carte.xml");
 // make request to FOP server
 $httppost=new HTTPPost();
-$pdfdata=$httppost->post_request("localhost","80","xsl_foFiles/carte.fo",$xml2);
+$pdfdata=$httppost->post_request("localhost","80","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/carte.fo",$xml2);
 
 // save PDF output to a PDF file
 $myFile = "testFile.pdf";

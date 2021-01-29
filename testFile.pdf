@@ -1,11 +1,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
-<title>Error 500 xsl_foFiles\carte.fo (Le chemin d?accès spécifié est introuvable)</title>
+<title>Error 500 Premature end of file.</title>
 </head>
 <body><h2>HTTP ERROR 500</h2>
 <p>Problem accessing /J4LFOPServer/servlet. Reason:
-<pre>    xsl_foFiles\carte.fo (Le chemin d?accès spécifié est introuvable)</pre></p><h3>Caused by:</h3><pre>javax.servlet.ServletException: xsl_foFiles\carte.fo (Le chemin d?accès spécifié est introuvable)
+<pre>    Premature end of file.</pre></p><h3>Caused by:</h3><pre>javax.servlet.ServletException: Premature end of file.
 	at com.java4less.xreport.fop.FOPServer.doPost(FOPServer.java:386)
 	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
 	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
