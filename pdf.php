@@ -8,10 +8,10 @@ $xml=$xml . "</person> <person> <name>Mark Mayer</name> <address>Blue street 5</
 $xml=$xml . "<address>Black street 8</address> <status>I</status> </person></department><department> <departmentName>Sales</departmentName> <person> ";
 $xml=$xml . "<name>Juan Gomez</name> <address>Green street 3</address> <status>A</status> </person> <person> <name>Juliet Bones</name> <address>White street 5</address> ";
 $xml=$xml . " <status>A</status> </person></department></departments>";
-
+$xml2=simplexml_load_file ("xmlResources/carte.xml");
 // make request to FOP server
 $httppost=new HTTPPost();
-$pdfdata=$httppost->post_request("localhost","80","../xsl-fofiles/carte.fo",'');
+$pdfdata=$httppost->post_request("localhost","80","xsl_foFiles/carte.fo",$xml2);
 
 // save PDF output to a PDF file
 $myFile = "testFile.pdf";
