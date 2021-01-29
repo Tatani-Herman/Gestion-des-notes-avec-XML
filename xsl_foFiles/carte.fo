@@ -12,7 +12,7 @@ page-height="5.5cm" master-name="simpleA8">
 <fo:page-sequence master-reference="simpleA8" >
 <fo:flow flow-name="xsl-region-body">
 <fo:block  padding-top="0.1cm" space-after="0.1cm" margin-right="0.1cm" margin-left="0.1cm">
-    <fo:external-graphic src="url(C:\xampp\htdocs\Gestion-des-notes-avec-XML\xsl_foFiles\entete2.PNG)"  content-height="1.4cm" content-width="8cm"/>
+    <fo:external-graphic src="url(C:\xampp\htdocs\Gestion-des-notes-avec-XML\img\entete2.PNG)"  content-height="1.4cm" content-width="8cm"/>
 </fo:block>
 <fo:block font-size="8pt" font-weight="bold" color="steelblue" space-after="0.5cm" font-family="sans-serif" text-align="center" line-height="12pt" padding-top="0.001cm" content-width="8cm">
   CARTE D'ETUDIANT
@@ -26,7 +26,7 @@ page-height="5.5cm" master-name="simpleA8">
 <fo:table-row font-weight="bold" color="steelblue">
 <fo:table-cell>
 <fo:block>
-    <fo:external-graphic src="url(C:\xampp\htdocs\Gestion-des-notes-avec-XML\xsl_foFiles\moi.jpeg)" content-width="1.5cm" content-height="2cm"/>
+    <fo:external-graphic src="url(C:\xampp\htdocs\Gestion-des-notes-avec-XML\img\moi.jpeg)" content-width="1.5cm" content-height="2cm"/>
 </fo:block>
 </fo:table-cell>
 <fo:table-cell>
@@ -39,7 +39,7 @@ HERMAN JOEL
 </fo:table-cell>
 <fo:table-cell>
 <fo:block margin-left="1.9cm">
-  <fo:external-graphic src="url(C:\xampp\htdocs\Gestion-des-notes-avec-XML\xsl_foFiles\qr.png)" content-width="1.5cm" content-height="2cm"/>
+  <fo:external-graphic src="url(C:\xampp\htdocs\Gestion-des-notes-avec-XML\img\qr.png)" content-width="1.5cm" content-height="2cm"/>
 </fo:block>
 </fo:table-cell>
 </fo:table-row>
