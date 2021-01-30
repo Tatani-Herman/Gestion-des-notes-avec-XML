@@ -9,13 +9,13 @@
 
 
 require_once "ExcelToXml.php";
-$arrayClass=array("G3EI1","G3EI2","G3EI3","GIL1","GIL2","GIL3",
-"GINF1","GINF3","GSEA1","GSEA2","GSEA3","GSTR1","GSTR2","GSTR3");
+/*$arrayClass=array("G3EI1","G3EI2","G3EI3","GIL1","GIL2","GIL3",
+"GINF1","GINF3","GSEA1","GSEA2","GSEA3","GSTR1","GSTR2","GSTR3");*/
+$arrayClass=array("GINF2");
 $arrayCat=array(
     "student",
-    "professeur",
-    "note",
-    "notes_apr",
+    //"note",
+    //"notes_apr",
     "module"
 );
 
@@ -45,7 +45,6 @@ foreach ($arrayClass as $class) {
     else {
         $dom->save("xmlResources/".$categorie."s_".$class.".xml");
     }
-   // $dom->save("xmlResources/".$categorie."s_".$class.".xml");
 }
 }
 

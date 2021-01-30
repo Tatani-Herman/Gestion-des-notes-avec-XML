@@ -30,8 +30,8 @@ if(isset($_GET['class'])&& isset($_GET['cne']))
     </student>
   */
   $httppost=new HTTPPost();
-  $pdfdata=$httppost->post_request("localhost","8087","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/carte.fo",$studentXml);
-  
+  //$pdfdata=$httppost->post_request("localhost","8087","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/carteDynamiq.fo",$studentXml);
+  $pdfdata=$httppost->post_request("localhost","8087","C://wamp/www/Gestion-des-notes-avec-XML/xsl_foFiles/carteDynamiq.fo",$studentXml);
 
     // save PDF output to a PDF file
     $myFile = $_GET['class']."_".$_GET['cne'].".pdf";
