@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE modules SYSTEM "validationResources/modules.dtd">
+<modules>
+  <module>
+    <Code>GIL51</Code>
+  </module>
+  <module>
+    <Code>GIL52</Code>
+  </module>
+  <module>
+    <Code>GIL53</Code>
+  </module>
+  <module>
+    <Code>GIL54</Code>
+  </module>
+  <module>
+    <Code>GIL55</Code>
+  </module>
+  <module>
+    <Code>GIL54-2</Code>
+  </module>
+  <module>
+    <Code>GIL55-2</Code>
+  </module>
+</modules>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE modules SYSTEM "validationResources/modules.dtd">
+<modules>
+  <module>
+    <Code>GSEA31</Code>
+  </module>
+  <module>
+    <Code>GSEA32</Code>
+  </module>
+  <module>
+    <Code>GSEA33</Code>
+  </module>
+  <module>
+    <Code>GSEA34</Code>
+  </module>
+  <module>
+    <Code>GSEA35</Code>
+  </module>
+  <module>
+    <Code>GSEA36</Code>
+  </module>
+  <module>
+    <Code>GSEA41</Code>
+  </module>
+  <module>
+    <Code>GSEA42</Code>
+  </module>
+  <module>
+    <Code>GSEA43</Code>
+  </module>
+  <module>
+    <Code>GSEA44</Code>
+  </module>
+  <module>
+    <Code>GSEA45</Code>
+  </module>
+</modules>

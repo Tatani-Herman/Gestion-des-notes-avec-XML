@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE modules SYSTEM "validationResources/modules.dtd">
+<modules>
+  <module>
+    <Code>G3EI131</Code>
+  </module>
+  <module>
+    <Code>G3EI132</Code>
+  </module>
+  <module>
+    <Code>G3EI133</Code>
+  </module>
+  <module>
+    <Code>G3EI134</Code>
+  </module>
+  <module>
+    <Code>G3EI135</Code>
+  </module>
+  <module>
+    <Code>G3EI136</Code>
+  </module>
+  <module>
+    <Code>G3EI141</Code>
+  </module>
+  <module>
+    <Code>G3EI142</Code>
+  </module>
+  <module>
+    <Code>G3EI143</Code>
+  </module>
+  <module>
+    <Code>G3EI144</Code>
+  </module>
+  <module>
+    <Code>G3EI145</Code>
+  </module>
+</modules>

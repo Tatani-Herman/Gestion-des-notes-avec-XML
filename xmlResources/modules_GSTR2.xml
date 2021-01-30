@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE modules SYSTEM "validationResources/modules.dtd">
+<modules>
+  <module>
+    <Code>GSTR31</Code>
+  </module>
+  <module>
+    <Code>GSTR32</Code>
+  </module>
+  <module>
+    <Code>GSTR33</Code>
+  </module>
+  <module>
+    <Code>GSTR34</Code>
+  </module>
+  <module>
+    <Code>GSTR35</Code>
+  </module>
+  <module>
+    <Code>GSTR36</Code>
+  </module>
+  <module>
+    <Code>GSTR41</Code>
+  </module>
+  <module>
+    <Code>GSTR42</Code>
+  </module>
+  <module>
+    <Code>GSTR43</Code>
+  </module>
+  <module>
+    <Code>GSTR44</Code>
+  </module>
+  <module>
+    <Code>GSTR45</Code>
+  </module>
+</modules>

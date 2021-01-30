@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE modules SYSTEM "validationResources/modules.dtd">
+<modules>
+  <module>
+    <Code>GSEA51</Code>
+  </module>
+  <module>
+    <Code>GSEA52</Code>
+  </module>
+  <module>
+    <Code>GSEA53</Code>
+  </module>
+  <module>
+    <Code>GSEA54</Code>
+  </module>
+  <module>
+    <Code>GSEA55</Code>
+  </module>
+  <module>
+    <Code>GSEA54-2</Code>
+  </module>
+  <module>
+    <Code>GSEA55-2</Code>
+  </module>
+</modules>

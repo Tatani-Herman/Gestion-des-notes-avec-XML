@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE modules SYSTEM "validationResources/modules.dtd">
+<modules>
+  <module>
+    <Code>GSTR51</Code>
+  </module>
+  <module>
+    <Code>GSTR52</Code>
+  </module>
+  <module>
+    <Code>GSTR53</Code>
+  </module>
+  <module>
+    <Code>GSTR54</Code>
+  </module>
+  <module>
+    <Code>GSTR55</Code>
+  </module>
+  <module>
+    <Code>GSTR54-2</Code>
+  </module>
+  <module>
+    <Code>GSTR55-2</Code>
+  </module>
+</modules>

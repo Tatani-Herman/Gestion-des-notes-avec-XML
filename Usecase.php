@@ -10,13 +10,13 @@
 
 require_once "ExcelToXml.php";
 $arrayClass=array("G3EI1","G3EI2","G3EI3","GIL1","GIL2","GIL3",
-"GINF1","GINF2","GINF3","GSEA1","GSEA2","GSEA3","GSTR1","GSTR2","GSTR3");
+"GINF1","GINF3","GSEA1","GSEA2","GSEA3","GSTR1","GSTR2","GSTR3");
 $arrayCat=array(
     "student",
-   // "professeur",
-   // "note",
-  
-
+    "professeur",
+    "note",
+    "notes_apr",
+    "module"
 );
 
 $App=new ExcelToXml();
@@ -25,7 +25,7 @@ foreach ($arrayClass as $class) {
     foreach($arrayCat as $categorie)
     {
     $xml=$App->Excel2Xml($class,$categorie);
-    $dom = new DOMDocument("1.0");
+    $dom = new DOMDocument("1.0","utf-8");
     $imp = new DOMImplementation;
     $dom->preserveWhiteSpace = false;
     $dom->formatOutput = true;
@@ -35,8 +35,17 @@ foreach ($arrayClass as $class) {
 
     $dom->insertBefore($imp->createDocumentType($categorie.'s', 
     null, 
-    $categorie.'s.dtd'),$ginf2);
-    $dom->save("xmlResources/".$categorie."s_".$class.".xml");
+    'validationResources/'.$categorie.'s.dtd'),$ginf2);
+    if ($categorie=="notes_apr") {
+        $dom->save("xmlResources/notes_".$class."_apres.xml");
+    }
+    elseif ($categorie=="note") {
+        $dom->save("xmlResources/notes_".$class."_avant.xml");
+    }
+    else {
+        $dom->save("xmlResources/".$categorie."s_".$class.".xml");
+    }
+   // $dom->save("xmlResources/".$categorie."s_".$class.".xml");
 }
 }
 

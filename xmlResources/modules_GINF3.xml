@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE modules SYSTEM "validationResources/modules.dtd">
+<modules>
+  <module>
+    <Code>GINF51</Code>
+    <Name>Technologies Net et J2EE</Name>
+    <ChefModule>El Haddad</ChefModule>
+    <ElementName>Architecture J2EE</ElementName>
+    <ElementName> Prog Mobile Net</ElementName>
+  </module>
+  <module>
+    <Code>GINF52</Code>
+    <Name>IA Avanc&#xE9;e et Ing&#xE9;nierie de connaissance</Name>
+    <ChefModule>El Alami Hassoun</ChefModule>
+    <ElementName>IA Avanc&#xE9;e &amp; Web S&#xE9;mantique</ElementName>
+    <ElementName> Ing&#xE9;nierie de connaissances</ElementName>
+  </module>
+  <module>
+    <Code>GINF53</Code>
+    <Name>Syst&#xE8;mes d'information et BI</Name>
+    <ChefModule>Badir</ChefModule>
+    <ElementName>Datawarehouse</ElementName>
+    <ElementName> Dtatamining</ElementName>
+    <ElementName> BigData et Applications</ElementName>
+  </module>
+  <module>
+    <Code>GINF54</Code>
+    <Name>Qualit&#xE9; et r&#xE9;f&#xE9;rentiels logiciel</Name>
+    <ChefModule>Ezzine</ChefModule>
+    <ElementName>Conduite de projet logiciel</ElementName>
+    <ElementName> Qualit&#xE9; processus et produit</ElementName>
+    <ElementName> Normes et r&#xE9;f&#xE9;rentiels</ElementName>
+  </module>
+  <module>
+    <Code>GINF55</Code>
+    <Name>Test et fiabilit&#xE9; logiciels</Name>
+    <ChefModule>Rahali El Azzouzi</ChefModule>
+    <ElementName>AGL et m&#xE9;trologie logiciel</ElementName>
+    <ElementName> v&#xE9;rification et validation</ElementName>
+    <ElementName> fiabilit&#xE9; et suret&#xE9; de fonctionnement</ElementName>
+  </module>
+  <module>
+    <Code>GINF54-2</Code>
+    <Name>Management des SI</Name>
+    <ChefModule>Ezzine</ChefModule>
+    <ElementName>Gouvernance des SI</ElementName>
+    <ElementName> ERP &amp; CRM</ElementName>
+    <ElementName> Audit &amp; S&#xE9;curit&#xE9; des SI</ElementName>
+  </module>
+  <module>
+    <Code>GINF55-2</Code>
+    <Name>Web Services et applications</Name>
+    <ChefModule>Ben Achhab</ChefModule>
+    <ElementName>D&#xE9;v Web en .net</ElementName>
+    <ElementName> Webservices</ElementName>
+    <ElementName> E-commerce et applications</ElementName>
+  </module>
+</modules>

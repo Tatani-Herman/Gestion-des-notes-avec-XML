@@ -16,7 +16,6 @@ class ExcelToXml
         if ($categorie=="professeur") {
             $file="resources/".$categorie."s.xlsx";
             $class="professeurs";
-            $categorie="professeur";
         }
         else{
             $file="resources/".$class."/".$categorie."s.xlsx";
@@ -53,6 +52,9 @@ class ExcelToXml
             $data=$result;
             $index++;
 
+        }
+        if ($categorie=="notes_apr") {
+            $categorie="note";
         }
         
         $xml = $this->array2xml($data,$categorie,false);

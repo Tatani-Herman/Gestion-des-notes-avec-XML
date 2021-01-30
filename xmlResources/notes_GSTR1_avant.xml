@@ -1,0 +1,832 @@
+<?xml version="1.0"?>
+<!DOCTYPE notes SYSTEM "validationResources/notes.dtd">
+<notes>
+  <note>
+    <CNE>566</CNE>
+    <LastName>Kizzee</LastName>
+    <FirstName>Matonin</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>567</CNE>
+    <LastName>Gerianne</LastName>
+    <FirstName>Proudler</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>568</CNE>
+    <LastName>Gwen</LastName>
+    <FirstName>Summerlee</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>569</CNE>
+    <LastName>Mollee</LastName>
+    <FirstName>Fiddler</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>570</CNE>
+    <LastName>Bastian</LastName>
+    <FirstName>Keats</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>571</CNE>
+    <LastName>Desiri</LastName>
+    <FirstName>Wilbore</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>572</CNE>
+    <LastName>Hyacinthie</LastName>
+    <FirstName>Brister</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>573</CNE>
+    <LastName>Husein</LastName>
+    <FirstName>Ayer</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>574</CNE>
+    <LastName>Marcello</LastName>
+    <FirstName>Leggis</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>575</CNE>
+    <LastName>Hubert</LastName>
+    <FirstName>Dietsche</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>576</CNE>
+    <LastName>Hortensia</LastName>
+    <FirstName>Frain</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>577</CNE>
+    <LastName>Carine</LastName>
+    <FirstName>Greenless</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>578</CNE>
+    <LastName>Andie</LastName>
+    <FirstName>Funnell</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>579</CNE>
+    <LastName>Georgianne</LastName>
+    <FirstName>Ludlam</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>580</CNE>
+    <LastName>Raynor</LastName>
+    <FirstName>Germon</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>581</CNE>
+    <LastName>Valera</LastName>
+    <FirstName>Wilcocke</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>582</CNE>
+    <LastName>Raddie</LastName>
+    <FirstName>Dopson</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>583</CNE>
+    <LastName>Perceval</LastName>
+    <FirstName>Trevaskus</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>584</CNE>
+    <LastName>Mace</LastName>
+    <FirstName>McQuilliam</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>585</CNE>
+    <LastName>Joannes</LastName>
+    <FirstName>Dagon</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>586</CNE>
+    <LastName>Josefina</LastName>
+    <FirstName>Faughey</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>587</CNE>
+    <LastName>Enrique</LastName>
+    <FirstName>Brelsford</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>588</CNE>
+    <LastName>Fifi</LastName>
+    <FirstName>Provis</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>589</CNE>
+    <LastName>Donica</LastName>
+    <FirstName>Macey</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>590</CNE>
+    <LastName>Drew</LastName>
+    <FirstName>Sirmon</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>591</CNE>
+    <LastName>Lind</LastName>
+    <FirstName>Antosik</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>592</CNE>
+    <LastName>Robbin</LastName>
+    <FirstName>Smewin</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>593</CNE>
+    <LastName>Meta</LastName>
+    <FirstName>Spedding</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>594</CNE>
+    <LastName>Donica</LastName>
+    <FirstName>Jorgensen</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>595</CNE>
+    <LastName>Gonzales</LastName>
+    <FirstName>Deschelle</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>596</CNE>
+    <LastName>Lucie</LastName>
+    <FirstName>O'Dempsey</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>597</CNE>
+    <LastName>Della</LastName>
+    <FirstName>Fassbender</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>598</CNE>
+    <LastName>Jacquenette</LastName>
+    <FirstName>McClarence</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>599</CNE>
+    <LastName>Ase</LastName>
+    <FirstName>Murrie</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>600</CNE>
+    <LastName>Muire</LastName>
+    <FirstName>Kynsey</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>601</CNE>
+    <LastName>Tommie</LastName>
+    <FirstName>Nizard</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>602</CNE>
+    <LastName>Frants</LastName>
+    <FirstName>Lacrouts</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>603</CNE>
+    <LastName>Farly</LastName>
+    <FirstName>Uzelli</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>604</CNE>
+    <LastName>Rasia</LastName>
+    <FirstName>Mattityahou</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>605</CNE>
+    <LastName>Johann</LastName>
+    <FirstName>Gert</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>606</CNE>
+    <LastName>Thatch</LastName>
+    <FirstName>Bremeyer</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>607</CNE>
+    <LastName>Porty</LastName>
+    <FirstName>Jurick</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>608</CNE>
+    <LastName>Sayre</LastName>
+    <FirstName>Smyth</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>609</CNE>
+    <LastName>Kaye</LastName>
+    <FirstName>Enbury</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>610</CNE>
+    <LastName>Patrizius</LastName>
+    <FirstName>Dredge</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>611</CNE>
+    <LastName>Fee</LastName>
+    <FirstName>Knappett</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+</notes>

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<!DOCTYPE students SYSTEM "students.dtd">
+<!DOCTYPE students SYSTEM "validationResources/students.dtd">
 <students>
   <student>
-    <CNE>1</CNE>
+    <CNE>566</CNE>
     <LastName>Kizzee</LastName>
     <FirstName>Matonin</FirstName>
     <DateofBirth>27/01/2000</DateofBirth>
@@ -10,7 +10,7 @@
     <Email>kmatonin0@zimbio.com</Email>
   </student>
   <student>
-    <CNE>2</CNE>
+    <CNE>567</CNE>
     <LastName>Gerianne</LastName>
     <FirstName>Proudler</FirstName>
     <DateofBirth>29/01/2000</DateofBirth>
@@ -18,7 +18,7 @@
     <Email>gproudler1@symantec.com</Email>
   </student>
   <student>
-    <CNE>3</CNE>
+    <CNE>568</CNE>
     <LastName>Gwen</LastName>
     <FirstName>Summerlee</FirstName>
     <DateofBirth>21/07/2000</DateofBirth>
@@ -26,7 +26,7 @@
     <Email>gsummerlee2@webeden.co.uk</Email>
   </student>
   <student>
-    <CNE>4</CNE>
+    <CNE>569</CNE>
     <LastName>Mollee</LastName>
     <FirstName>Fiddler</FirstName>
     <DateofBirth>27/10/1999</DateofBirth>
@@ -34,7 +34,7 @@
     <Email>mfiddler3@spotify.com</Email>
   </student>
   <student>
-    <CNE>5</CNE>
+    <CNE>570</CNE>
     <LastName>Bastian</LastName>
     <FirstName>Keats</FirstName>
     <DateofBirth>22/09/1999</DateofBirth>
@@ -42,7 +42,7 @@
     <Email>bkeats4@mozilla.org</Email>
   </student>
   <student>
-    <CNE>6</CNE>
+    <CNE>571</CNE>
     <LastName>Desiri</LastName>
     <FirstName>Wilbore</FirstName>
     <DateofBirth>08/11/1995</DateofBirth>
@@ -50,7 +50,7 @@
     <Email>dwilbore5@instagram.com</Email>
   </student>
   <student>
-    <CNE>7</CNE>
+    <CNE>572</CNE>
     <LastName>Hyacinthie</LastName>
     <FirstName>Brister</FirstName>
     <DateofBirth>28/02/2000</DateofBirth>
@@ -58,7 +58,7 @@
     <Email>hbrister6@jigsy.com</Email>
   </student>
   <student>
-    <CNE>8</CNE>
+    <CNE>573</CNE>
     <LastName>Husein</LastName>
     <FirstName>Ayer</FirstName>
     <DateofBirth>31/03/1996</DateofBirth>
@@ -66,7 +66,7 @@
     <Email>hayer7@oakley.com</Email>
   </student>
   <student>
-    <CNE>9</CNE>
+    <CNE>574</CNE>
     <LastName>Marcello</LastName>
     <FirstName>Leggis</FirstName>
     <DateofBirth>15/02/1995</DateofBirth>
@@ -74,7 +74,7 @@
     <Email>mleggis8@adobe.com</Email>
   </student>
   <student>
-    <CNE>10</CNE>
+    <CNE>575</CNE>
     <LastName>Hubert</LastName>
     <FirstName>Dietsche</FirstName>
     <DateofBirth>08/05/1997</DateofBirth>
@@ -82,7 +82,7 @@
     <Email>hdietsche9@aboutads.info</Email>
   </student>
   <student>
-    <CNE>11</CNE>
+    <CNE>576</CNE>
     <LastName>Hortensia</LastName>
     <FirstName>Frain</FirstName>
     <DateofBirth>21/04/1997</DateofBirth>
@@ -90,7 +90,7 @@
     <Email>hfraina@virginia.edu</Email>
   </student>
   <student>
-    <CNE>12</CNE>
+    <CNE>577</CNE>
     <LastName>Carine</LastName>
     <FirstName>Greenless</FirstName>
     <DateofBirth>04/09/1999</DateofBirth>
@@ -98,7 +98,7 @@
     <Email>cgreenlessb@mac.com</Email>
   </student>
   <student>
-    <CNE>13</CNE>
+    <CNE>578</CNE>
     <LastName>Andie</LastName>
     <FirstName>Funnell</FirstName>
     <DateofBirth>10/09/1997</DateofBirth>
@@ -106,7 +106,7 @@
     <Email>afunnellc@photobucket.com</Email>
   </student>
   <student>
-    <CNE>14</CNE>
+    <CNE>579</CNE>
     <LastName>Georgianne</LastName>
     <FirstName>Ludlam</FirstName>
     <DateofBirth>17/09/1997</DateofBirth>
@@ -114,7 +114,7 @@
     <Email>gludlamd@drupal.org</Email>
   </student>
   <student>
-    <CNE>15</CNE>
+    <CNE>580</CNE>
     <LastName>Raynor</LastName>
     <FirstName>Germon</FirstName>
     <DateofBirth>20/07/1997</DateofBirth>
@@ -122,7 +122,7 @@
     <Email>rgermone@huffingtonpost.com</Email>
   </student>
   <student>
-    <CNE>16</CNE>
+    <CNE>581</CNE>
     <LastName>Valera</LastName>
     <FirstName>Wilcocke</FirstName>
     <DateofBirth>22/06/1995</DateofBirth>
@@ -130,7 +130,7 @@
     <Email>vwilcockef@spotify.com</Email>
   </student>
   <student>
-    <CNE>17</CNE>
+    <CNE>582</CNE>
     <LastName>Raddie</LastName>
     <FirstName>Dopson</FirstName>
     <DateofBirth>16/01/2001</DateofBirth>
@@ -138,7 +138,7 @@
     <Email>rdopsong@cnn.com</Email>
   </student>
   <student>
-    <CNE>18</CNE>
+    <CNE>583</CNE>
     <LastName>Perceval</LastName>
     <FirstName>Trevaskus</FirstName>
     <DateofBirth>24/01/2000</DateofBirth>
@@ -146,7 +146,7 @@
     <Email>ptrevaskush@techcrunch.com</Email>
   </student>
   <student>
-    <CNE>19</CNE>
+    <CNE>584</CNE>
     <LastName>Mace</LastName>
     <FirstName>McQuilliam</FirstName>
     <DateofBirth>04/10/1997</DateofBirth>
@@ -154,7 +154,7 @@
     <Email>mmcquilliami@bravesites.com</Email>
   </student>
   <student>
-    <CNE>20</CNE>
+    <CNE>585</CNE>
     <LastName>Joannes</LastName>
     <FirstName>Dagon</FirstName>
     <DateofBirth>19/04/1998</DateofBirth>
@@ -162,7 +162,7 @@
     <Email>jdagonj@cnn.com</Email>
   </student>
   <student>
-    <CNE>21</CNE>
+    <CNE>586</CNE>
     <LastName>Josefina</LastName>
     <FirstName>Faughey</FirstName>
     <DateofBirth>19/05/1999</DateofBirth>
@@ -170,7 +170,7 @@
     <Email>jfaugheyk@prlog.org</Email>
   </student>
   <student>
-    <CNE>22</CNE>
+    <CNE>587</CNE>
     <LastName>Enrique</LastName>
     <FirstName>Brelsford</FirstName>
     <DateofBirth>15/10/1995</DateofBirth>
@@ -178,7 +178,7 @@
     <Email>ebrelsfordl@nymag.com</Email>
   </student>
   <student>
-    <CNE>23</CNE>
+    <CNE>588</CNE>
     <LastName>Fifi</LastName>
     <FirstName>Provis</FirstName>
     <DateofBirth>01/09/1999</DateofBirth>
@@ -186,7 +186,7 @@
     <Email>fprovism@kickstarter.com</Email>
   </student>
   <student>
-    <CNE>24</CNE>
+    <CNE>589</CNE>
     <LastName>Donica</LastName>
     <FirstName>Macey</FirstName>
     <DateofBirth>14/12/1997</DateofBirth>
@@ -194,7 +194,7 @@
     <Email>dmaceyn@loc.gov</Email>
   </student>
   <student>
-    <CNE>25</CNE>
+    <CNE>590</CNE>
     <LastName>Drew</LastName>
     <FirstName>Sirmon</FirstName>
     <DateofBirth>14/12/2000</DateofBirth>
@@ -202,7 +202,7 @@
     <Email>dsirmono@ucoz.ru</Email>
   </student>
   <student>
-    <CNE>26</CNE>
+    <CNE>591</CNE>
     <LastName>Lind</LastName>
     <FirstName>Antosik</FirstName>
     <DateofBirth>20/09/1997</DateofBirth>
@@ -210,7 +210,7 @@
     <Email>lantosikp@vimeo.com</Email>
   </student>
   <student>
-    <CNE>27</CNE>
+    <CNE>592</CNE>
     <LastName>Robbin</LastName>
     <FirstName>Smewin</FirstName>
     <DateofBirth>22/01/1997</DateofBirth>
@@ -218,7 +218,7 @@
     <Email>rsmewinq@theguardian.com</Email>
   </student>
   <student>
-    <CNE>28</CNE>
+    <CNE>593</CNE>
     <LastName>Meta</LastName>
     <FirstName>Spedding</FirstName>
     <DateofBirth>14/05/1999</DateofBirth>
@@ -226,7 +226,7 @@
     <Email>mspeddingr@berkeley.edu</Email>
   </student>
   <student>
-    <CNE>29</CNE>
+    <CNE>594</CNE>
     <LastName>Donica</LastName>
     <FirstName>Jorgensen</FirstName>
     <DateofBirth>06/09/1999</DateofBirth>
@@ -234,7 +234,7 @@
     <Email>djorgensens@ucsd.edu</Email>
   </student>
   <student>
-    <CNE>30</CNE>
+    <CNE>595</CNE>
     <LastName>Gonzales</LastName>
     <FirstName>Deschelle</FirstName>
     <DateofBirth>18/03/1999</DateofBirth>
@@ -242,7 +242,7 @@
     <Email>gdeschellet@jimdo.com</Email>
   </student>
   <student>
-    <CNE>31</CNE>
+    <CNE>596</CNE>
     <LastName>Lucie</LastName>
     <FirstName>O'Dempsey</FirstName>
     <DateofBirth>02/06/1997</DateofBirth>
@@ -250,7 +250,7 @@
     <Email>lodempseyu@over-blog.com</Email>
   </student>
   <student>
-    <CNE>32</CNE>
+    <CNE>597</CNE>
     <LastName>Della</LastName>
     <FirstName>Fassbender</FirstName>
     <DateofBirth>26/01/2001</DateofBirth>
@@ -258,7 +258,7 @@
     <Email>dfassbenderv@geocities.com</Email>
   </student>
   <student>
-    <CNE>33</CNE>
+    <CNE>598</CNE>
     <LastName>Jacquenette</LastName>
     <FirstName>McClarence</FirstName>
     <DateofBirth>21/09/2000</DateofBirth>
@@ -266,7 +266,7 @@
     <Email>jmcclarencew@fema.gov</Email>
   </student>
   <student>
-    <CNE>34</CNE>
+    <CNE>599</CNE>
     <LastName>Ase</LastName>
     <FirstName>Murrie</FirstName>
     <DateofBirth>20/08/1995</DateofBirth>
@@ -274,7 +274,7 @@
     <Email>amurriex@ftc.gov</Email>
   </student>
   <student>
-    <CNE>35</CNE>
+    <CNE>600</CNE>
     <LastName>Muire</LastName>
     <FirstName>Kynsey</FirstName>
     <DateofBirth>18/12/1995</DateofBirth>
@@ -282,7 +282,7 @@
     <Email>mkynseyy@barnesandnoble.com</Email>
   </student>
   <student>
-    <CNE>36</CNE>
+    <CNE>601</CNE>
     <LastName>Tommie</LastName>
     <FirstName>Nizard</FirstName>
     <DateofBirth>20/01/1996</DateofBirth>
@@ -290,7 +290,7 @@
     <Email>tnizardz@eepurl.com</Email>
   </student>
   <student>
-    <CNE>37</CNE>
+    <CNE>602</CNE>
     <LastName>Frants</LastName>
     <FirstName>Lacrouts</FirstName>
     <DateofBirth>13/09/1996</DateofBirth>
@@ -298,7 +298,7 @@
     <Email>flacrouts10@storify.com</Email>
   </student>
   <student>
-    <CNE>38</CNE>
+    <CNE>603</CNE>
     <LastName>Farly</LastName>
     <FirstName>Uzelli</FirstName>
     <DateofBirth>18/09/2000</DateofBirth>
@@ -306,7 +306,7 @@
     <Email>fuzelli11@timesonline.co.uk</Email>
   </student>
   <student>
-    <CNE>39</CNE>
+    <CNE>604</CNE>
     <LastName>Rasia</LastName>
     <FirstName>Mattityahou</FirstName>
     <DateofBirth>09/03/1995</DateofBirth>
@@ -314,7 +314,7 @@
     <Email>rmattityahou12@cpanel.net</Email>
   </student>
   <student>
-    <CNE>40</CNE>
+    <CNE>605</CNE>
     <LastName>Johann</LastName>
     <FirstName>Gert</FirstName>
     <DateofBirth>18/12/1997</DateofBirth>
@@ -322,7 +322,7 @@
     <Email>jgert13@google.es</Email>
   </student>
   <student>
-    <CNE>41</CNE>
+    <CNE>606</CNE>
     <LastName>Thatch</LastName>
     <FirstName>Bremeyer</FirstName>
     <DateofBirth>03/12/2000</DateofBirth>
@@ -330,7 +330,7 @@
     <Email>tbremeyer14@bigcartel.com</Email>
   </student>
   <student>
-    <CNE>42</CNE>
+    <CNE>607</CNE>
     <LastName>Porty</LastName>
     <FirstName>Jurick</FirstName>
     <DateofBirth>24/05/1998</DateofBirth>
@@ -338,7 +338,7 @@
     <Email>pjurick15@abc.net.au</Email>
   </student>
   <student>
-    <CNE>43</CNE>
+    <CNE>608</CNE>
     <LastName>Sayre</LastName>
     <FirstName>Smyth</FirstName>
     <DateofBirth>13/12/1998</DateofBirth>
@@ -346,7 +346,7 @@
     <Email>ssmyth16@pen.io</Email>
   </student>
   <student>
-    <CNE>44</CNE>
+    <CNE>609</CNE>
     <LastName>Kaye</LastName>
     <FirstName>Enbury</FirstName>
     <DateofBirth>21/10/1999</DateofBirth>
@@ -354,7 +354,7 @@
     <Email>kenbury17@moonfruit.com</Email>
   </student>
   <student>
-    <CNE>45</CNE>
+    <CNE>610</CNE>
     <LastName>Patrizius</LastName>
     <FirstName>Dredge</FirstName>
     <DateofBirth>01/02/2000</DateofBirth>
@@ -362,7 +362,7 @@
     <Email>pdredge18@vimeo.com</Email>
   </student>
   <student>
-    <CNE>46</CNE>
+    <CNE>611</CNE>
     <LastName>Fee</LastName>
     <FirstName>Knappett</FirstName>
     <DateofBirth>02/03/2000</DateofBirth>

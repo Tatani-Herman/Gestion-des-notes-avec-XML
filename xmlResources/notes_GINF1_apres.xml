@@ -1,0 +1,832 @@
+<?xml version="1.0"?>
+<notes>
+  <note>
+    <CNE>283</CNE>
+    <LastName>Estella</LastName>
+    <FirstName>Blastock</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>284</CNE>
+    <LastName>Corette</LastName>
+    <FirstName>Van Halen</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>285</CNE>
+    <LastName>Noel</LastName>
+    <FirstName>Reinhart</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>286</CNE>
+    <LastName>Zorana</LastName>
+    <FirstName>Castellucci</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>287</CNE>
+    <LastName>Dalston</LastName>
+    <FirstName>Koppen</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>288</CNE>
+    <LastName>Irving</LastName>
+    <FirstName>Kelsall</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>289</CNE>
+    <LastName>Iago</LastName>
+    <FirstName>Piddick</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>290</CNE>
+    <LastName>Terrie</LastName>
+    <FirstName>Abbotson</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>291</CNE>
+    <LastName>Jeralee</LastName>
+    <FirstName>Escot</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>292</CNE>
+    <LastName>Abdel</LastName>
+    <FirstName>Fradgley</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>293</CNE>
+    <LastName>Mycah</LastName>
+    <FirstName>Hyslop</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>294</CNE>
+    <LastName>Dian</LastName>
+    <FirstName>Ameer-Beg</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>295</CNE>
+    <LastName>Danell</LastName>
+    <FirstName>Gentric</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>296</CNE>
+    <LastName>Worden</LastName>
+    <FirstName>Cheeseman</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>297</CNE>
+    <LastName>Raimondo</LastName>
+    <FirstName>Kryska</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>298</CNE>
+    <LastName>Mimi</LastName>
+    <FirstName>Kivelhan</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>299</CNE>
+    <LastName>Melonie</LastName>
+    <FirstName>Beaten</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>300</CNE>
+    <LastName>Rica</LastName>
+    <FirstName>Dicty</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>301</CNE>
+    <LastName>Nessa</LastName>
+    <FirstName>Sheilds</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>302</CNE>
+    <LastName>Lenette</LastName>
+    <FirstName>Cool</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>303</CNE>
+    <LastName>Michele</LastName>
+    <FirstName>Robertelli</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>304</CNE>
+    <LastName>Elle</LastName>
+    <FirstName>Lanchbury</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>305</CNE>
+    <LastName>Gabriela</LastName>
+    <FirstName>Sclanders</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>306</CNE>
+    <LastName>Miguel</LastName>
+    <FirstName>Finlow</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>307</CNE>
+    <LastName>Diego</LastName>
+    <FirstName>Tweedie</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>308</CNE>
+    <LastName>Ana</LastName>
+    <FirstName>Wasielewicz</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>309</CNE>
+    <LastName>Donny</LastName>
+    <FirstName>Rodders</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>310</CNE>
+    <LastName>Evelin</LastName>
+    <FirstName>Ruste</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>311</CNE>
+    <LastName>Ashla</LastName>
+    <FirstName>Dearell</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>312</CNE>
+    <LastName>Paxon</LastName>
+    <FirstName>Winley</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>313</CNE>
+    <LastName>Merrile</LastName>
+    <FirstName>Stoate</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>314</CNE>
+    <LastName>Deloria</LastName>
+    <FirstName>Mayall</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>315</CNE>
+    <LastName>Lucretia</LastName>
+    <FirstName>Lawrenceson</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>316</CNE>
+    <LastName>Enriqueta</LastName>
+    <FirstName>Ludy</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>317</CNE>
+    <LastName>Goran</LastName>
+    <FirstName>Gypson</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>318</CNE>
+    <LastName>Erl</LastName>
+    <FirstName>Rewcastle</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>319</CNE>
+    <LastName>Dorian</LastName>
+    <FirstName>Tibbetts</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>320</CNE>
+    <LastName>Orelee</LastName>
+    <FirstName>Isted</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>321</CNE>
+    <LastName>Barbara-anne</LastName>
+    <FirstName>Plummer</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>322</CNE>
+    <LastName>Kris</LastName>
+    <FirstName>Brecknell</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>323</CNE>
+    <LastName>Viva</LastName>
+    <FirstName>Quantick</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>324</CNE>
+    <LastName>Nance</LastName>
+    <FirstName>Giovanni</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>325</CNE>
+    <LastName>Hartwell</LastName>
+    <FirstName>Jendrach</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>326</CNE>
+    <LastName>Berti</LastName>
+    <FirstName>Sinnett</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>327</CNE>
+    <LastName>Cyndie</LastName>
+    <FirstName>Cosford</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+  <note>
+    <CNE>328</CNE>
+    <LastName>Samson</LastName>
+    <FirstName>Goucher</FirstName>
+    <matiere codeMat="GINF11">12</matiere>
+    <matiere codeMat="GINF12">12</matiere>
+    <matiere codeMat="GINF13">12</matiere>
+    <matiere codeMat="GINF14">12</matiere>
+    <matiere codeMat="GINF15">12</matiere>
+    <matiere codeMat="GINF16">12</matiere>
+    <matiere codeMat="GINF21">12</matiere>
+    <matiere codeMat="GINF22">12</matiere>
+    <matiere codeMat="GINF23">12</matiere>
+    <matiere codeMat="GINF24">12</matiere>
+    <matiere codeMat="GINF25">12</matiere>
+    <matiere codeMat="GINF26">12</matiere>
+    <MOY>12</MOY>
+  </note>
+</notes>
+<!DOCTYPE notes_aprs SYSTEM "validationResources/notes_aprs.dtd">
