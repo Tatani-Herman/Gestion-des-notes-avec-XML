@@ -3,4 +3,4 @@
 <!ELEMENT CNE (#PCDATA)>
 <!ELEMENT FirstName (#PCDATA)>
 <!ELEMENT matiere (#PCDATA)>
-<!ATTLIST matiere codeMat #PCDATA #REQUIRED>
+<!ATTLIST matiere codeMat CDATA #REQUIRED>

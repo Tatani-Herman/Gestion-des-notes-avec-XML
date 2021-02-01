@@ -49,17 +49,27 @@ page-height="29.7cm" master-name="simpleA4">
                 <fo:block>
 					<fo:table >
 						<fo:table-column column-width="2.35cm"/>
-                        <fo:table-column column-width="2cm"/>
-                         <fo:table-column column-width="2cm"/>
-                         <fo:table-column column-width="2cm"/>
+                        <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
 
-                         <fo:table-header font-weight="bold" font-size="10pt" text-align="center">
+                          <fo:table-header font-weight="bold" font-size="10pt" text-align="center">
                             <fo:table-row border-width="1px" border-style="solid" height="1cm">
                             <fo:table-cell border-width="1px" border-style="solid">
                               <fo:block>Informations des Etudiants</fo:block>
-                              </fo:table-cell>
+                              </fo:table-cell> 
                               <fo:table-cell border-width="1px" border-style="solid">
-                              <fo:block>GINF31 </fo:block>
+                              <fo:block> GINF31 </fo:block>
+                             <!--<xsl:value-of select="//@codeMat[position()=1]"/>--> 
                               </fo:table-cell>
                               <fo:table-cell border-width="1px" border-style="solid">
                               <fo:block>GINF32 </fo:block>
@@ -67,10 +77,37 @@ page-height="29.7cm" master-name="simpleA4">
                               <fo:table-cell border-width="1px" border-style="solid">
                               <fo:block>GINF33 </fo:block>
                               </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF34 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF35 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF36</fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF41</fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF42 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF43 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF44 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF45 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF46 </fo:block>
+                              </fo:table-cell>
                               </fo:table-row>
                               </fo:table-header>
                             
-                          <fo:table-body font-size="8pt">
+                             <fo:table-body font-size="8pt">
                           <xsl:for-each select="notes/note">
 							<fo:table-row border-width="1px" border-style="solid">
 								<fo:table-cell border-width="1px" border-style="solid">
@@ -101,6 +138,60 @@ page-height="29.7cm" master-name="simpleA4">
                                    <xsl:value-of select="matiere[position()=3]"/>
                                     </fo:block>
                               </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=4]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=5]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=6]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=7]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=8]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=9]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=10]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=11]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=12]"/>
+                                    </fo:block>
+                              </fo:table-cell>
                   </fo:table-row>
                   </xsl:for-each>
                   </fo:table-body>
@@ -111,3 +202,34 @@ page-height="29.7cm" master-name="simpleA4">
 		</fo:root>
 	</xsl:template>
 </xsl:stylesheet>
+<!-- Stylus Studio meta-information - (c) 2004-2009. Progress Software Corporation. All rights reserved.
+
+<metaInformation>
+	<scenarios>
+		<scenario default="yes" name="Scenario1" userelativepaths="yes" externalpreview="no" url="..\xmlResources\notes_GINF2_apres.xml" htmlbaseurl="" outputurl="" processortype="saxon8" useresolver="yes" profilemode="0" profiledepth="" profilelength=""
+		          urlprofilexml="" commandline="" additionalpath="" additionalclasspath="" postprocessortype="fop" postprocesscommandline="" postprocessadditionalpath="" postprocessgeneratedext="" validateoutput="no" validator="internal" customvalidator="">
+			<advancedProp name="bSchemaAware" value="true"/>
+			<advancedProp name="xsltVersion" value="2.0"/>
+			<advancedProp name="schemaCache" value="||"/>
+			<advancedProp name="bUseDTD" value="false"/>
+			<advancedProp name="bXml11" value="false"/>
+			<advancedProp name="bWarnings" value="true"/>
+			<advancedProp name="iWhitespace" value="0"/>
+			<advancedProp name="bXsltOneIsOkay" value="true"/>
+			<advancedProp name="bTinyTree" value="true"/>
+			<advancedProp name="bGenerateByteCode" value="true"/>
+			<advancedProp name="iValidation" value="0"/>
+			<advancedProp name="bExtensions" value="true"/>
+			<advancedProp name="sInitialMode" value=""/>
+			<advancedProp name="sInitialTemplate" value=""/>
+			<advancedProp name="iErrorHandling" value="fatal"/>
+		</scenario>
+	</scenarios>
+	<MapperMetaTag>
+		<MapperInfo srcSchemaPathIsRelative="yes" srcSchemaInterpretAsXML="no" destSchemaPath="" destSchemaRoot="" destSchemaPathIsRelative="yes" destSchemaInterpretAsXML="no"/>
+		<MapperBlockPosition></MapperBlockPosition>
+		<TemplateContext></TemplateContext>
+		<MapperFilter side="source"></MapperFilter>
+	</MapperMetaTag>
+</metaInformation>
+-->

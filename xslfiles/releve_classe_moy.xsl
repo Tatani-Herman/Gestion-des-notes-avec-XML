@@ -49,18 +49,28 @@ page-height="29.7cm" master-name="simpleA4">
                 <fo:block>
 					<fo:table >
 						<fo:table-column column-width="2.35cm"/>
-                        <fo:table-column column-width="2cm"/>
-                         <fo:table-column column-width="2cm"/>
-                         <fo:table-column column-width="2cm"/>
-                         <fo:table-column column-width="2cm"/>
+                        <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="1.4cm"/>
+                         <fo:table-column column-width="2.2cm"/>
 
                          <fo:table-header font-weight="bold" font-size="10pt" text-align="center">
                             <fo:table-row border-width="1px" border-style="solid" height="1cm">
                             <fo:table-cell border-width="1px" border-style="solid">
                               <fo:block>Informations des Etudiants</fo:block>
-                              </fo:table-cell>
+                              </fo:table-cell> 
                               <fo:table-cell border-width="1px" border-style="solid">
-                              <fo:block>GINF31 </fo:block>
+                              <fo:block> GINF31 </fo:block>
+                             <!--<xsl:value-of select="//@codeMat[position()=1]"/>--> 
                               </fo:table-cell>
                               <fo:table-cell border-width="1px" border-style="solid">
                               <fo:block>GINF32 </fo:block>
@@ -69,7 +79,34 @@ page-height="29.7cm" master-name="simpleA4">
                               <fo:block>GINF33 </fo:block>
                               </fo:table-cell>
                               <fo:table-cell border-width="1px" border-style="solid">
-                              <fo:block>MOYENNE </fo:block>
+                              <fo:block>GINF34 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF35 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF36</fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF41</fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF42 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF43 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF44 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF45 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>GINF46 </fo:block>
+                              </fo:table-cell>
+                              <fo:table-cell border-width="1px" border-style="solid">
+                              <fo:block>Moyenne des étudiants </fo:block>
                               </fo:table-cell>
                               </fo:table-row>
                               </fo:table-header>
@@ -108,16 +145,79 @@ page-height="29.7cm" master-name="simpleA4">
 
                               <fo:table-cell border-width="1px" border-style="solid" text-align="center">
                                    <fo:block>
+                                   <xsl:value-of select="matiere[position()=4]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=5]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=6]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=7]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=8]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=9]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=10]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=11]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block>
+                                   <xsl:value-of select="matiere[position()=12]"/>
+                                    </fo:block>
+                              </fo:table-cell>
+
+                              <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                   <fo:block font-size="10pt">
                                      <xsl:variable name="number" select="sum(matiere[@codeMat]) div count(matiere)"/>
                                      <xsl:value-of select="format-number($number,'#.###')"/>
+                                     <xsl:text> </xsl:text>
+                                    <xsl:choose>
+                                      <xsl:when test="$number &lt; 12">
+                                      <fo:inline font-weight="bold"><xsl:text> REJETE</xsl:text></fo:inline>
+                                      </xsl:when>
+                                    <xsl:otherwise>
+                                    <fo:inline font-weight="bold"><xsl:text>ADMIS</xsl:text></fo:inline>
+                                    </xsl:otherwise>
+                                    </xsl:choose>
                                  <!-- <xsl:value-of select="(matiere[position()=1] + matiere[position()=2] + matiere[position()=3]...) div 3"/> -->
                                     </fo:block>
                               </fo:table-cell>
                   </fo:table-row>
                   </xsl:for-each>
-                                <fo:table-row border-width="1px" border-style="solid">
-                                <fo:table-cell border-width="1px" border-style="solid" text-align="center">
-                                 <fo:block> MOYENNE </fo:block>
+                                <fo:table-row border-width="1px" border-style="solid" height="1cm">
+                                <fo:table-cell border-width="1px" border-style="solid" text-align="center" font-weight="bold">
+                                 <fo:block> Moyenne des modules </fo:block>
                                 </fo:table-cell>
                                  <fo:table-cell border-width="1px" border-style="solid" text-align="center">
                                 <fo:block> <xsl:variable name="number" select="sum(notes/note/matiere[position()=1]) div count(notes/note)"/>
@@ -132,8 +232,44 @@ page-height="29.7cm" master-name="simpleA4">
                                  <fo:block>  <xsl:variable name="number" select="sum(notes/note/matiere[position()=3]) div count(notes/note)"/>
                                 <xsl:value-of select="format-number($number,'#.###')"/> </fo:block>
                                 </fo:table-cell>
+                                <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                 <fo:block>  <xsl:variable name="number" select="sum(notes/note/matiere[position()=4]) div count(notes/note)"/>
+                                <xsl:value-of select="format-number($number,'#.###')"/> </fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                 <fo:block>  <xsl:variable name="number" select="sum(notes/note/matiere[position()=5]) div count(notes/note)"/>
+                                <xsl:value-of select="format-number($number,'#.###')"/> </fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                 <fo:block>  <xsl:variable name="number" select="sum(notes/note/matiere[position()=6]) div count(notes/note)"/>
+                                <xsl:value-of select="format-number($number,'#.###')"/> </fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                 <fo:block>  <xsl:variable name="number" select="sum(notes/note/matiere[position()=7]) div count(notes/note)"/>
+                                <xsl:value-of select="format-number($number,'#.###')"/> </fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                 <fo:block>  <xsl:variable name="number" select="sum(notes/note/matiere[position()=8]) div count(notes/note)"/>
+                                <xsl:value-of select="format-number($number,'#.###')"/> </fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                 <fo:block>  <xsl:variable name="number" select="sum(notes/note/matiere[position()=9]) div count(notes/note)"/>
+                                <xsl:value-of select="format-number($number,'#.###')"/> </fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                 <fo:block>  <xsl:variable name="number" select="sum(notes/note/matiere[position()=10]) div count(notes/note)"/>
+                                <xsl:value-of select="format-number($number,'#.###')"/> </fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                 <fo:block>  <xsl:variable name="number" select="sum(notes/note/matiere[position()=11]) div count(notes/note)"/>
+                                <xsl:value-of select="format-number($number,'#.###')"/> </fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border-width="1px" border-style="solid" text-align="center">
+                                 <fo:block>  <xsl:variable name="number" select="sum(notes/note/matiere[position()=12]) div count(notes/note)"/>
+                                <xsl:value-of select="format-number($number,'#.###')"/> </fo:block>
+                                </fo:table-cell>
 
-                                 <fo:table-cell>hhhh</fo:table-cell>
+                                 <fo:table-cell> </fo:table-cell>
                                 </fo:table-row>
                   </fo:table-body>
                   </fo:table>
