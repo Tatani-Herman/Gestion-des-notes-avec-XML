@@ -61,7 +61,7 @@ page-height="5.5cm" master-name="simpleA8">
 					</fo:table>
 					</fo:block>
 					<fo:block color="steelblue" font-size="5pt" font-weight="bold" margin-top="0.3cm" font-family="sans-serif" text-align="center" line-height="12pt" padding-top="0.001cm" content-width="8cm">
-  Première Inscription : Inconnue
+  Première Inscription : 2017/2018
                     </fo:block>
 				</fo:flow>
 			</fo:page-sequence>
