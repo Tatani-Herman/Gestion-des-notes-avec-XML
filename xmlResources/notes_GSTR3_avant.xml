@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!DOCTYPE notes SYSTEM "validationResources/notes.dtd">
+<!DOCTYPE notes SYSTEM "../validationResources/notes.dtd">
 <notes>
   <note>
     <CNE>660</CNE>

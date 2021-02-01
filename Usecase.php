@@ -9,14 +9,14 @@
 
 
 require_once "ExcelToXml.php";
-/*$arrayClass=array("G3EI1","G3EI2","G3EI3","GIL1","GIL2","GIL3",
-"GINF1","GINF3","GSEA1","GSEA2","GSEA3","GSTR1","GSTR2","GSTR3");*/
-$arrayClass=array("GINF2");
+$arrayClass=array("G3EI1","G3EI2","G3EI3","GIL1","GIL2","GIL3",
+"GINF1","GINF2","GINF3","GSEA1","GSEA2","GSEA3","GSTR1","GSTR2","GSTR3");
+//$arrayClass=array("GINF2");
 $arrayCat=array(
-    "student",
-    //"note",
-    //"notes_apr",
-    "module"
+    //"student",
+    "note",
+    "notes_apr",
+    //"module"
 );
 
 $App=new ExcelToXml();
@@ -33,17 +33,29 @@ foreach ($arrayClass as $class) {
 
     $ginf2 = $dom->getElementsByTagName($categorie.'s')->item(0);
 
-    $dom->insertBefore($imp->createDocumentType($categorie.'s', 
-    null, 
-    'validationResources/'.$categorie.'s.dtd'),$ginf2);
+    
     if ($categorie=="notes_apr") {
+        $ginf2 = $dom->getElementsByTagName('notes')->item(0);
+
+        $dom->insertBefore($imp->createDocumentType('notes', 
+        null, 
+        '../validationResources/notes.dtd'),$ginf2);
         $dom->save("xmlResources/notes_".$class."_apres.xml");
+       
     }
     elseif ($categorie=="note") {
+        $dom->insertBefore($imp->createDocumentType($categorie.'s', 
+        null, 
+        '../validationResources/'.$categorie.'s.dtd'),$ginf2);
         $dom->save("xmlResources/notes_".$class."_avant.xml");
+       
     }
     else {
+        $dom->insertBefore($imp->createDocumentType($categorie.'s', 
+    null, 
+    '../validationResources/'.$categorie.'s.dtd'),$ginf2);
         $dom->save("xmlResources/".$categorie."s_".$class.".xml");
+        
     }
 }
 }

@@ -33,7 +33,7 @@ page-height="5.5cm" master-name="simpleA8">
 								<fo:table-cell>
                                    <fo:block>
 								   <!-- Image Statique -->
-								      <fo:external-graphic src="url(C://wamp/www/Gestion-des-notes-avec-XML/img/photos_carteEtudiant/same.jpg)" content-width="1.5cm" content-height="2cm"/> 
+								      <fo:external-graphic src="url(C://xampp/htdocs/Gestion-des-notes-avec-XML/img/photos_carteEtudiant/same.jpg)" content-width="1.5cm" content-height="2cm"/> 
 								   <!-- Image Dynamique : l'image correspondant au CNE doit exister dans /photos_carteEtudiant -->
                                    <!--   <fo:external-graphic src="url(C://wamp/www/Gestion-des-notes-avec-XML/img/photos_carteEtudiant/{CNE}.jpg)" content-width="1.5cm" content-height="2cm"/> -->
 										<!-- Comment -->

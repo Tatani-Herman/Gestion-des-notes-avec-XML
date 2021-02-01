@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<!DOCTYPE notes SYSTEM "../validationResources/notes.dtd">
 <notes>
   <note>
     <CNE>142</CNE>
@@ -829,4 +830,3 @@
     <MOY>12</MOY>
   </note>
 </notes>
-<!DOCTYPE notes_aprs SYSTEM "validationResources/notes_aprs.dtd">

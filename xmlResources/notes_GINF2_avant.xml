@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!DOCTYPE notes SYSTEM "notes.dtd">
+<!DOCTYPE notes SYSTEM "../validationResources/notes.dtd">
 <notes>
   <note>
     <CNE>1</CNE>
@@ -8,70 +8,151 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>2</CNE>
     <LastName>Adraoui</LastName>
     <FirstName>Khaoula</FirstName>
-    <matiere codeMat="GINF31">7</matiere>
+    <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>3</CNE>
     <LastName>Aissa</LastName>
     <FirstName>Maria</FirstName>
-    <matiere codeMat="GINF31">13.2</matiere>
+    <matiere codeMat="GINF31">12</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>4</CNE>
     <LastName>Ahmadoun</LastName>
     <FirstName>Mohamed</FirstName>
-    <matiere codeMat="GINF31">9</matiere>
+    <matiere codeMat="GINF31">13</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>5</CNE>
     <LastName>Ameziane </LastName>
     <FirstName>Chaimae</FirstName>
-    <matiere codeMat="GINF31">8</matiere>
+    <matiere codeMat="GINF31">14</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>6</CNE>
     <LastName>Aymane</LastName>
     <FirstName>Dabdoubi</FirstName>
-    <matiere codeMat="GINF31">12</matiere>
+    <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>7</CNE>
     <LastName>Benabdellah</LastName>
     <FirstName>Adnane</FirstName>
-    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF31">9</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>8</CNE>
     <LastName>Bentaher</LastName>
     <FirstName>Mohamed</FirstName>
-    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF31">10</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>9</CNE>
     <LastName>Bouabib</LastName>
     <FirstName>Iness</FirstName>
-    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF31">7</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>10</CNE>
@@ -80,14 +161,32 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>11</CNE>
     <LastName>Bouzekraoui</LastName>
     <FirstName>Asmae</FirstName>
-    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF31">11</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>12</CNE>
@@ -96,14 +195,32 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>13</CNE>
     <LastName>Chihi</LastName>
     <FirstName>Hasnae</FirstName>
-    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF31">17</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>14</CNE>
@@ -112,6 +229,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>15</CNE>
@@ -120,6 +246,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>16</CNE>
@@ -128,6 +263,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>17</CNE>
@@ -136,6 +280,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>18</CNE>
@@ -144,6 +297,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>19</CNE>
@@ -152,6 +314,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>20</CNE>
@@ -160,6 +331,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>21</CNE>
@@ -168,6 +348,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>22</CNE>
@@ -176,6 +365,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>23</CNE>
@@ -184,6 +382,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>24</CNE>
@@ -192,6 +399,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>25</CNE>
@@ -200,6 +416,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>26</CNE>
@@ -208,6 +433,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>27</CNE>
@@ -216,6 +450,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>28</CNE>
@@ -224,6 +467,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>29</CNE>
@@ -232,6 +484,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>30</CNE>
@@ -240,6 +501,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>31</CNE>
@@ -248,6 +518,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>32</CNE>
@@ -256,6 +535,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>33</CNE>
@@ -264,6 +552,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>34</CNE>
@@ -272,6 +569,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>35</CNE>
@@ -280,6 +586,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>36</CNE>
@@ -288,14 +603,32 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>37</CNE>
-    <LastName>Mansour</LastName>
-    <FirstName>El Mhedi</FirstName>
+    <LastName>El Mansour</LastName>
+    <FirstName>Mhedi</FirstName>
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>38</CNE>
@@ -304,6 +637,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>39</CNE>
@@ -312,6 +654,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>40</CNE>
@@ -320,6 +671,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>41</CNE>
@@ -328,6 +688,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>42</CNE>
@@ -336,6 +705,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>43</CNE>
@@ -344,6 +722,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>44</CNE>
@@ -352,6 +739,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>45</CNE>
@@ -360,6 +756,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>46</CNE>
@@ -368,6 +773,15 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
     <CNE>47</CNE>
@@ -376,5 +790,14 @@
     <matiere codeMat="GINF31">15</matiere>
     <matiere codeMat="GINF32">15</matiere>
     <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
   </note>
 </notes>
