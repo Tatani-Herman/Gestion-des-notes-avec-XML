@@ -34,7 +34,7 @@
               <a href="#" class="list-group-item list-group-item-action list-group-item-info">Générer des attestation de réussite</a>
               <a href="#" class="list-group-item list-group-item-action list-group-item-light">Elaborer des liste de groupe de TPs
               <div>
-              <form action="liste_groupe.php" method="get">
+              <form action="#" method="get">
               <label for="Class">Choisissez une classe:</label>
                     <select name="class" id="Class">
                       <option value="GINF1">GINF1</option>
