@@ -16,7 +16,7 @@ $arrayCat=array(
     "student",
     //"note",
     //"notes_apr",
-    //"module"
+    "module"
 );
 
 $App=new ExcelToXml();
