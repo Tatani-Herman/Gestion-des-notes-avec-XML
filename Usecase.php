@@ -14,8 +14,8 @@ $arrayClass=array("AP1","AP2","G3EI1","G3EI2","G3EI3","GIL1","GIL2","GIL3",
 //$arrayClass=array("GINF2");
 $arrayCat=array(
     "student",
-    //"note",
-    //"notes_apr",
+    "note",
+    "notes_apr",
     "module"
 );
 

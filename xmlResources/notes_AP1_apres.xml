@@ -1,0 +1,4067 @@
+<?xml version="1.0"?>
+<!DOCTYPE notes SYSTEM "../validationResources/notes.dtd">
+<notes>
+  <note>
+    <CNE>947</CNE>
+    <LastName>Hilel</LastName>
+    <FirstName>Hernandez</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>948</CNE>
+    <LastName>Silas</LastName>
+    <FirstName>Vincent</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>949</CNE>
+    <LastName>Ian</LastName>
+    <FirstName>Petty</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>950</CNE>
+    <LastName>Fulton</LastName>
+    <FirstName>Powell</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>951</CNE>
+    <LastName>Nehru</LastName>
+    <FirstName>Haley</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>952</CNE>
+    <LastName>Trevor</LastName>
+    <FirstName>Austin</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>953</CNE>
+    <LastName>Dalton</LastName>
+    <FirstName>Petersen</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>954</CNE>
+    <LastName>Jaime</LastName>
+    <FirstName>Hicks</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>955</CNE>
+    <LastName>Anne</LastName>
+    <FirstName>Camacho</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>956</CNE>
+    <LastName>Leo</LastName>
+    <FirstName>Glover</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>957</CNE>
+    <LastName>Marvin</LastName>
+    <FirstName>Hyde</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>958</CNE>
+    <LastName>Shelley</LastName>
+    <FirstName>Daugherty</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>959</CNE>
+    <LastName>Wyoming</LastName>
+    <FirstName>Carroll</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>960</CNE>
+    <LastName>Benedict</LastName>
+    <FirstName>Edwards</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>961</CNE>
+    <LastName>Eric</LastName>
+    <FirstName>Mullen</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>962</CNE>
+    <LastName>Jennifer</LastName>
+    <FirstName>Dickson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>963</CNE>
+    <LastName>Zachary</LastName>
+    <FirstName>Sloan</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>964</CNE>
+    <LastName>Natalie</LastName>
+    <FirstName>Molina</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>965</CNE>
+    <LastName>Hunter</LastName>
+    <FirstName>Christensen</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>966</CNE>
+    <LastName>Victoria</LastName>
+    <FirstName>Griffin</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>967</CNE>
+    <LastName>Hillary</LastName>
+    <FirstName>Delgado</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>968</CNE>
+    <LastName>Brent</LastName>
+    <FirstName>Brady</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>969</CNE>
+    <LastName>Hamish</LastName>
+    <FirstName>Quinn</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>970</CNE>
+    <LastName>Anika</LastName>
+    <FirstName>Madden</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>971</CNE>
+    <LastName>Yoshio</LastName>
+    <FirstName>Weaver</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>972</CNE>
+    <LastName>Wynter</LastName>
+    <FirstName>Lynch</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>973</CNE>
+    <LastName>Roanna</LastName>
+    <FirstName>Roberts</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>974</CNE>
+    <LastName>Tate</LastName>
+    <FirstName>Ford</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>975</CNE>
+    <LastName>Armando</LastName>
+    <FirstName>Gross</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>976</CNE>
+    <LastName>Brenda</LastName>
+    <FirstName>Mitchell</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>977</CNE>
+    <LastName>Chloe</LastName>
+    <FirstName>Kelly</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>978</CNE>
+    <LastName>Gillian</LastName>
+    <FirstName>Booker</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>979</CNE>
+    <LastName>Kato</LastName>
+    <FirstName>Morrison</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>980</CNE>
+    <LastName>Cheyenne</LastName>
+    <FirstName>Montgomery</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>981</CNE>
+    <LastName>Samuel</LastName>
+    <FirstName>Keller</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>982</CNE>
+    <LastName>Melvin</LastName>
+    <FirstName>Clemons</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>983</CNE>
+    <LastName>Amal</LastName>
+    <FirstName>Grant</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>984</CNE>
+    <LastName>Forrest</LastName>
+    <FirstName>Shields</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>985</CNE>
+    <LastName>Ferdinand</LastName>
+    <FirstName>Vargas</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>986</CNE>
+    <LastName>Tamara</LastName>
+    <FirstName>Thornton</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>987</CNE>
+    <LastName>Caldwell</LastName>
+    <FirstName>Jacobson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>988</CNE>
+    <LastName>Hunter</LastName>
+    <FirstName>Arnold</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>989</CNE>
+    <LastName>India</LastName>
+    <FirstName>English</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>990</CNE>
+    <LastName>Constance</LastName>
+    <FirstName>Dale</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>991</CNE>
+    <LastName>Nasim</LastName>
+    <FirstName>Abbott</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>992</CNE>
+    <LastName>Mason</LastName>
+    <FirstName>Jarvis</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>993</CNE>
+    <LastName>Reece</LastName>
+    <FirstName>Wilkinson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>994</CNE>
+    <LastName>Chastity</LastName>
+    <FirstName>Stevenson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>995</CNE>
+    <LastName>Yvette</LastName>
+    <FirstName>Steele</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>996</CNE>
+    <LastName>Rudyard</LastName>
+    <FirstName>Hayes</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>997</CNE>
+    <LastName>Gary</LastName>
+    <FirstName>Wood</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>998</CNE>
+    <LastName>Holmes</LastName>
+    <FirstName>Floyd</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>999</CNE>
+    <LastName>Erin</LastName>
+    <FirstName>Salazar</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1000</CNE>
+    <LastName>Charles</LastName>
+    <FirstName>Todd</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1001</CNE>
+    <LastName>Allistair</LastName>
+    <FirstName>Webster</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1002</CNE>
+    <LastName>Hedwig</LastName>
+    <FirstName>Nguyen</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1003</CNE>
+    <LastName>Jordan</LastName>
+    <FirstName>Cooper</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1004</CNE>
+    <LastName>Gregory</LastName>
+    <FirstName>Norris</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1005</CNE>
+    <LastName>Dahlia</LastName>
+    <FirstName>Dorsey</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1006</CNE>
+    <LastName>Stuart</LastName>
+    <FirstName>Meyers</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1007</CNE>
+    <LastName>Robin</LastName>
+    <FirstName>Chapman</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1008</CNE>
+    <LastName>Eugenia</LastName>
+    <FirstName>Rowland</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1009</CNE>
+    <LastName>Marvin</LastName>
+    <FirstName>Pearson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1010</CNE>
+    <LastName>Quinlan</LastName>
+    <FirstName>Moreno</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1011</CNE>
+    <LastName>Serina</LastName>
+    <FirstName>Gilmore</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1012</CNE>
+    <LastName>Todd</LastName>
+    <FirstName>Baldwin</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1013</CNE>
+    <LastName>Erich</LastName>
+    <FirstName>Gilmore</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1014</CNE>
+    <LastName>Eleanor</LastName>
+    <FirstName>Neal</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1015</CNE>
+    <LastName>Dane</LastName>
+    <FirstName>Rhodes</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1016</CNE>
+    <LastName>Sigourney</LastName>
+    <FirstName>Bennett</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1017</CNE>
+    <LastName>Keith</LastName>
+    <FirstName>Perkins</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1018</CNE>
+    <LastName>Fitzgerald</LastName>
+    <FirstName>Byrd</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1019</CNE>
+    <LastName>Octavius</LastName>
+    <FirstName>Donaldson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1020</CNE>
+    <LastName>Hector</LastName>
+    <FirstName>Warren</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1021</CNE>
+    <LastName>Quin</LastName>
+    <FirstName>Mathews</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1022</CNE>
+    <LastName>Harding</LastName>
+    <FirstName>Vaughn</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1023</CNE>
+    <LastName>Malachi</LastName>
+    <FirstName>Hale</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1024</CNE>
+    <LastName>Liberty</LastName>
+    <FirstName>Pickett</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1025</CNE>
+    <LastName>Hanae</LastName>
+    <FirstName>Shannon</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1026</CNE>
+    <LastName>Armando</LastName>
+    <FirstName>Trevino</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1027</CNE>
+    <LastName>Keith</LastName>
+    <FirstName>Smith</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1028</CNE>
+    <LastName>Tasha</LastName>
+    <FirstName>Chavez</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1029</CNE>
+    <LastName>Ross</LastName>
+    <FirstName>Ross</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1030</CNE>
+    <LastName>Shay</LastName>
+    <FirstName>Park</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1031</CNE>
+    <LastName>Pamela</LastName>
+    <FirstName>Maldonado</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1032</CNE>
+    <LastName>Rowan</LastName>
+    <FirstName>Mcneil</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1033</CNE>
+    <LastName>Jamalia</LastName>
+    <FirstName>Terry</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1034</CNE>
+    <LastName>Xena</LastName>
+    <FirstName>Clayton</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1035</CNE>
+    <LastName>Ebony</LastName>
+    <FirstName>Mcintyre</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1036</CNE>
+    <LastName>Wade</LastName>
+    <FirstName>Abbott</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1037</CNE>
+    <LastName>Elton</LastName>
+    <FirstName>Sampson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1038</CNE>
+    <LastName>Charlotte</LastName>
+    <FirstName>Mason</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1039</CNE>
+    <LastName>Leah</LastName>
+    <FirstName>Hickman</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1040</CNE>
+    <LastName>Edward</LastName>
+    <FirstName>Faulkner</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1041</CNE>
+    <LastName>Stephen</LastName>
+    <FirstName>Roberts</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1042</CNE>
+    <LastName>Noelani</LastName>
+    <FirstName>Chase</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1043</CNE>
+    <LastName>Wylie</LastName>
+    <FirstName>Garrett</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1044</CNE>
+    <LastName>Zoe</LastName>
+    <FirstName>Cunningham</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1045</CNE>
+    <LastName>Gary</LastName>
+    <FirstName>Lawson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1046</CNE>
+    <LastName>Louis</LastName>
+    <FirstName>Lang</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1047</CNE>
+    <LastName>Jane</LastName>
+    <FirstName>Gilliam</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1048</CNE>
+    <LastName>Clinton</LastName>
+    <FirstName>Owens</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1049</CNE>
+    <LastName>Cara</LastName>
+    <FirstName>Marks</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1050</CNE>
+    <LastName>Acton</LastName>
+    <FirstName>Hinton</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1051</CNE>
+    <LastName>Ferris</LastName>
+    <FirstName>Wright</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1052</CNE>
+    <LastName>Isaiah</LastName>
+    <FirstName>Patterson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1053</CNE>
+    <LastName>Henry</LastName>
+    <FirstName>Ratliff</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1054</CNE>
+    <LastName>Cally</LastName>
+    <FirstName>Ewing</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1055</CNE>
+    <LastName>Shea</LastName>
+    <FirstName>Tran</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1056</CNE>
+    <LastName>Robin</LastName>
+    <FirstName>Marks</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1057</CNE>
+    <LastName>Lesley</LastName>
+    <FirstName>Russell</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1058</CNE>
+    <LastName>Mia</LastName>
+    <FirstName>Dawson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1059</CNE>
+    <LastName>Eden</LastName>
+    <FirstName>Howe</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1060</CNE>
+    <LastName>Isaiah</LastName>
+    <FirstName>Pollard</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1061</CNE>
+    <LastName>Nolan</LastName>
+    <FirstName>Bowers</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1062</CNE>
+    <LastName>Alma</LastName>
+    <FirstName>Ferrell</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1063</CNE>
+    <LastName>Ronan</LastName>
+    <FirstName>Doyle</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1064</CNE>
+    <LastName>Colorado</LastName>
+    <FirstName>Burris</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1065</CNE>
+    <LastName>Penelope</LastName>
+    <FirstName>Villarreal</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1066</CNE>
+    <LastName>Kadeem</LastName>
+    <FirstName>Cook</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1067</CNE>
+    <LastName>Xavier</LastName>
+    <FirstName>Solis</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1068</CNE>
+    <LastName>Ainsley</LastName>
+    <FirstName>Lawrence</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1069</CNE>
+    <LastName>Amethyst</LastName>
+    <FirstName>Graham</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1070</CNE>
+    <LastName>Wallace</LastName>
+    <FirstName>Wolfe</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1071</CNE>
+    <LastName>Barrett</LastName>
+    <FirstName>Witt</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1072</CNE>
+    <LastName>Phelan</LastName>
+    <FirstName>Morin</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1073</CNE>
+    <LastName>Yardley</LastName>
+    <FirstName>Mcpherson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1074</CNE>
+    <LastName>Ishmael</LastName>
+    <FirstName>Johnston</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1075</CNE>
+    <LastName>Clare</LastName>
+    <FirstName>Ayala</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1076</CNE>
+    <LastName>Willow</LastName>
+    <FirstName>Ingram</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1077</CNE>
+    <LastName>Stuart</LastName>
+    <FirstName>Dejesus</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1078</CNE>
+    <LastName>Calista</LastName>
+    <FirstName>Sims</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1079</CNE>
+    <LastName>Rose</LastName>
+    <FirstName>Morris</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1080</CNE>
+    <LastName>Moana</LastName>
+    <FirstName>Cole</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1081</CNE>
+    <LastName>Yuli</LastName>
+    <FirstName>Hansen</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1082</CNE>
+    <LastName>Sophia</LastName>
+    <FirstName>Key</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1083</CNE>
+    <LastName>Marsden</LastName>
+    <FirstName>Sutton</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1084</CNE>
+    <LastName>Lael</LastName>
+    <FirstName>Rhodes</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1085</CNE>
+    <LastName>Clare</LastName>
+    <FirstName>Vinson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1086</CNE>
+    <LastName>Bryar</LastName>
+    <FirstName>Frye</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1087</CNE>
+    <LastName>Neil</LastName>
+    <FirstName>Roman</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1088</CNE>
+    <LastName>Gisela</LastName>
+    <FirstName>Michael</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1089</CNE>
+    <LastName>Logan</LastName>
+    <FirstName>Warner</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1090</CNE>
+    <LastName>Audra</LastName>
+    <FirstName>Mercer</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1091</CNE>
+    <LastName>Wade</LastName>
+    <FirstName>Garza</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1092</CNE>
+    <LastName>Sandra</LastName>
+    <FirstName>Gilliam</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1093</CNE>
+    <LastName>Lani</LastName>
+    <FirstName>Berger</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1094</CNE>
+    <LastName>Xandra</LastName>
+    <FirstName>Conway</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1095</CNE>
+    <LastName>Amber</LastName>
+    <FirstName>Oneal</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1096</CNE>
+    <LastName>Priscilla</LastName>
+    <FirstName>Stevenson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1097</CNE>
+    <LastName>Zia</LastName>
+    <FirstName>Meadows</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1098</CNE>
+    <LastName>Reece</LastName>
+    <FirstName>Martinez</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1099</CNE>
+    <LastName>Phelan</LastName>
+    <FirstName>Terrell</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1100</CNE>
+    <LastName>Kalia</LastName>
+    <FirstName>Bray</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1101</CNE>
+    <LastName>Wade</LastName>
+    <FirstName>Patel</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1102</CNE>
+    <LastName>Rahim</LastName>
+    <FirstName>Richmond</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1103</CNE>
+    <LastName>Alvin</LastName>
+    <FirstName>Lynn</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1104</CNE>
+    <LastName>Leslie</LastName>
+    <FirstName>Hayes</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1105</CNE>
+    <LastName>Ferdinand</LastName>
+    <FirstName>Foley</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1106</CNE>
+    <LastName>Joel</LastName>
+    <FirstName>Stephenson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1107</CNE>
+    <LastName>Nissim</LastName>
+    <FirstName>Wade</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1108</CNE>
+    <LastName>Rooney</LastName>
+    <FirstName>Jenkins</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1109</CNE>
+    <LastName>Acton</LastName>
+    <FirstName>Leonard</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1110</CNE>
+    <LastName>India</LastName>
+    <FirstName>Castaneda</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1111</CNE>
+    <LastName>Constance</LastName>
+    <FirstName>Estrada</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1112</CNE>
+    <LastName>Elijah</LastName>
+    <FirstName>Ramos</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1113</CNE>
+    <LastName>Minerva</LastName>
+    <FirstName>Buck</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1114</CNE>
+    <LastName>Stephen</LastName>
+    <FirstName>Key</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1115</CNE>
+    <LastName>Fritz</LastName>
+    <FirstName>Ferguson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1116</CNE>
+    <LastName>Nicholas</LastName>
+    <FirstName>Mcmahon</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1117</CNE>
+    <LastName>Marny</LastName>
+    <FirstName>Diaz</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1118</CNE>
+    <LastName>Eaton</LastName>
+    <FirstName>English</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1119</CNE>
+    <LastName>Jenna</LastName>
+    <FirstName>Daniel</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1120</CNE>
+    <LastName>Quincy</LastName>
+    <FirstName>Ross</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1121</CNE>
+    <LastName>Lila</LastName>
+    <FirstName>Mckenzie</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1122</CNE>
+    <LastName>Emi</LastName>
+    <FirstName>Gilbert</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1123</CNE>
+    <LastName>Samantha</LastName>
+    <FirstName>Daugherty</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1124</CNE>
+    <LastName>Halla</LastName>
+    <FirstName>Barrett</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1125</CNE>
+    <LastName>Olga</LastName>
+    <FirstName>Schwartz</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1126</CNE>
+    <LastName>Ira</LastName>
+    <FirstName>Barrera</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1127</CNE>
+    <LastName>Xander</LastName>
+    <FirstName>Payne</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1128</CNE>
+    <LastName>Kieran</LastName>
+    <FirstName>Santiago</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1129</CNE>
+    <LastName>Oliver</LastName>
+    <FirstName>Simon</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1130</CNE>
+    <LastName>Tobias</LastName>
+    <FirstName>Kim</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1131</CNE>
+    <LastName>Fritz</LastName>
+    <FirstName>Booker</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1132</CNE>
+    <LastName>Savannah</LastName>
+    <FirstName>Hendrix</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1133</CNE>
+    <LastName>Theodore</LastName>
+    <FirstName>Sexton</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1134</CNE>
+    <LastName>Ulric</LastName>
+    <FirstName>Joyce</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1135</CNE>
+    <LastName>Graham</LastName>
+    <FirstName>Spence</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1136</CNE>
+    <LastName>Cyrus</LastName>
+    <FirstName>Elliott</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1137</CNE>
+    <LastName>Odessa</LastName>
+    <FirstName>Chandler</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1138</CNE>
+    <LastName>Quinn</LastName>
+    <FirstName>Griffith</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1139</CNE>
+    <LastName>Dean</LastName>
+    <FirstName>Alvarez</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1140</CNE>
+    <LastName>Price</LastName>
+    <FirstName>Underwood</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1141</CNE>
+    <LastName>Imogene</LastName>
+    <FirstName>Mosley</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1142</CNE>
+    <LastName>Noah</LastName>
+    <FirstName>Jones</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1143</CNE>
+    <LastName>Kylee</LastName>
+    <FirstName>Pratt</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1144</CNE>
+    <LastName>Matthew</LastName>
+    <FirstName>Avila</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1145</CNE>
+    <LastName>Dorian</LastName>
+    <FirstName>Hobbs</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1146</CNE>
+    <LastName>Chandler</LastName>
+    <FirstName>Russo</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1147</CNE>
+    <LastName>Nathaniel</LastName>
+    <FirstName>Mccormick</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1148</CNE>
+    <LastName>Giacomo</LastName>
+    <FirstName>Simmons</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1149</CNE>
+    <LastName>Amery</LastName>
+    <FirstName>Ross</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1150</CNE>
+    <LastName>Yen</LastName>
+    <FirstName>Pacheco</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1151</CNE>
+    <LastName>Oleg</LastName>
+    <FirstName>Dunn</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1152</CNE>
+    <LastName>Leslie</LastName>
+    <FirstName>Velez</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1153</CNE>
+    <LastName>Isaiah</LastName>
+    <FirstName>Lucas</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1154</CNE>
+    <LastName>Mona</LastName>
+    <FirstName>Salazar</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1155</CNE>
+    <LastName>Daryl</LastName>
+    <FirstName>Cotton</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1156</CNE>
+    <LastName>Lani</LastName>
+    <FirstName>Campos</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1157</CNE>
+    <LastName>Ivy</LastName>
+    <FirstName>Greene</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1158</CNE>
+    <LastName>Berk</LastName>
+    <FirstName>Alvarado</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1159</CNE>
+    <LastName>Rashad</LastName>
+    <FirstName>Allen</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1160</CNE>
+    <LastName>Josiah</LastName>
+    <FirstName>Blackwell</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1161</CNE>
+    <LastName>Astra</LastName>
+    <FirstName>Zimmerman</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1162</CNE>
+    <LastName>Janna</LastName>
+    <FirstName>Goodwin</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1163</CNE>
+    <LastName>Pearl</LastName>
+    <FirstName>Morse</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1164</CNE>
+    <LastName>Samantha</LastName>
+    <FirstName>Diaz</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1165</CNE>
+    <LastName>Fletcher</LastName>
+    <FirstName>Hudson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1166</CNE>
+    <LastName>Sade</LastName>
+    <FirstName>Garcia</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1167</CNE>
+    <LastName>Nicole</LastName>
+    <FirstName>Boyd</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1168</CNE>
+    <LastName>Ocean</LastName>
+    <FirstName>Cardenas</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1169</CNE>
+    <LastName>Blake</LastName>
+    <FirstName>Rios</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1170</CNE>
+    <LastName>Kiayada</LastName>
+    <FirstName>Winters</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1171</CNE>
+    <LastName>Curran</LastName>
+    <FirstName>Valdez</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1172</CNE>
+    <LastName>Ingrid</LastName>
+    <FirstName>Matthews</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1173</CNE>
+    <LastName>Sasha</LastName>
+    <FirstName>Barlow</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1174</CNE>
+    <LastName>Kylan</LastName>
+    <FirstName>Bird</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1175</CNE>
+    <LastName>Tiger</LastName>
+    <FirstName>Petersen</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1176</CNE>
+    <LastName>Mari</LastName>
+    <FirstName>Richards</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1177</CNE>
+    <LastName>Herman</LastName>
+    <FirstName>Salinas</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1178</CNE>
+    <LastName>Kirby</LastName>
+    <FirstName>Soto</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1179</CNE>
+    <LastName>Avye</LastName>
+    <FirstName>Jacobson</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1180</CNE>
+    <LastName>Dorothy</LastName>
+    <FirstName>Lynch</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1181</CNE>
+    <LastName>Julie</LastName>
+    <FirstName>Pierce</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1182</CNE>
+    <LastName>Hashim</LastName>
+    <FirstName>Rogers</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1183</CNE>
+    <LastName>Briar</LastName>
+    <FirstName>Calhoun</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1184</CNE>
+    <LastName>Beau</LastName>
+    <FirstName>Mason</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+  <note>
+    <CNE>1185</CNE>
+    <LastName>Laith</LastName>
+    <FirstName>Hays</FirstName>
+    <matiere codeMat="AP11">12</matiere>
+    <matiere codeMat="AP12">12</matiere>
+    <matiere codeMat="AP13">12</matiere>
+    <matiere codeMat="AP14">12</matiere>
+    <matiere codeMat="AP15">12</matiere>
+    <matiere codeMat="AP16">12</matiere>
+    <matiere codeMat="AP21">12</matiere>
+    <matiere codeMat="AP22">12</matiere>
+    <matiere codeMat="AP23">12</matiere>
+    <matiere codeMat="AP24">12</matiere>
+    <matiere codeMat="AP25">12</matiere>
+    <matiere codeMat="AP26">12</matiere>
+  </note>
+</notes>
