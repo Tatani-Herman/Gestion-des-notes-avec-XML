@@ -14,9 +14,9 @@ $arrayClass=array("G3EI1","G3EI2","G3EI3","GIL1","GIL2","GIL3",
 //$arrayClass=array("GINF2");
 $arrayCat=array(
     //"student",
-    "note",
-    "notes_apr",
-    //"module"
+    //"note",
+    //"notes_apr",
+    "module"
 );
 
 $App=new ExcelToXml();
