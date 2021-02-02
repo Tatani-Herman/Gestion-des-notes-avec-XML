@@ -9,14 +9,14 @@
 
 
 require_once "ExcelToXml.php";
-$arrayClass=array("G3EI1","G3EI2","G3EI3","GIL1","GIL2","GIL3",
+$arrayClass=array("AP1","AP2","G3EI1","G3EI2","G3EI3","GIL1","GIL2","GIL3",
 "GINF1","GINF2","GINF3","GSEA1","GSEA2","GSEA3","GSTR1","GSTR2","GSTR3");
 //$arrayClass=array("GINF2");
 $arrayCat=array(
-    //"student",
+    "student",
     //"note",
     //"notes_apr",
-    "module"
+    //"module"
 );
 
 $App=new ExcelToXml();
