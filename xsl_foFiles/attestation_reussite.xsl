@@ -46,11 +46,11 @@ page-height="29.7cm" master-name="simpleA4">
                 <fo:block text-align="center" space-after="2mm">a été déclaré admis au niveau</fo:block>
                 <fo:block text-align="center" space-after="5mm" font-weight="bold">3° Année Génie Informatique</fo:block>
                 <fo:block text-align="center">au titre de l'année universitaire 2020/2021</fo:block>
-                <fo:block margin-left="0.5cm">
+                <fo:block margin-left="0.5cm" space-after="15cm">
                  <fo:external-graphic src="url(C://xampp/htdocs/Gestion-des-notes-avec-XML/img/trait.PNG)"/>
                  </fo:block> 
 
-                <fo:block margin-top="15cm" margin-left="11cm" space-after="2cm">Fait à TANGER, le 14 février 2020</fo:block>
+                <fo:block  margin-left="11cm" space-after="2cm">Fait à TANGER, le 14 février 2020</fo:block>
                 <fo:block margin-left="12.5cm">Le Directeur</fo:block>
                 <fo:block margin-left="5mm" space-after="1cm">N° étudiant: <xsl:value-of select="students/student[position()=1]/CNE"/></fo:block>
                 <fo:block font-size="9pt">Avis important: il ne peut être délivré qu'un seul exemplaire de cette attestation. Aucun duplicata ne sera fourni</fo:block>
