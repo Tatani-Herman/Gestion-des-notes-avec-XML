@@ -56,7 +56,7 @@ page-height="29.7cm" master-name="simpleA4">
             	<fo:flow flow-name="xsl-region-body">
                 <fo:block>
 					<fo:table  border-width="1px" border-style="solid" height="1cm" margin-left="0.4cm">
-						<fo:table-column column-width="8cm"/>
+						            <fo:table-column column-width="10cm"/>
                         <fo:table-column column-width="4cm"/>
                          <fo:table-column column-width="5cm"/>
 
@@ -207,7 +207,7 @@ page-height="29.7cm" master-name="simpleA4">
                         </fo:table-body>
                         </fo:table>
                             <!--space-after="1.8cm stylus studio"-->
-                              <fo:block space-after="4.5cm" space-before="1.5mm" font-weight="bold" margin-left="0.5cm" font-size="11pt">Résultat d'admission session 1:<fo:inline margin-left="4cm"><xsl:variable name="number" select="sum(notes/note[position()=1]/matiere) div count(notes/note[position()=1]/matiere)"/><xsl:value-of select="format-number($number,'#.###')"/>/20
+                              <fo:block space-after="4.5cm" space-before="1.5mm" font-weight="bold" margin-left="0.5cm" font-size="11pt">Résultat d'admission session 1:<fo:inline margin-left="6cm"><xsl:variable name="number" select="sum(notes/note[position()=1]/matiere) div count(notes/note[position()=1]/matiere)"/><xsl:value-of select="format-number($number,'#.###')"/>/20
                                 
                                 <xsl:choose>
                                       <xsl:when test="$number &lt; 12">
