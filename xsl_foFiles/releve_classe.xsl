@@ -4,7 +4,7 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format" version="2.0">
 <xsl:template match="/">
 	<fo:root>
 			<fo:layout-master-set>
-				<fo:simple-page-master margin-right="0.1cm"
+				<fo:simple-page-master margin-right="0.2cm"
 margin-left="0.2cm" margin-bottom="0.3cm"
 margin-top="0.1cm" page-width="25cm"
 page-height="29.7cm" master-name="simpleA4">
@@ -24,7 +24,7 @@ page-height="29.7cm" master-name="simpleA4">
 							<fo:table-row>
 								<fo:table-cell text-align="left"  padding-left="2mm" font-weight="bold">
 									<fo:block>
-										<xsl:text>Université Adelmalek Essaadi </xsl:text>
+										<xsl:text>Université Abdelmalek Essaâdi </xsl:text>
 									</fo:block>
                                     <fo:block space-before="13mm">
                                     <xsl:text>Session 1 2020/2021 </xsl:text>

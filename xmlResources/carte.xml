@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-  <card xmlns="http://businesscard.org">
-    <firstname>TATANI BOUTCHUENG</firstname>
-    <lastname>HERMAN JOEL</lastname>
-    <CNE>17008402</CNE>
-    <inscription>2017/2018</inscription>
-    <moi uri="C:\xampp\htdocs\Gestion-des-notes-avec-XML\img\moi.jpeg"/>
-    <photo uri="C:\xampp\htdocs\Gestion-des-notes-avec-XML\img\qr.png"/>
-  </card>
