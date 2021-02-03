@@ -9,7 +9,7 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format" version="2.0">
 margin-left="0.2cm" margin-bottom="0.2cm"
 margin-top="0.1cm" page-width="21cm"
 page-height="29.7cm" master-name="simpleA4">
-	<fo:region-body margin-top="9cm" margin-bottom="1mm" margin-right="0.6cm"/>
+	<fo:region-body margin-top="8.45cm" margin-bottom="1mm" margin-right="0.6cm"/>
 	<fo:region-before region-name="xsl-region-before" extent="25mm" display-align="before" precedence="true"/>
 			
 				</fo:simple-page-master>
@@ -61,7 +61,7 @@ page-height="29.7cm" master-name="simpleA4">
                          <fo:table-column column-width="5cm"/>
 
                          <fo:table-header>
-                            <fo:table-row border-width="1px" border-style="solid" height="1cm">
+                            <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
                              <fo:table-cell> </fo:table-cell>
                              <fo:table-cell text-align="center">
                              <fo:block>Note/Barème</fo:block>
@@ -73,7 +73,7 @@ page-height="29.7cm" master-name="simpleA4">
                         </fo:table-header>
 
                         <fo:table-body>
-                          <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
+                          <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                            <fo:table-cell><fo:block><xsl:text>GINF31: Programmation Orientée Objet java, XML </xsl:text></fo:block>
                             </fo:table-cell>
                              <fo:table-cell text-align="center">
@@ -84,7 +84,7 @@ page-height="29.7cm" master-name="simpleA4">
                              </fo:table-cell>
                             </fo:table-row>
 
-                            <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
+                            <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                            <fo:table-cell><fo:block><xsl:text>GINF32: Assurance controle qualité, Cycle de Vie Logiciel et Méthodes agiles, Maitrise et optimisation des processus </xsl:text></fo:block>
                             </fo:table-cell>
                              <fo:table-cell text-align="center">
@@ -95,7 +95,7 @@ page-height="29.7cm" master-name="simpleA4">
                              </fo:table-cell>
                             </fo:table-row>
 
-                            <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
+                            <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                            <fo:table-cell><fo:block><xsl:text>GINF33: Modélisation orientée objet UML, IHM, Cycle de vie logiciel</xsl:text></fo:block>
                             </fo:table-cell>
                              <fo:table-cell text-align="center">
@@ -106,7 +106,7 @@ page-height="29.7cm" master-name="simpleA4">
                              </fo:table-cell>
                             </fo:table-row>
 
-                            <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
+                            <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                            <fo:table-cell><fo:block><xsl:text>GINF34: Optimisation et qualité de base de données, Administration et sécurité des bases de données, Base de données NoSQL </xsl:text></fo:block>
                             </fo:table-cell>
                              <fo:table-cell text-align="center">
@@ -117,7 +117,7 @@ page-height="29.7cm" master-name="simpleA4">
                              </fo:table-cell>
                             </fo:table-row>
 
-                            <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
+                            <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                            <fo:table-cell><fo:block><xsl:text>GINF35: Administration systèmes, Programmation systèmes </xsl:text></fo:block>
                             </fo:table-cell>
                              <fo:table-cell text-align="center">
@@ -128,7 +128,7 @@ page-height="29.7cm" master-name="simpleA4">
                              </fo:table-cell>
                             </fo:table-row>
 
-                            <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
+                            <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                            <fo:table-cell><fo:block><xsl:text>GINF36: Espagnol 2 et Allemand, Anglais professionnel, Technique de communication </xsl:text></fo:block>
                             </fo:table-cell>
                              <fo:table-cell text-align="center">
@@ -139,7 +139,7 @@ page-height="29.7cm" master-name="simpleA4">
                              </fo:table-cell>
                             </fo:table-row>
 
-                            <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
+                            <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                            <fo:table-cell><fo:block><xsl:text>GINF41: Introduction à J2EE, programmation en C# </xsl:text></fo:block>
                             </fo:table-cell>
                              <fo:table-cell text-align="center">
@@ -150,7 +150,7 @@ page-height="29.7cm" master-name="simpleA4">
                              </fo:table-cell>
                             </fo:table-row>
 
-                            <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
+                            <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                            <fo:table-cell><fo:block><xsl:text>GINF42: Gestion des données complexes, Gestion des données distribuées, Cloud computing et infogérance </xsl:text></fo:block>
                             </fo:table-cell>
                              <fo:table-cell text-align="center">
@@ -161,7 +161,7 @@ page-height="29.7cm" master-name="simpleA4">
                              </fo:table-cell>
                             </fo:table-row>
 
-                            <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
+                            <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                            <fo:table-cell><fo:block><xsl:text>GINF43: Traitement de l'image, Vision numérique, Processus stochastique </xsl:text></fo:block>
                             </fo:table-cell>
                              <fo:table-cell text-align="center">
@@ -172,7 +172,7 @@ page-height="29.7cm" master-name="simpleA4">
                              </fo:table-cell>
                             </fo:table-row>
 
-                            <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
+                            <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                            <fo:table-cell><fo:block><xsl:text>GINF44: Programmation déclarative, Techniques algorithmiques Avancées </xsl:text></fo:block>
                             </fo:table-cell>
                              <fo:table-cell text-align="center">
@@ -183,7 +183,7 @@ page-height="29.7cm" master-name="simpleA4">
                              </fo:table-cell>
                             </fo:table-row>
 
-                            <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
+                            <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                            <fo:table-cell><fo:block><xsl:text>GINF45: Sécurité des systèmes, Crytographie  </xsl:text></fo:block>
                             </fo:table-cell>
                              <fo:table-cell text-align="center">
@@ -194,7 +194,7 @@ page-height="29.7cm" master-name="simpleA4">
                              </fo:table-cell>
                             </fo:table-row>
 
-                            <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
+                            <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                            <fo:table-cell><fo:block><xsl:text>GINF46: Economie 2 et comptabilité 2, projet collectif et stage, Management de projet </xsl:text></fo:block>
                             </fo:table-cell>
                              <fo:table-cell text-align="center">
@@ -206,7 +206,8 @@ page-height="29.7cm" master-name="simpleA4">
                             </fo:table-row>
                         </fo:table-body>
                         </fo:table>
-                              <fo:block space-before="1.5mm" font-weight="bold" margin-left="0.5cm" font-size="11pt">Résultat d'admission session 1:<fo:inline margin-left="4cm"><xsl:variable name="number" select="sum(notes/note[position()=1]/matiere) div count(notes/note[position()=1]/matiere)"/><xsl:value-of select="format-number($number,'#.###')"/>/20
+                            <!--space-after="1.8cm stylus studio"-->
+                              <fo:block space-after="4.5cm" space-before="1.5mm" font-weight="bold" margin-left="0.5cm" font-size="11pt">Résultat d'admission session 1:<fo:inline margin-left="4cm"><xsl:variable name="number" select="sum(notes/note[position()=1]/matiere) div count(notes/note[position()=1]/matiere)"/><xsl:value-of select="format-number($number,'#.###')"/>/20
                                 
                                 <xsl:choose>
                                       <xsl:when test="$number &lt; 12">
@@ -219,9 +220,9 @@ page-height="29.7cm" master-name="simpleA4">
                                 </fo:inline>
                                </fo:block>
 
-                               <fo:block margin-top="4.5cm" margin-left="3.5cm" font-size="11pt" space-after="1mm">Fait à TANGER, le 14 février 2021</fo:block>
+                               <fo:block margin-left="3.5cm" font-size="11pt" space-after="1mm">Fait à TANGER, le 14 février 2021</fo:block>
                                <fo:block font-size="11pt" space-after="4mm">Le Directeur de l'Ecole Nationale des Sciences Appliquées de Tanger</fo:block>
-                               <fo:block font-size="11pt" margin-left="4.7cm" space-after="2mm">Le Directeur</fo:block>
+                               <fo:block font-size="11pt" margin-left="4.7cm" space-after="1mm">Le Directeur</fo:block>
                                 <fo:block font-size="9pt" margin-left="2.2cm">Avis important: il ne peut être délivré qu'un seul exemplaire du présent relevé de note. Aucun duplicata ne sera fourni.</fo:block>
                          </fo:block>
                               </fo:flow>
