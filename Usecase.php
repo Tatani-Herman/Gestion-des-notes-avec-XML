@@ -11,12 +11,11 @@
 require_once "ExcelToXml.php";
 $arrayClass=array("AP1","AP2","G3EI1","G3EI2","G3EI3","GIL1","GIL2","GIL3",
 "GINF1","GINF2","GINF3","GSEA1","GSEA2","GSEA3","GSTR1","GSTR2","GSTR3");
-//$arrayClass=array("GINF2");
 $arrayCat=array(
     "student",
     "note",
     "notes_apr",
-    "module"
+   "module"
 );
 
 $App=new ExcelToXml();
@@ -33,31 +32,79 @@ foreach ($arrayClass as $class) {
 
     $ginf2 = $dom->getElementsByTagName($categorie.'s')->item(0);
 
-    
+    //Include XSD
+    if ($categorie=="notes_apr") {
+        $ginf2 = $dom->getElementsByTagName('notes')->item(0);
+        //si ton editeur souligne la fonction setAttributeNS , ignore
+        $ginf2->setAttributeNS(
+           
+            // namespace
+            'http://www.w3.org/2001/XMLSchema-instance',
+            // attribute name including namespace prefix
+            'xsi:noNamespaceSchemaLocation',
+            // attribute value
+            'C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/notes.xsd'
+           );
+        $dom->save("xmlResources/notes_".$class."_apres.xml");
+       
+    }
+    elseif ($categorie=="note") {
+        $ginf2->setAttributeNS(
+            
+            // namespace
+            'http://www.w3.org/2001/XMLSchema-instance',
+            // attribute name including namespace prefix
+            'xsi:noNamespaceSchemaLocation',
+            // attribute value
+            'C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/'.$categorie.'s.xsd'
+           );
+        $dom->save("xmlResources/notes_".$class."_avant.xml");
+       
+    }
+    else {
+        $ginf2->setAttributeNS(
+            
+            // namespace
+            'http://www.w3.org/2001/XMLSchema-instance',
+            // attribute name including namespace prefix
+            'xsi:noNamespaceSchemaLocation',
+            // attribute value
+            'C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/'.$categorie.'s.xsd'
+           );
+        $dom->save("xmlResources/".$categorie."s_".$class.".xml");
+        
+    }
+  
+  
+  //Inlude DTD
+    /*
     if ($categorie=="notes_apr") {
         $ginf2 = $dom->getElementsByTagName('notes')->item(0);
 
         $dom->insertBefore($imp->createDocumentType('notes', 
         null, 
-        '../validationResources/notes.dtd'),$ginf2);
+        'C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/notes.dtd'),$ginf2);
         $dom->save("xmlResources/notes_".$class."_apres.xml");
        
     }
     elseif ($categorie=="note") {
         $dom->insertBefore($imp->createDocumentType($categorie.'s', 
         null, 
-        '../validationResources/'.$categorie.'s.dtd'),$ginf2);
+        'C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/'.$categorie.'s.dtd'),$ginf2);
         $dom->save("xmlResources/notes_".$class."_avant.xml");
        
     }
     else {
         $dom->insertBefore($imp->createDocumentType($categorie.'s', 
     null, 
-    '../validationResources/'.$categorie.'s.dtd'),$ginf2);
+    'C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/'.$categorie.'s.dtd'),$ginf2);
         $dom->save("xmlResources/".$categorie."s_".$class.".xml");
         
-    }
+    }*/
 }
 }
 
+
+header('Location:dashboard.php');
+exit();
 ?>
