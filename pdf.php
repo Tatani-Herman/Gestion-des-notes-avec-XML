@@ -8,7 +8,10 @@ if(isset($_GET['class'])&& isset($_GET['cne']))
     $xpath = new DOMXPath($doc);
     $query="//students/student[CNE=".$_GET['cne']."]";
     $entries = $xpath->query($query);
-
+    if ($entries->length==0) {
+        header('Location:dashboard.php?error=cneinexistant');
+        exit();
+     } 
    $output = '';
    $i=0;
    $result= new DOMDocument;
@@ -30,8 +33,7 @@ if(isset($_GET['class'])&& isset($_GET['cne']))
     </student>
   */
   $httppost=new HTTPPost();
-  $pdfdata=$httppost->post_request("localhost","8087","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/carte.xsl",$studentXml);
-  //$pdfdata=$httppost->post_request("localhost","8087","C://wamp/www/Gestion-des-notes-avec-XML/xsl_foFiles/carte.xsl",$studentXml);
+   $pdfdata=$httppost->post_request("localhost","8087","C://xamp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/carte.xsl",$studentXml);
 
     // save PDF output to a PDF file
     $myFile = $_GET['class']."_".$_GET['cne'].".pdf";
