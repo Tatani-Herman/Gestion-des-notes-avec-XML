@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
-<!DOCTYPE notes SYSTEM "../validationResources/notes.dtd">
-<notes>
+<notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/notes.xsd">
   <note>
-    <CNE>1</CNE>
+    <CNE>330</CNE>
     <LastName>Achabar</LastName>
     <FirstName>Adnane</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -19,7 +18,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>2</CNE>
+    <CNE>331</CNE>
     <LastName>Adraoui</LastName>
     <FirstName>Khaoula</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -36,7 +35,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>3</CNE>
+    <CNE>332</CNE>
     <LastName>Aissa</LastName>
     <FirstName>Maria</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -53,7 +52,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>4</CNE>
+    <CNE>333</CNE>
     <LastName>Ahmadoun</LastName>
     <FirstName>Mohamed</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -70,7 +69,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>5</CNE>
+    <CNE>334</CNE>
     <LastName>Ameziane </LastName>
     <FirstName>Chaimae</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -87,7 +86,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>6</CNE>
+    <CNE>335</CNE>
     <LastName>Aymane</LastName>
     <FirstName>Dabdoubi</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -104,7 +103,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>7</CNE>
+    <CNE>336</CNE>
     <LastName>Benabdellah</LastName>
     <FirstName>Adnane</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -121,7 +120,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>8</CNE>
+    <CNE>337</CNE>
     <LastName>Bentaher</LastName>
     <FirstName>Mohamed</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -138,7 +137,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>9</CNE>
+    <CNE>338</CNE>
     <LastName>Bouabib</LastName>
     <FirstName>Iness</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -155,7 +154,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>10</CNE>
+    <CNE>339</CNE>
     <LastName>Bouhal</LastName>
     <FirstName>Basma</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -172,7 +171,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>11</CNE>
+    <CNE>340</CNE>
     <LastName>Bouzekraoui</LastName>
     <FirstName>Asmae</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -189,7 +188,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>12</CNE>
+    <CNE>341</CNE>
     <LastName>Charfi</LastName>
     <FirstName>Youssef</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -206,7 +205,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>13</CNE>
+    <CNE>342</CNE>
     <LastName>Chihi</LastName>
     <FirstName>Hasnae</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -223,7 +222,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>14</CNE>
+    <CNE>343</CNE>
     <LastName>Dachar</LastName>
     <FirstName>Mohamed</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -240,7 +239,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>15</CNE>
+    <CNE>344</CNE>
     <LastName>Echtioui</LastName>
     <FirstName>Salma</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -257,7 +256,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>16</CNE>
+    <CNE>345</CNE>
     <LastName>El Aakkouchi</LastName>
     <FirstName>Salma</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -274,7 +273,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>17</CNE>
+    <CNE>346</CNE>
     <LastName>El Azizi</LastName>
     <FirstName>Hamza</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -291,7 +290,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>18</CNE>
+    <CNE>347</CNE>
     <LastName>El Asli</LastName>
     <FirstName>Mariam</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -308,7 +307,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>19</CNE>
+    <CNE>348</CNE>
     <LastName>El Bourkadi</LastName>
     <FirstName>Oussama</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -325,7 +324,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>20</CNE>
+    <CNE>349</CNE>
     <LastName>El Hassani</LastName>
     <FirstName>Sokayna</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -342,7 +341,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>21</CNE>
+    <CNE>350</CNE>
     <LastName>El Jettari</LastName>
     <FirstName>Mohamed</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -359,7 +358,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>22</CNE>
+    <CNE>351</CNE>
     <LastName>Elkasmi</LastName>
     <FirstName>Fatima Zhora</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -376,7 +375,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>23</CNE>
+    <CNE>352</CNE>
     <LastName>El Khayyat</LastName>
     <FirstName>Mohamed El Amine</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -393,7 +392,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>24</CNE>
+    <CNE>353</CNE>
     <LastName>El mansori</LastName>
     <FirstName>Issam</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -410,7 +409,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>25</CNE>
+    <CNE>354</CNE>
     <LastName>El mamaoune</LastName>
     <FirstName>Mouad</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -427,7 +426,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>26</CNE>
+    <CNE>355</CNE>
     <LastName>El Moustachir</LastName>
     <FirstName>Yassine</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -444,7 +443,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>27</CNE>
+    <CNE>356</CNE>
     <LastName>El Ouazani</LastName>
     <FirstName>Zohra</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -461,7 +460,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>28</CNE>
+    <CNE>357</CNE>
     <LastName>El Younssi</LastName>
     <FirstName>Mouna</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -478,7 +477,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>29</CNE>
+    <CNE>358</CNE>
     <LastName>Essar-rhini</LastName>
     <FirstName>Souhaib</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -495,7 +494,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>30</CNE>
+    <CNE>359</CNE>
     <LastName>Falaki</LastName>
     <FirstName>Youssef</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -512,7 +511,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>31</CNE>
+    <CNE>360</CNE>
     <LastName>Jaadar</LastName>
     <FirstName>Sami</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -529,7 +528,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>32</CNE>
+    <CNE>361</CNE>
     <LastName>Jadar</LastName>
     <FirstName>Mohamed</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -546,7 +545,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>33</CNE>
+    <CNE>362</CNE>
     <LastName>Kaadiri</LastName>
     <FirstName>Abdelatif</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -563,7 +562,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>34</CNE>
+    <CNE>363</CNE>
     <LastName>Kherraf</LastName>
     <FirstName>Taha</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -580,7 +579,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>35</CNE>
+    <CNE>364</CNE>
     <LastName>Laidouni</LastName>
     <FirstName>Youssef</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -597,7 +596,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>36</CNE>
+    <CNE>365</CNE>
     <LastName>Malawi</LastName>
     <FirstName>Imane</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -614,7 +613,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>37</CNE>
+    <CNE>366</CNE>
     <LastName>El Mansour</LastName>
     <FirstName>Mhedi</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -631,7 +630,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>38</CNE>
+    <CNE>367</CNE>
     <LastName>Maztaoui</LastName>
     <FirstName>Ilias</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -648,7 +647,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>39</CNE>
+    <CNE>368</CNE>
     <LastName>Mchachti</LastName>
     <FirstName>Fezzazi</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -665,7 +664,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>40</CNE>
+    <CNE>369</CNE>
     <LastName>Mossaouir</LastName>
     <FirstName>Firdaous</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -682,7 +681,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>41</CNE>
+    <CNE>370</CNE>
     <LastName>Noufel </LastName>
     <FirstName>Salima</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -699,7 +698,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>42</CNE>
+    <CNE>371</CNE>
     <LastName>Ngan</LastName>
     <FirstName>Joseph</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -716,7 +715,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>43</CNE>
+    <CNE>372</CNE>
     <LastName>Oumechtak</LastName>
     <FirstName>Rida</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -733,7 +732,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>44</CNE>
+    <CNE>373</CNE>
     <LastName>Sahel</LastName>
     <FirstName>Ikrame</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -750,7 +749,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>45</CNE>
+    <CNE>374</CNE>
     <LastName>Sahli</LastName>
     <FirstName>Kawtar</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -767,7 +766,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>46</CNE>
+    <CNE>375</CNE>
     <LastName>Salmoun</LastName>
     <FirstName>Insaf</FirstName>
     <matiere codeMat="GINF31">15</matiere>
@@ -784,7 +783,7 @@
     <matiere codeMat="GINF46">12</matiere>
   </note>
   <note>
-    <CNE>47</CNE>
+    <CNE>376</CNE>
     <LastName>Serrad</LastName>
     <FirstName>Hajar</FirstName>
     <matiere codeMat="GINF31">15</matiere>

@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
-<!DOCTYPE notes SYSTEM "../validationResources/notes.dtd">
-<notes>
+<notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/notes.xsd">
   <note>
     <CNE>378</CNE>
     <LastName>Roanne</LastName>

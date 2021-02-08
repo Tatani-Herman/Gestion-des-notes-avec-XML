@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
-<!DOCTYPE modules SYSTEM "../validationResources/modules.dtd">
-<modules>
+<modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/modules.xsd">
   <module>
     <Code>GSTR51</Code>
     <Name>pede. Suspendisse dui.</Name>
