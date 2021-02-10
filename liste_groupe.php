@@ -11,8 +11,8 @@ if(isset($_GET['class']))
   $studentXml=$doc->saveXML();
    
   $httppost=new HTTPPost();
- // $pdfdata=$httppost->post_request("localhost","8087","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/listeGroupe.xsl",$studentXml);
-  $pdfdata=$httppost->post_request("localhost","8087","C://wamp/www/Gestion-des-notes-avec-XML/xsl_foFiles/listeGroupe.xsl",$studentXml);
+ $pdfdata=$httppost->post_request("localhost","8087","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/listeGroupe.xsl",$studentXml);
+ // $pdfdata=$httppost->post_request("localhost","8087","C://wamp/www/Gestion-des-notes-avec-XML/xsl_foFiles/listeGroupe.xsl",$studentXml);
 
     // save PDF output to a PDF file
     $myFile = $_GET['class'].".pdf";

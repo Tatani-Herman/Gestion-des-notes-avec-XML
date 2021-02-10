@@ -8,7 +8,7 @@ if(isset($_GET['class']))
 
   $emploiXml=$doc->saveXML();
   $httppost=new HTTPPost();
-  $pdfdata=$httppost->post_request("localhost","8087","C://xamp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/emploidutemps.xsl",$emploiXml);
+  $pdfdata=$httppost->post_request("localhost","8087","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/emploidutemps.xsl",$emploiXml);
 
     // save PDF output to a PDF file
     $myFile = $_GET['class']."_".$_GET['cne']."_attestation.pdf";

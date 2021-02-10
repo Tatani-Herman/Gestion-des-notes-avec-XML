@@ -6,7 +6,7 @@
     <fo:root>
       <fo:layout-master-set>
         <fo:simple-page-master margin-right="0.2cm" margin-left="0.2cm" margin-bottom="0.2cm" margin-top="0.1cm" page-width="21cm" page-height="29.7cm" master-name="simpleA4">
-          <fo:region-body margin-top="8.45cm" margin-bottom="1mm" margin-right="0.6cm"/>
+          <fo:region-body margin-top="9cm" margin-bottom="1mm" margin-right="0.6cm"/>
           <fo:region-before region-name="xsl-region-before" extent="25mm" display-align="before" precedence="true"/>
 
         </fo:simple-page-master>
@@ -26,12 +26,12 @@
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center" padding-top="8mm">
-                  <fo:block>Année universitaire  2020/2021  <fo:external-graphic src="url(C://xamp/htdocs/Gestion-des-notes-avec-XML/img/arabe2.PNG)"/>
+                  <fo:block>Année universitaire  2020/2021  <fo:external-graphic src="url(C://xampp/htdocs/Gestion-des-notes-avec-XML/img/arabe2.PNG)"/>
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="right" padding-right="1mm" font-weight="bold">
                   <fo:block>
-                    <fo:external-graphic src="url(C://xamp/htdocs/Gestion-des-notes-avec-XML/img/arabe1.PNG)"/>
+                    <fo:external-graphic src="url(C://xampp/htdocs/Gestion-des-notes-avec-XML/img/arabe1.PNG)"/>
                   </fo:block>
                 </fo:table-cell>
               </fo:table-row>
@@ -39,26 +39,25 @@
           </fo:table>
 
           <fo:block space-after="2mm">
-            <fo:external-graphic src="url(C://xamp/htdocs/Gestion-des-notes-avec-XML/img/arabe0.PNG)" />
+            <fo:external-graphic src="url(C://xampp/htdocs/Gestion-des-notes-avec-XML/img/arabe0.PNG)" />
           </fo:block>
           <fo:block space-after="2mm">
-            <fo:external-graphic src="url(C://xamp/htdocs/Gestion-des-notes-avec-XML/img/entnote.PNG)" />
+            <fo:external-graphic src="url(C://xampp/htdocs/Gestion-des-notes-avec-XML/img/entnote.PNG)" />
           </fo:block>
 
           <fo:block space-after="1.5mm" font-size="11pt" margin-left="0.5cm" font-weight="bold">
-            <xsl:value-of select="FirstName"/>
-            <xsl:text></xsl:text>
-            <xsl:value-of select="LastName"/>
+           <xsl:value-of select="concat(FirstName ,'   ',LastName)"/>
           </fo:block>
 
-          <fo:block space-after="1.5mm" margin-left="0.5cm">N° Etudiant: <xsl:value-of select="CNE"/>
+          <fo:block space-after="1.5mm" margin-left="0.5cm"><xsl:value-of select="concat('N° Etudiant ',CNE)"/>
+          <xsl:text>   </xsl:text>
           <fo:inline margin-left="2.5cm">
-            <xsl:value-of select="concat('CNE:',CNE)"/>
+            <xsl:value-of select="concat('CNE: ',CNE)"/>
           </fo:inline>
         </fo:block>
-        <fo:block space-after="1.5mm" margin-left="0.5cm">Né le: 01/01/1999<fo:inline margin-left="2cm">à: Tanger</fo:inline>
+        <fo:block space-after="1.5mm" margin-left="0.5cm">Né le: 01/01/1999<xsl:text> </xsl:text> <fo:inline margin-left="2cm">à: Tanger</fo:inline>
         </fo:block>
-        <fo:block space-after="1.5mm" margin-left="0.5cm">Inscrit en<fo:inline margin-left="2mm" font-weight="bold" font-size="13pt">2° Année Génie Informatique</fo:inline>
+        <fo:block space-after="1.5mm" margin-left="0.5cm">Inscrit en<xsl:text> </xsl:text> <fo:inline margin-left="2mm" font-weight="bold" font-size="13pt">2° Année Génie Informatique</fo:inline>
         </fo:block>
         <fo:block margin-left="0.5cm">a obtenu les notes suivantes:</fo:block>
       </fo:static-content>
@@ -67,9 +66,9 @@
       <fo:flow flow-name="xsl-region-body">
         <fo:block>
           <fo:table border-width="1px" border-style="solid" height="1cm" margin-left="0.4cm">
-            <fo:table-column column-width="10cm"/>
-            <fo:table-column column-width="4cm"/>
+            <fo:table-column column-width="8cm"/>
             <fo:table-column column-width="5cm"/>
+            <fo:table-column column-width="7cm"/>
 
             <fo:table-header>
               <fo:table-row border-width="1px" border-style="solid" height="0.7cm">
@@ -87,13 +86,12 @@
               <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                 <fo:table-cell>
                   <fo:block>
-                    <xsl:text>GINF31: Programmation Orientée Objet java, XML </xsl:text>
+                    <xsl:text>GINF31: Programmation Orientée Objet java et XML </xsl:text>
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>
-                    <xsl:value-of select="matiere[position()=1]"/>
-/20</fo:block>
+                    <xsl:value-of select="matiere[position()=1]"/>/20</fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>S1 2020/21</fo:block>
@@ -103,13 +101,12 @@
               <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                 <fo:table-cell>
                   <fo:block>
-                    <xsl:text>GINF32: Assurance controle qualité, Cycle de Vie Logiciel et Méthodes agiles, Maitrise et optimisation des processus </xsl:text>
+                    <xsl:text>GINF32: Qualité et Approche processus</xsl:text>
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>
-                    <xsl:value-of select="matiere[position()=2]"/>
-/20</fo:block>
+                    <xsl:value-of select="matiere[position()=2]"/>/20</fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>S1 2020/21</fo:block>
@@ -119,13 +116,12 @@
               <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                 <fo:table-cell>
                   <fo:block>
-                    <xsl:text>GINF33: Modélisation orientée objet UML, IHM, Cycle de vie logiciel</xsl:text>
+                    <xsl:text>GINF33: Modélisation orienté objet et IHM </xsl:text>
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>
-                    <xsl:value-of select="matiere[position()=3]"/>
-/20</fo:block>
+                    <xsl:value-of select="matiere[position()=3]"/>/20</fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>S1 2020/21</fo:block>
@@ -135,13 +131,12 @@
               <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                 <fo:table-cell>
                   <fo:block>
-                    <xsl:text>GINF34: Optimisation et qualité de base de données, Administration et sécurité des bases de données, Base de données NoSQL </xsl:text>
+                    <xsl:text>GINF34: Bases de données avancées I</xsl:text>
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>
-                    <xsl:value-of select="matiere[position()=4]"/>
-/20</fo:block>
+                    <xsl:value-of select="matiere[position()=4]"/>/20</fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>S1 2020/21</fo:block>
@@ -151,13 +146,12 @@
               <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                 <fo:table-cell>
                   <fo:block>
-                    <xsl:text>GINF35: Administration systèmes, Programmation systèmes </xsl:text>
+                    <xsl:text>GINF35: Administration et Programmation système </xsl:text>
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>
-                    <xsl:value-of select="matiere[position()=5]"/>
-/20</fo:block>
+                    <xsl:value-of select="matiere[position()=5]"/>/20</fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>S1 2020/21</fo:block>
@@ -167,13 +161,12 @@
               <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                 <fo:table-cell>
                   <fo:block>
-                    <xsl:text>GINF36: Espagnol 2 et Allemand, Anglais professionnel, Technique de communication </xsl:text>
+                    <xsl:text>GINF36: Langue et Communication 1 </xsl:text>
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>
-                    <xsl:value-of select="matiere[position()=6]"/>
-/20</fo:block>
+                    <xsl:value-of select="matiere[position()=6]"/>/20</fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>S1 2020/21</fo:block>
@@ -183,13 +176,12 @@
               <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                 <fo:table-cell>
                   <fo:block>
-                    <xsl:text>GINF41: Introduction à J2EE, programmation en C# </xsl:text>
+                    <xsl:text>GINF41: Technologies distribuées </xsl:text>
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>
-                    <xsl:value-of select="matiere[position()=7]"/>
-/20</fo:block>
+                    <xsl:value-of select="matiere[position()=7]"/>/20</fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>S1 2020/21</fo:block>
@@ -199,13 +191,12 @@
               <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                 <fo:table-cell>
                   <fo:block>
-                    <xsl:text>GINF42: Gestion des données complexes, Gestion des données distribuées, Cloud computing et infogérance </xsl:text>
+                    <xsl:text>GINF42: Bases de données avancées II et Cloud </xsl:text>
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>
-                    <xsl:value-of select="matiere[position()=8]"/>
-/20</fo:block>
+                    <xsl:value-of select="matiere[position()=8]"/>/20</fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>S1 2020/21</fo:block>
@@ -215,13 +206,12 @@
               <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                 <fo:table-cell>
                   <fo:block>
-                    <xsl:text>GINF43: Traitement de l'image, Vision numérique, Processus stochastique </xsl:text>
+                    <xsl:text>GINF43: Traitement de l'image </xsl:text>
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>
-                    <xsl:value-of select="matiere[position()=9]"/>
-/20</fo:block>
+                    <xsl:value-of select="matiere[position()=9]"/>/20</fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>S1 2020/21</fo:block>
@@ -231,13 +221,12 @@
               <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                 <fo:table-cell>
                   <fo:block>
-                    <xsl:text>GINF44: Programmation déclarative, Techniques algorithmiques Avancées </xsl:text>
+                    <xsl:text>GINF44: Programmation déclarative et Techniques algorithmiques Avancées </xsl:text>
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>
-                    <xsl:value-of select="matiere[position()=10]"/>
-/20</fo:block>
+                    <xsl:value-of select="matiere[position()=10]"/>/20</fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>S1 2020/21</fo:block>
@@ -252,8 +241,7 @@
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>
-                    <xsl:value-of select="matiere[position()=11]"/>
-/20</fo:block>
+                    <xsl:value-of select="matiere[position()=11]"/>/20</fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>S1 2020/21</fo:block>
@@ -263,13 +251,12 @@
               <fo:table-row border-width="1px" border-style="solid" height="0.6cm">
                 <fo:table-cell>
                   <fo:block>
-                    <xsl:text>GINF46: Economie 2 et comptabilité 2, projet collectif et stage, Management de projet </xsl:text>
+                    <xsl:text>GINF46: Management de l'entreprise 2 </xsl:text>
                   </fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>
-                    <xsl:value-of select="matiere[position()=12]"/>
-/20</fo:block>
+                    <xsl:value-of select="matiere[position()=12]"/>/20</fo:block>
                 </fo:table-cell>
                 <fo:table-cell text-align="center">
                   <fo:block>S1 2020/21</fo:block>
@@ -278,19 +265,18 @@
             </fo:table-body>
           </fo:table>
           <!--space-after="1.8cm stylus studio"-->
-          <fo:block space-after="4.5cm" space-before="1.5mm" font-weight="bold" margin-left="0.5cm" font-size="11pt">Résultat d'admission session 1:<fo:inline margin-left="6cm">
+          <fo:block space-after="6cm" space-before="1.5mm" font-weight="bold" margin-left="0.5cm" font-size="11pt">Résultat d'admission session 1:<fo:inline padding-left="3.6cm">
             <xsl:variable name="number" select="sum(matiere) div count(matiere)"/>
-            <xsl:value-of select="format-number($number,'#.###')"/>
-/20
+            <xsl:value-of select="format-number($number,'#.###')"/>/20
                                 
           <xsl:choose>
               <xsl:when test="$number &lt; 12">
-                <fo:inline margin-left="1.5cm">
+                <fo:inline padding-left="1.5cm">
                   <xsl:text> REJETE</xsl:text>
                 </fo:inline>
               </xsl:when>
               <xsl:otherwise>
-                <fo:inline margin-left="1.5cm">
+                <fo:inline padding-left="1.5cm">
                   <xsl:text>ADMIS</xsl:text>
                 </fo:inline>
               </xsl:otherwise>

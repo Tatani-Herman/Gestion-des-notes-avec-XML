@@ -15,7 +15,7 @@ page-height="5.5cm" master-name="simpleA8">
 				<fo:block  padding-top="0.1cm" space-after="0.1cm" margin-right="0.1cm" margin-left="0.1cm">
 
 				<!-- Comment -->
-   <fo:external-graphic src="url(C://xamp/htdocs/Gestion-des-notes-avec-XML/img/enteteCarte.PNG)"  content-height="1.4cm" content-width="8cm"/> 
+   <fo:external-graphic src="url(C://xampp/htdocs/Gestion-des-notes-avec-XML/img/enteteCarte.PNG)"  content-height="1.4cm" content-width="8cm"/> 
 	
 	 <!-- <fo:external-graphic src="url(C://xampp/htdocs/Gestion-des-notes-avec-XML/img/enteteCarte.PNG)"  content-height="1.4cm" content-width="8cm"/> -->
 
@@ -33,7 +33,7 @@ page-height="5.5cm" master-name="simpleA8">
 								<fo:table-cell>
                                    <fo:block>
 								   <!-- Image Statique -->
-								      <fo:external-graphic src="url(C://xamp/htdocs/Gestion-des-notes-avec-XML/img/photos_carteEtudiant/same.jpg)" content-width="1.5cm" content-height="2cm"/> 
+								      <fo:external-graphic src="url(C://xampp/htdocs/Gestion-des-notes-avec-XML/img/photos_carteEtudiant/same.jpg)" content-width="1.5cm" content-height="2cm"/> 
 								   <!-- Image Dynamique : l'image correspondant au CNE doit exister dans /photos_carteEtudiant -->
                                    <!--   <fo:external-graphic src="url(C://wamp/www/Gestion-des-notes-avec-XML/img/photos_carteEtudiant/{CNE}.jpg)" content-width="1.5cm" content-height="2cm"/> -->
 										<!-- Comment -->
@@ -51,7 +51,7 @@ page-height="5.5cm" master-name="simpleA8">
 
                               <fo:table-cell>
                                    <fo:block margin-left="1.9cm">
-                                    <fo:external-graphic src="url(C://xamp/htdocs/Gestion-des-notes-avec-XML/img/qrCode.png)" content-width="1.5cm" content-height="2cm"/> 
+                                    <fo:external-graphic src="url(C://xampp/htdocs/Gestion-des-notes-avec-XML/img/qrCode.png)" content-width="1.5cm" content-height="2cm"/> 
 										   </fo:block>
                               </fo:table-cell>
 							</fo:table-row>

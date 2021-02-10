@@ -9,8 +9,10 @@ if(isset($_GET['class']))
 
   $studentsXml=$doc->saveXML();
   $httppost=new HTTPPost();
- $pdfdata=$httppost->post_request("localhost","8087","C://xamp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/releve_classe.xsl",$studentsXml);
-
+  if($_GET['choix']==1)
+ $pdfdata=$httppost->post_request("localhost","8087","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/releve_classe_moy.xsl",$studentsXml);
+   else
+   $pdfdata=$httppost->post_request("localhost","8087","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/releve_classe.xsl",$studentsXml);
     // save PDF output to a PDF file
     $myFile = $_GET['class']."_procesverbal.pdf";
     $fh = fopen($myFile, 'w') or die("can't open file");

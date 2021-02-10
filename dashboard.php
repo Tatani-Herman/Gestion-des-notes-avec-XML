@@ -25,26 +25,26 @@
               <a href="resultat.php" class="list-group-item list-group-item-action list-group-item-primary">Consulter les résultats d'un Module de GINF2</a>
              
               <a href="#"   class="list-group-item list-group-item-action list-group-item-secondary">Générer les cartes d'étudiant   <div>
-              <form action="pdf.php" method="get">
+              <form action="pdf.php" method="GET">
               <label for="Class">Choisissez une classe:</label>
               <select name="class" id="Class">
-                    <option value="GINF1">AP1</option>
-                      <option value="GINF2">AP2</option>
+                    <option value="AP1">AP1</option>
+                      <option value="AP2">AP2</option>
                       <option value="GINF1">GINF1</option>
                       <option value="GINF2">GINF2</option>
                       <option value="GINF3">GINF3</option>
                       <option value="GIL1">GIL1</option>
-                      <option value="GIL1">GIL2</option>
-                      <option value="GIL1">GIL3</option>
+                      <option value="GIL2">GIL2</option>
+                      <option value="GIL3">GIL3</option>
                       <option value="GSTR1">GSTR1</option>
                       <option value="GSTR2">GSTR2</option>
                       <option value="GSTR3">GSTR3</option>
                       <option value="GSEA1">GSEA1</option>
                       <option value="GSEA2">GSEA2</option>
                       <option value="GSEA3">GSEA3</option>
-                      <option value="GINF1">G3EI1</option>
-                      <option value="GINF2">G3EI2</option>
-                      <option value="GINF3">G3EI3</option>
+                      <option value="G3EI1">G3EI1</option>
+                      <option value="G3EI2">G3EI2</option>
+                      <option value="G3EI3">G3EI3</option>
                     </select>
                  
                     <label for="cne">Entrer le CNE:</label>
@@ -52,30 +52,29 @@
                     <input type="submit" class="btn btn-outline-secondary" name="sub">
                 </form>
                 </div></a>
-            
-              <a href="emploidutemps.php" class="list-group-item list-group-item-action list-group-item-success">Générer des emploi du temps</a>
+          
               <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Générer les relever de notes des étudiants
               <div>
-              <form action="releve.php" method="get">
+              <form action="releve.php" method="GET">
               <label for="Class">Choisissez une classe:</label>
                     <select name="class" id="Class">
-                    <option value="GINF1">AP1</option>
-                      <option value="GINF2">AP2</option>
+                    <option value="AP1">AP1</option>
+                      <option value="AP2">AP2</option>
                       <option value="GINF1">GINF1</option>
                       <option value="GINF2">GINF2</option>
                       <option value="GINF3">GINF3</option>
                       <option value="GIL1">GIL1</option>
-                      <option value="GIL1">GIL2</option>
-                      <option value="GIL1">GIL3</option>
+                      <option value="GIL2">GIL2</option>
+                      <option value="GIL3">GIL3</option>
                       <option value="GSTR1">GSTR1</option>
                       <option value="GSTR2">GSTR2</option>
                       <option value="GSTR3">GSTR3</option>
                       <option value="GSEA1">GSEA1</option>
                       <option value="GSEA2">GSEA2</option>
                       <option value="GSEA3">GSEA3</option>
-                      <option value="GINF1">G3EI1</option>
-                      <option value="GINF2">G3EI2</option>
-                      <option value="GINF3">G3EI3</option>
+                      <option value="G3EI1">G3EI1</option>
+                      <option value="G3EI2">G3EI2</option>
+                      <option value="G3EI3">G3EI3</option>
                     </select>
                  
                     <label for="cne">Entrer le CNE:</label>
@@ -84,7 +83,17 @@
                 </form>
                 </div>
               </a>
-              <a href="procesverbal.php" class="list-group-item list-group-item-action list-group-item-warning">Générer le procès verbal de la filière GINF2</a>
+              <a href="#" class="list-group-item list-group-item-action list-group-item-warning">Générer le procès verbal de la filière GINF2
+                 <div>
+                   <form  action="procesverbal.php" method="GET">
+                    <select name="choix" id="choix">
+                    <option value="1">Avec les moyennes des élèves et modules</option>
+                    <option value="2">Sans les moyennes des élèves et modules</option>
+                     </select>
+                     <input type="submit" class="btn btn-outline-secondary" name="sub">
+                </form>
+                </div>
+              </a>
               <a href="#" class="list-group-item list-group-item-action list-group-item-info">Générer des attestation de réussite
               <div>
               <form action="attestation.php" method="get">
@@ -123,6 +132,7 @@
                     <input type="submit" class="btn btn-outline-secondary" name="sub">
                 </form>
                 </div></a>
+                <a href="emploidutemps.php" class="list-group-item list-group-item-action list-group-item-success">Générer des emploi du temps</a>
               <a href="usecase.php" class="list-group-item list-group-item-action list-group-item-dark">Mettre à jour les données</a>
      </div>
     </div>

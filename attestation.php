@@ -4,9 +4,9 @@ $_GET['class']='GINF2';
 if(isset($_GET['class'])&& isset($_GET['cne']))
 {
     $doc = new DOMDocument();
-    $doc->load('xmlResources/students_'.$_GET['class'].'.xml');
+    $doc->load('xmlResources/notes_'.$_GET['class'].'_apres.xml');
     $xpath = new DOMXPath($doc);
-    $query="//students/student[CNE=".$_GET['cne']."]";
+    $query="//notes/note[CNE=".$_GET['cne']."]";
     $entries = $xpath->query($query);
     if ($entries->length==0) {
         header('Location:dashboard.php?error=cneinexistant');
@@ -25,7 +25,7 @@ if(isset($_GET['class'])&& isset($_GET['cne']))
   $studentXml=$result->saveXML();
 
   $httppost=new HTTPPost();
-  $pdfdata=$httppost->post_request("localhost","8087","C://xamp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/attestation_reussite.xsl",$studentXml);
+  $pdfdata=$httppost->post_request("localhost","8087","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/attestation_reussite.xsl",$studentXml);
 
     // save PDF output to a PDF file
     $myFile = $_GET['class']."_".$_GET['cne']."_attestation.pdf";

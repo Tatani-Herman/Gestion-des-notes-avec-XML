@@ -48,22 +48,22 @@ page-height="29.7cm" master-name="simpleA4">
 				<fo:flow flow-name="xsl-region-body">
                 <fo:block>
 					<fo:table >
-						<fo:table-column column-width="2.35cm"/>
-                        <fo:table-column column-width="1.4cm"/>
-                         <fo:table-column column-width="1.4cm"/>
-                         <fo:table-column column-width="1.4cm"/>
-                         <fo:table-column column-width="1.4cm"/>
-                         <fo:table-column column-width="1.4cm"/>
-                         <fo:table-column column-width="1.4cm"/>
-                         <fo:table-column column-width="1.4cm"/>
-                         <fo:table-column column-width="1.4cm"/>
-                         <fo:table-column column-width="1.4cm"/>
-                         <fo:table-column column-width="1.4cm"/>
-                         <fo:table-column column-width="1.4cm"/>
-                         <fo:table-column column-width="1.4cm"/>
+				<fo:table-column column-width="3cm"/>
+                        <fo:table-column column-width="1.45cm"/>
+                         <fo:table-column column-width="1.45cm"/>
+                         <fo:table-column column-width="1.45cm"/>
+                         <fo:table-column column-width="1.45cm"/>
+                         <fo:table-column column-width="1.45cm"/>
+                         <fo:table-column column-width="1.45cm"/>
+                         <fo:table-column column-width="1.45cm"/>
+                         <fo:table-column column-width="1.45cm"/>
+                         <fo:table-column column-width="1.45cm"/>
+                         <fo:table-column column-width="1.45cm"/>
+                         <fo:table-column column-width="1.45cm"/>
+                         <fo:table-column column-width="1.45cm"/>
                          <fo:table-column column-width="2.2cm"/>
 
-                         <fo:table-header font-weight="bold" font-size="10pt" text-align="center">
+                         <fo:table-header font-weight="bold" font-size="10pt" text-align="center" background-color="silver">
                             <fo:table-row border-width="1px" border-style="solid" height="1cm">
                             <fo:table-cell border-width="1px" border-style="solid">
                               <fo:block>Informations des Etudiants</fo:block>
@@ -116,12 +116,11 @@ page-height="29.7cm" master-name="simpleA4">
 							<fo:table-row border-width="1px" border-style="solid">
 								<fo:table-cell border-width="1px" border-style="solid">
                                    <fo:block>
-                                   <xsl:text>N° etudiant : </xsl:text>
-                                   <xsl:value-of select="CNE"/>
+                                   <xsl:value-of select="concat('N° etudiant: ',CNE)"/>
                                    <xsl:text> </xsl:text>
-                                  <fo:inline font-weight="bold"> <xsl:value-of select="FirstName"/></fo:inline>
-                                   <xsl:text> </xsl:text>
-									<fo:inline font-weight="bold"> <xsl:value-of select="LastName"/></fo:inline>
+                                   </fo:block>
+                                   <fo:block>
+                                  <fo:inline font-weight="bold"> <xsl:value-of select="concat(FirstName,' ',LastName)"/> </fo:inline>
                                     </fo:block>
                               </fo:table-cell>
 
@@ -215,7 +214,7 @@ page-height="29.7cm" master-name="simpleA4">
                               </fo:table-cell>
                   </fo:table-row>
                   </xsl:for-each>
-                                <fo:table-row border-width="1px" border-style="solid" height="1cm">
+                                <fo:table-row border-width="1px" border-style="solid" height="1cm" background-color="lightgray">
                                 <fo:table-cell border-width="1px" border-style="solid" text-align="center" font-weight="bold">
                                  <fo:block> Moyenne des modules </fo:block>
                                 </fo:table-cell>
@@ -269,7 +268,7 @@ page-height="29.7cm" master-name="simpleA4">
                                 <xsl:value-of select="format-number($number,'#.###')"/> </fo:block>
                                 </fo:table-cell>
 
-                                 <fo:table-cell> </fo:table-cell>
+                                 <fo:table-cell> <fo:block></fo:block></fo:table-cell>
                                 </fo:table-row>
                   </fo:table-body>
                   </fo:table>

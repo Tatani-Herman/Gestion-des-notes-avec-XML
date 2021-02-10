@@ -17,7 +17,7 @@
 			 page-width="21cm" page-height="29.7cm"
 			 >
    <!-- required element body -->
-   <fo:region-body margin-top="8.45cm" margin-bottom="1mm" margin-right="0.6cm"/>
+   <fo:region-body margin-top="1cm" margin-bottom="1mm" margin-right="0.6cm"/>
   </fo:simple-page-master>
  </fo:layout-master-set>
   

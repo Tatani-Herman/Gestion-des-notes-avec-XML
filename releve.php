@@ -24,7 +24,7 @@ if(isset($_GET['class'])&& isset($_GET['cne']))
 
   $studentXml=$result->saveXML();
   $httppost=new HTTPPost();
- $pdfdata=$httppost->post_request("localhost","8087","C://xamp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/releve_notes.xsl",$studentXml);
+ $pdfdata=$httppost->post_request("localhost","8087","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/releve_notes.xsl",$studentXml);
 
     // save PDF output to a PDF file
     $myFile = $_GET['class']."_".$_GET['cne']."_releve.pdf";
