@@ -125,9 +125,9 @@
                       <option value="GSEA1">GSEA1</option>
                       <option value="GSEA2">GSEA2</option>
                       <option value="GSEA3">GSEA3</option>
-                      <option value="GINF1">G3EI1</option>
-                      <option value="GINF2">G3EI2</option>
-                      <option value="GINF3">G3EI3</option>
+                      <option value="G3EI1">G3EI1</option>
+                      <option value="G3EI2">G3EI2</option>
+                      <option value="G3EI3">G3EI3</option>
                     </select>
                     <input type="submit" class="btn btn-outline-secondary" name="sub">
                 </form>
