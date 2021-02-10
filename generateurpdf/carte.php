@@ -4,12 +4,12 @@ require("HTTPPost.php");
 if(isset($_GET['class'])&& isset($_GET['cne']))
 {
     $doc = new DOMDocument();
-    $doc->load('xmlResources/students_'.$_GET['class'].'.xml');
+    $doc->load('../xmlResources/students_'.$_GET['class'].'.xml');
     $xpath = new DOMXPath($doc);
     $query="//students/student[CNE=".$_GET['cne']."]";
     $entries = $xpath->query($query);
     if ($entries->length==0) {
-        header('Location:dashboard.php?error=cneinexistant');
+        header('Location:../dashboard.php?error=cneinexistant');
         exit();
      } 
    $output = '';
@@ -57,6 +57,6 @@ if(isset($_GET['class'])&& isset($_GET['cne']))
     }
 else{
     //redirect to dashboard
-    header('Location:/dashboard.php');
+    header('Location:../dashboard.php');
 }
 ?>

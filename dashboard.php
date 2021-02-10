@@ -25,7 +25,7 @@
               <a href="resultat.php" class="list-group-item list-group-item-action list-group-item-primary">Consulter les résultats d'un Module de GINF2</a>
              
               <a href="#"   class="list-group-item list-group-item-action list-group-item-secondary">Générer les cartes d'étudiant   <div>
-              <form action="carte.php" method="GET">
+              <form action="generateurpdf/carte.php" method="GET">
               <label for="Class">Choisissez une classe:</label>
               <select name="class" id="Class">
                     <option value="AP1">AP1</option>
@@ -55,7 +55,7 @@
           
               <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Générer les relever de notes des étudiants
               <div>
-              <form action="releve.php" method="GET">
+              <form action="generateurpdf/releve.php" method="GET">
               <label for="Class">Choisissez une classe:</label>
                     <select name="class" id="Class">
                     <option value="AP1">AP1</option>
@@ -85,7 +85,7 @@
               </a>
               <a href="#" class="list-group-item list-group-item-action list-group-item-warning">Générer le procès verbal de la filière GINF2
                  <div>
-                   <form  action="procesverbal.php" method="GET">
+                   <form  action="generateurpdf/procesverbal.php" method="GET">
                     <select name="choix" id="choix">
                     <option value="1">Avec les moyennes des élèves et modules</option>
                     <option value="2">Sans les moyennes des élèves et modules</option>
@@ -96,7 +96,7 @@
               </a>
               <a href="#" class="list-group-item list-group-item-action list-group-item-info">Générer des attestation de réussite des étudiants de GINF2
               <div>
-              <form action="attestation.php" method="GET">
+              <form action="generateurpdf/attestation.php" method="GET">
                     <label for="cne">Entrer le CNE( de 330 à 376):</label>
                     <input type="number" id="cne" name="cne">
                     <input type="submit" class="btn btn-outline-secondary" name="sub">
@@ -127,7 +127,7 @@
                     <input type="submit" class="btn btn-outline-secondary" name="sub">
                 </form>
                 </div></a>
-                <a href="emploidutemps.php" class="list-group-item list-group-item-action list-group-item-success">Générer des emploi du temps</a>
+                <a href="generateurpdf/emploidutemps.php" class="list-group-item list-group-item-action list-group-item-success">Générer des emploi du temps</a>
               <a href="usecase.php" class="list-group-item list-group-item-action list-group-item-dark">Mettre à jour les données</a>
      </div>
     </div>
