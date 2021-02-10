@@ -25,7 +25,7 @@
               <a href="resultat.php" class="list-group-item list-group-item-action list-group-item-primary">Consulter les résultats d'un Module de GINF2</a>
              
               <a href="#"   class="list-group-item list-group-item-action list-group-item-secondary">Générer les cartes d'étudiant   <div>
-              <form action="pdf.php" method="GET">
+              <form action="carte.php" method="GET">
               <label for="Class">Choisissez une classe:</label>
               <select name="class" id="Class">
                     <option value="AP1">AP1</option>

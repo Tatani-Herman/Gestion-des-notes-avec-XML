@@ -40,11 +40,8 @@
         <img src="img/1.png" class="profile_image" alt=""> 
         <h4>ENSAT</h4>
       </center>
-      <a href="#"><i class="fas fa-tachometer-alt"></i><span>Dashboard</span></a>
-      <a href="#"><i class="far fa-file"></i><span>Demande/Suivi</span></a>
-      <a href="#"><i class="fas fa-poll-h"></i><span>Notes et Résultats</span></a>
-      <a href="#"><i class="fas fa-graduation-cap"></i><span>Stage</span></a>
-      <a href="#"><i class="far fa-user"></i><span>Profile</span></a>
-      <a href="#"><i class="fas fa-info-circle"></i><span>About</span></a>
+      <a href="dashboard.php"><i class="fas fa-tachometer-alt"></i><span>Dashboard</span></a>
+      <a href="exemplepdf.php"><i class="fas fa-poll-h"></i><span>Exemples de PDFs</span></a>
+      <a href="about.php"><i class="fas fa-info-circle"></i><span>About</span></a>
     </div>
     

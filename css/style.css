@@ -95,7 +95,9 @@ header{
   color: #717171;
   line-height: 20px;
 }
-
+.wrapper .main_content .info .list-group{
+  display: none;
+}
 .sidebar h4{
   color: #ccc;
   margin-top: 0;
@@ -170,4 +172,3 @@ label #sidebar_btn:hover{
 #check{
   display: none;
 }
-                           
