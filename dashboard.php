@@ -94,15 +94,10 @@
                 </form>
                 </div>
               </a>
-              <a href="#" class="list-group-item list-group-item-action list-group-item-info">Générer des attestation de réussite
+              <a href="#" class="list-group-item list-group-item-action list-group-item-info">Générer des attestation de réussite des étudiants de GINF2
               <div>
-              <form action="attestation.php" method="get">
-              <label for="Class">Choisissez une classe:</label>
-                    <select name="class" id="Class">
-                      <option value="GINF2">GINF2</option>
-                    </select>
-                 
-                    <label for="cne">Entrer le CNE:</label>
+              <form action="attestation.php" method="GET">
+                    <label for="cne">Entrer le CNE( de 330 à 376):</label>
                     <input type="number" id="cne" name="cne">
                     <input type="submit" class="btn btn-outline-secondary" name="sub">
                 </form>
