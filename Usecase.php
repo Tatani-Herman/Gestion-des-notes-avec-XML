@@ -43,7 +43,7 @@ foreach ($arrayClass as $class) {
             // attribute name including namespace prefix
             'xsi:noNamespaceSchemaLocation',
             // attribute value
-            'C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/notes.xsd'
+            'C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/notes.xsd'
            );
         $dom->save("xmlResources/notes_".$class."_apres.xml");
        
@@ -56,7 +56,7 @@ foreach ($arrayClass as $class) {
             // attribute name including namespace prefix
             'xsi:noNamespaceSchemaLocation',
             // attribute value
-            'C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/'.$categorie.'s.xsd'
+            'C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/'.$categorie.'s.xsd'
            );
         $dom->save("xmlResources/notes_".$class."_avant.xml");
        
@@ -69,7 +69,7 @@ foreach ($arrayClass as $class) {
             // attribute name including namespace prefix
             'xsi:noNamespaceSchemaLocation',
             // attribute value
-            'C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/'.$categorie.'s.xsd'
+            'C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/'.$categorie.'s.xsd'
            );
         $dom->save("xmlResources/".$categorie."s_".$class.".xml");
         
@@ -83,21 +83,21 @@ foreach ($arrayClass as $class) {
 
         $dom->insertBefore($imp->createDocumentType('notes', 
         null, 
-        'C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/notes.dtd'),$ginf2);
+        'C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/notes.dtd'),$ginf2);
         $dom->save("xmlResources/notes_".$class."_apres.xml");
        
     }
     elseif ($categorie=="note") {
         $dom->insertBefore($imp->createDocumentType($categorie.'s', 
         null, 
-        'C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/'.$categorie.'s.dtd'),$ginf2);
+        'C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/'.$categorie.'s.dtd'),$ginf2);
         $dom->save("xmlResources/notes_".$class."_avant.xml");
        
     }
     else {
         $dom->insertBefore($imp->createDocumentType($categorie.'s', 
     null, 
-    'C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/'.$categorie.'s.dtd'),$ginf2);
+    'C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/'.$categorie.'s.dtd'),$ginf2);
         $dom->save("xmlResources/".$categorie."s_".$class.".xml");
         
     }*/

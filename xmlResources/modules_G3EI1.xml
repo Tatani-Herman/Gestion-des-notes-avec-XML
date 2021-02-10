@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xamp/htdocs/Gestion-des-notes-avec-XML/validationResources/modules.xsd">
+<modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/modules.xsd">
   <module>
     <Code>G3EI111</Code>
     <Name>pede. Suspendisse dui.</Name>
