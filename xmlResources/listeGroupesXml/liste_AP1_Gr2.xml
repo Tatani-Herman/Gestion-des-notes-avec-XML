@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>971</CNE>
+    <LastName>Yoshio</LastName>
+    <FirstName>Weaver</FirstName>
+    <DateofBirth>24/03/2004</DateofBirth>
+    <Phone>08 79 97 74 91</Phone>
+    <Email>vitae.sodales.nisi@est.org</Email>
+  </student><student>
+    <CNE>972</CNE>
+    <LastName>Wynter</LastName>
+    <FirstName>Lynch</FirstName>
+    <DateofBirth>23/01/2002</DateofBirth>
+    <Phone>07 38 52 17 35</Phone>
+    <Email>Sed@Duisami.org</Email>
+  </student><student>
+    <CNE>973</CNE>
+    <LastName>Roanna</LastName>
+    <FirstName>Roberts</FirstName>
+    <DateofBirth>05/04/1999</DateofBirth>
+    <Phone>01 75 46 83 70</Phone>
+    <Email>mattis.ornare.lectus@iaculisenimsit.ca</Email>
+  </student><student>
+    <CNE>974</CNE>
+    <LastName>Tate</LastName>
+    <FirstName>Ford</FirstName>
+    <DateofBirth>05/07/2004</DateofBirth>
+    <Phone>07 69 20 46 93</Phone>
+    <Email>in@elitEtiam.ca</Email>
+  </student><student>
+    <CNE>975</CNE>
+    <LastName>Armando</LastName>
+    <FirstName>Gross</FirstName>
+    <DateofBirth>20/12/2004</DateofBirth>
+    <Phone>03 01 32 60 22</Phone>
+    <Email>Nulla.facilisi.Sed@semperduilectus.ca</Email>
+  </student><student>
+    <CNE>976</CNE>
+    <LastName>Brenda</LastName>
+    <FirstName>Mitchell</FirstName>
+    <DateofBirth>01/06/2002</DateofBirth>
+    <Phone>05 23 89 38 82</Phone>
+    <Email>enim.diam@rutrummagna.com</Email>
+  </student><student>
+    <CNE>977</CNE>
+    <LastName>Chloe</LastName>
+    <FirstName>Kelly</FirstName>
+    <DateofBirth>17/07/2000</DateofBirth>
+    <Phone>04 20 31 94 49</Phone>
+    <Email>Cras.convallis@commodoipsumSuspendisse.edu</Email>
+  </student><student>
+    <CNE>978</CNE>
+    <LastName>Gillian</LastName>
+    <FirstName>Booker</FirstName>
+    <DateofBirth>26/04/2000</DateofBirth>
+    <Phone>01 50 03 95 45</Phone>
+    <Email>elit@nulla.com</Email>
+  </student><student>
+    <CNE>979</CNE>
+    <LastName>Kato</LastName>
+    <FirstName>Morrison</FirstName>
+    <DateofBirth>14/08/2002</DateofBirth>
+    <Phone>06 74 17 52 97</Phone>
+    <Email>pharetra.Nam@massaInteger.co.uk</Email>
+  </student><student>
+    <CNE>980</CNE>
+    <LastName>Cheyenne</LastName>
+    <FirstName>Montgomery</FirstName>
+    <DateofBirth>31/07/2001</DateofBirth>
+    <Phone>08 73 87 92 73</Phone>
+    <Email>Ut@Donectempus.com</Email>
+  </student><student>
+    <CNE>981</CNE>
+    <LastName>Samuel</LastName>
+    <FirstName>Keller</FirstName>
+    <DateofBirth>20/05/1999</DateofBirth>
+    <Phone>09 46 55 62 03</Phone>
+    <Email>lacinia.orci@nislsemconsequat.org</Email>
+  </student><student>
+    <CNE>982</CNE>
+    <LastName>Melvin</LastName>
+    <FirstName>Clemons</FirstName>
+    <DateofBirth>25/03/2003</DateofBirth>
+    <Phone>08 69 48 29 01</Phone>
+    <Email>vitae@Suspendissesagittis.org</Email>
+  </student><student>
+    <CNE>983</CNE>
+    <LastName>Amal</LastName>
+    <FirstName>Grant</FirstName>
+    <DateofBirth>26/02/1998</DateofBirth>
+    <Phone>04 04 70 97 60</Phone>
+    <Email>amet.ultricies.sem@mauriselitdictum.co.uk</Email>
+  </student><student>
+    <CNE>984</CNE>
+    <LastName>Forrest</LastName>
+    <FirstName>Shields</FirstName>
+    <DateofBirth>09/07/2004</DateofBirth>
+    <Phone>03 09 45 98 03</Phone>
+    <Email>nunc.In@fringillaDonecfeugiat.edu</Email>
+  </student><student>
+    <CNE>985</CNE>
+    <LastName>Ferdinand</LastName>
+    <FirstName>Vargas</FirstName>
+    <DateofBirth>03/05/2001</DateofBirth>
+    <Phone>02 88 01 85 20</Phone>
+    <Email>enim.Curabitur.massa@egestasblandit.co.uk</Email>
+  </student><student>
+    <CNE>986</CNE>
+    <LastName>Tamara</LastName>
+    <FirstName>Thornton</FirstName>
+    <DateofBirth>04/03/2000</DateofBirth>
+    <Phone>08 56 47 69 98</Phone>
+    <Email>arcu@dapibusgravidaAliquam.edu</Email>
+  </student><student>
+    <CNE>987</CNE>
+    <LastName>Caldwell</LastName>
+    <FirstName>Jacobson</FirstName>
+    <DateofBirth>21/09/1999</DateofBirth>
+    <Phone>02 97 32 24 95</Phone>
+    <Email>sit@mi.edu</Email>
+  </student><student>
+    <CNE>988</CNE>
+    <LastName>Hunter</LastName>
+    <FirstName>Arnold</FirstName>
+    <DateofBirth>08/04/2002</DateofBirth>
+    <Phone>06 06 85 55 17</Phone>
+    <Email>pellentesque.eget@sitametrisus.edu</Email>
+  </student><student>
+    <CNE>989</CNE>
+    <LastName>India</LastName>
+    <FirstName>English</FirstName>
+    <DateofBirth>06/02/1999</DateofBirth>
+    <Phone>06 40 31 94 13</Phone>
+    <Email>pellentesque.eget@blanditviverraDonec.com</Email>
+  </student><student>
+    <CNE>990</CNE>
+    <LastName>Constance</LastName>
+    <FirstName>Dale</FirstName>
+    <DateofBirth>05/06/1999</DateofBirth>
+    <Phone>01 13 23 77 70</Phone>
+    <Email>pharetra.felis.eget@nonleo.org</Email>
+  </student><student>
+    <CNE>991</CNE>
+    <LastName>Nasim</LastName>
+    <FirstName>Abbott</FirstName>
+    <DateofBirth>23/05/1998</DateofBirth>
+    <Phone>07 67 16 51 45</Phone>
+    <Email>Donec@metusVivamuseuismod.com</Email>
+  </student><student>
+    <CNE>992</CNE>
+    <LastName>Mason</LastName>
+    <FirstName>Jarvis</FirstName>
+    <DateofBirth>04/06/2003</DateofBirth>
+    <Phone>07 69 01 32 46</Phone>
+    <Email>neque.non@magnaPraesent.org</Email>
+  </student><student>
+    <CNE>993</CNE>
+    <LastName>Reece</LastName>
+    <FirstName>Wilkinson</FirstName>
+    <DateofBirth>29/07/2004</DateofBirth>
+    <Phone>04 91 75 83 91</Phone>
+    <Email>magnis.dis.parturient@duiCumsociis.ca</Email>
+  </student><student>
+    <CNE>994</CNE>
+    <LastName>Chastity</LastName>
+    <FirstName>Stevenson</FirstName>
+    <DateofBirth>08/06/1998</DateofBirth>
+    <Phone>07 11 91 99 21</Phone>
+    <Email>Ut.tincidunt.vehicula@vitae.com</Email>
+  </student></students>

@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>283</CNE>
+    <LastName>Estella</LastName>
+    <FirstName>Blastock</FirstName>
+    <DateofBirth>29/08/1998</DateofBirth>
+    <Phone>210 644 7801</Phone>
+    <Email>eblastock0@clickbank.net</Email>
+  </student><student>
+    <CNE>284</CNE>
+    <LastName>Corette</LastName>
+    <FirstName>Van Halen</FirstName>
+    <DateofBirth>02/06/1997</DateofBirth>
+    <Phone>399 977 4895</Phone>
+    <Email>cvanhalen1@arizona.edu</Email>
+  </student><student>
+    <CNE>285</CNE>
+    <LastName>Noel</LastName>
+    <FirstName>Reinhart</FirstName>
+    <DateofBirth>13/03/2000</DateofBirth>
+    <Phone>676 666 9432</Phone>
+    <Email>nreinhart2@studiopress.com</Email>
+  </student><student>
+    <CNE>286</CNE>
+    <LastName>Zorana</LastName>
+    <FirstName>Castellucci</FirstName>
+    <DateofBirth>25/10/1999</DateofBirth>
+    <Phone>126 148 4844</Phone>
+    <Email>zcastellucci3@ibm.com</Email>
+  </student><student>
+    <CNE>287</CNE>
+    <LastName>Dalston</LastName>
+    <FirstName>Koppen</FirstName>
+    <DateofBirth>19/04/1999</DateofBirth>
+    <Phone>607 421 0557</Phone>
+    <Email>dkoppen4@goo.gl</Email>
+  </student><student>
+    <CNE>288</CNE>
+    <LastName>Irving</LastName>
+    <FirstName>Kelsall</FirstName>
+    <DateofBirth>08/03/1999</DateofBirth>
+    <Phone>551 919 4084</Phone>
+    <Email>ikelsall5@multiply.com</Email>
+  </student><student>
+    <CNE>289</CNE>
+    <LastName>Iago</LastName>
+    <FirstName>Piddick</FirstName>
+    <DateofBirth>15/11/1995</DateofBirth>
+    <Phone>247 343 1731</Phone>
+    <Email>ipiddick6@dmoz.org</Email>
+  </student><student>
+    <CNE>290</CNE>
+    <LastName>Terrie</LastName>
+    <FirstName>Abbotson</FirstName>
+    <DateofBirth>21/01/1997</DateofBirth>
+    <Phone>908 532 8389</Phone>
+    <Email>tabbotson7@nih.gov</Email>
+  </student><student>
+    <CNE>291</CNE>
+    <LastName>Jeralee</LastName>
+    <FirstName>Escot</FirstName>
+    <DateofBirth>29/11/1999</DateofBirth>
+    <Phone>626 127 5412</Phone>
+    <Email>jescot8@wikia.com</Email>
+  </student><student>
+    <CNE>292</CNE>
+    <LastName>Abdel</LastName>
+    <FirstName>Fradgley</FirstName>
+    <DateofBirth>18/01/1996</DateofBirth>
+    <Phone>367 979 1037</Phone>
+    <Email>afradgley9@about.com</Email>
+  </student><student>
+    <CNE>293</CNE>
+    <LastName>Mycah</LastName>
+    <FirstName>Hyslop</FirstName>
+    <DateofBirth>07/09/1996</DateofBirth>
+    <Phone>170 710 8303</Phone>
+    <Email>mhyslopa@storify.com</Email>
+  </student><student>
+    <CNE>294</CNE>
+    <LastName>Dian</LastName>
+    <FirstName>Ameer-Beg</FirstName>
+    <DateofBirth>20/01/1999</DateofBirth>
+    <Phone>848 984 2807</Phone>
+    <Email>dameerbegb@toplist.cz</Email>
+  </student><student>
+    <CNE>295</CNE>
+    <LastName>Danell</LastName>
+    <FirstName>Gentric</FirstName>
+    <DateofBirth>14/06/1995</DateofBirth>
+    <Phone>616 919 3519</Phone>
+    <Email>dgentricc@fotki.com</Email>
+  </student><student>
+    <CNE>296</CNE>
+    <LastName>Worden</LastName>
+    <FirstName>Cheeseman</FirstName>
+    <DateofBirth>12/03/1997</DateofBirth>
+    <Phone>814 792 5036</Phone>
+    <Email>wcheesemand@bravesites.com</Email>
+  </student><student>
+    <CNE>297</CNE>
+    <LastName>Raimondo</LastName>
+    <FirstName>Kryska</FirstName>
+    <DateofBirth>20/03/1995</DateofBirth>
+    <Phone>887 593 6153</Phone>
+    <Email>rkryskae@digg.com</Email>
+  </student><student>
+    <CNE>298</CNE>
+    <LastName>Mimi</LastName>
+    <FirstName>Kivelhan</FirstName>
+    <DateofBirth>01/02/1996</DateofBirth>
+    <Phone>685 347 9493</Phone>
+    <Email>mkivelhanf@stumbleupon.com</Email>
+  </student><student>
+    <CNE>299</CNE>
+    <LastName>Melonie</LastName>
+    <FirstName>Beaten</FirstName>
+    <DateofBirth>07/08/1999</DateofBirth>
+    <Phone>739 391 0014</Phone>
+    <Email>mbeateng@google.com.br</Email>
+  </student><student>
+    <CNE>300</CNE>
+    <LastName>Rica</LastName>
+    <FirstName>Dicty</FirstName>
+    <DateofBirth>22/10/1996</DateofBirth>
+    <Phone>158 917 0598</Phone>
+    <Email>rdictyh@dyndns.org</Email>
+  </student><student>
+    <CNE>301</CNE>
+    <LastName>Nessa</LastName>
+    <FirstName>Sheilds</FirstName>
+    <DateofBirth>02/09/2000</DateofBirth>
+    <Phone>964 426 3928</Phone>
+    <Email>nsheildsi@slashdot.org</Email>
+  </student><student>
+    <CNE>302</CNE>
+    <LastName>Lenette</LastName>
+    <FirstName>Cool</FirstName>
+    <DateofBirth>25/09/2000</DateofBirth>
+    <Phone>987 836 6696</Phone>
+    <Email>lcoolj@cafepress.com</Email>
+  </student><student>
+    <CNE>303</CNE>
+    <LastName>Michele</LastName>
+    <FirstName>Robertelli</FirstName>
+    <DateofBirth>14/10/1999</DateofBirth>
+    <Phone>682 524 4117</Phone>
+    <Email>mrobertellik@merriam-webster.com</Email>
+  </student><student>
+    <CNE>304</CNE>
+    <LastName>Elle</LastName>
+    <FirstName>Lanchbury</FirstName>
+    <DateofBirth>05/05/1995</DateofBirth>
+    <Phone>788 400 8473</Phone>
+    <Email>elanchburyl@wp.com</Email>
+  </student><student>
+    <CNE>305</CNE>
+    <LastName>Gabriela</LastName>
+    <FirstName>Sclanders</FirstName>
+    <DateofBirth>13/01/1997</DateofBirth>
+    <Phone>105 479 1448</Phone>
+    <Email>gsclandersm@indiegogo.com</Email>
+  </student><student>
+    <CNE>306</CNE>
+    <LastName>Miguel</LastName>
+    <FirstName>Finlow</FirstName>
+    <DateofBirth>18/09/1996</DateofBirth>
+    <Phone>989 345 6805</Phone>
+    <Email>mfinlown@cloudflare.com</Email>
+  </student></students>

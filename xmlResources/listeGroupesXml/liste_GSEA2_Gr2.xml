@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>496</CNE>
+    <LastName>Imojean</LastName>
+    <FirstName>Caff</FirstName>
+    <DateofBirth>13/02/1998</DateofBirth>
+    <Phone>735 908 5413</Phone>
+    <Email>icaffo@digg.com</Email>
+  </student><student>
+    <CNE>497</CNE>
+    <LastName>Hartley</LastName>
+    <FirstName>Goodin</FirstName>
+    <DateofBirth>25/12/2000</DateofBirth>
+    <Phone>700 751 5855</Phone>
+    <Email>hgoodinp@wikimedia.org</Email>
+  </student><student>
+    <CNE>498</CNE>
+    <LastName>Norry</LastName>
+    <FirstName>Costard</FirstName>
+    <DateofBirth>07/03/1999</DateofBirth>
+    <Phone>516 771 1954</Phone>
+    <Email>ncostardq@globo.com</Email>
+  </student><student>
+    <CNE>499</CNE>
+    <LastName>Odilia</LastName>
+    <FirstName>Davidy</FirstName>
+    <DateofBirth>27/06/1999</DateofBirth>
+    <Phone>664 168 6802</Phone>
+    <Email>odavidyr@businesswire.com</Email>
+  </student><student>
+    <CNE>500</CNE>
+    <LastName>Lisha</LastName>
+    <FirstName>Bucklan</FirstName>
+    <DateofBirth>05/10/1998</DateofBirth>
+    <Phone>319 525 7550</Phone>
+    <Email>lbucklans@princeton.edu</Email>
+  </student><student>
+    <CNE>501</CNE>
+    <LastName>Bili</LastName>
+    <FirstName>Fitzjohn</FirstName>
+    <DateofBirth>08/03/1999</DateofBirth>
+    <Phone>607 703 7647</Phone>
+    <Email>bfitzjohnt@livejournal.com</Email>
+  </student><student>
+    <CNE>502</CNE>
+    <LastName>Mohandis</LastName>
+    <FirstName>Rix</FirstName>
+    <DateofBirth>24/05/1998</DateofBirth>
+    <Phone>262 752 8163</Phone>
+    <Email>mrixu@lycos.com</Email>
+  </student><student>
+    <CNE>503</CNE>
+    <LastName>Alyssa</LastName>
+    <FirstName>Janway</FirstName>
+    <DateofBirth>12/05/1996</DateofBirth>
+    <Phone>181 205 0113</Phone>
+    <Email>ajanwayv@senate.gov</Email>
+  </student><student>
+    <CNE>504</CNE>
+    <LastName>Herold</LastName>
+    <FirstName>Kornilov</FirstName>
+    <DateofBirth>07/04/1995</DateofBirth>
+    <Phone>488 184 3862</Phone>
+    <Email>hkornilovw@storify.com</Email>
+  </student><student>
+    <CNE>505</CNE>
+    <LastName>Fianna</LastName>
+    <FirstName>Lorden</FirstName>
+    <DateofBirth>19/01/1998</DateofBirth>
+    <Phone>611 612 3233</Phone>
+    <Email>flordenx@netvibes.com</Email>
+  </student><student>
+    <CNE>506</CNE>
+    <LastName>Gwenny</LastName>
+    <FirstName>Maddra</FirstName>
+    <DateofBirth>06/04/1995</DateofBirth>
+    <Phone>933 837 4469</Phone>
+    <Email>gmaddray@comcast.net</Email>
+  </student><student>
+    <CNE>507</CNE>
+    <LastName>Sollie</LastName>
+    <FirstName>Canelas</FirstName>
+    <DateofBirth>09/04/1998</DateofBirth>
+    <Phone>887 792 8886</Phone>
+    <Email>scanelasz@macromedia.com</Email>
+  </student><student>
+    <CNE>508</CNE>
+    <LastName>Chuck</LastName>
+    <FirstName>Eckert</FirstName>
+    <DateofBirth>27/12/1997</DateofBirth>
+    <Phone>931 253 7622</Phone>
+    <Email>ceckert10@feedburner.com</Email>
+  </student><student>
+    <CNE>509</CNE>
+    <LastName>Melisande</LastName>
+    <FirstName>Hans</FirstName>
+    <DateofBirth>26/01/1999</DateofBirth>
+    <Phone>215 879 5267</Phone>
+    <Email>mhans11@netlog.com</Email>
+  </student><student>
+    <CNE>510</CNE>
+    <LastName>Mireille</LastName>
+    <FirstName>Batsford</FirstName>
+    <DateofBirth>20/12/1998</DateofBirth>
+    <Phone>509 355 6924</Phone>
+    <Email>mbatsford12@redcross.org</Email>
+  </student><student>
+    <CNE>511</CNE>
+    <LastName>Leena</LastName>
+    <FirstName>Queyeiro</FirstName>
+    <DateofBirth>19/10/1998</DateofBirth>
+    <Phone>799 963 7548</Phone>
+    <Email>lqueyeiro13@blogspot.com</Email>
+  </student><student>
+    <CNE>512</CNE>
+    <LastName>Alta</LastName>
+    <FirstName>Knaggs</FirstName>
+    <DateofBirth>18/03/2000</DateofBirth>
+    <Phone>991 226 6316</Phone>
+    <Email>aknaggs14@digg.com</Email>
+  </student><student>
+    <CNE>513</CNE>
+    <LastName>Ruperto</LastName>
+    <FirstName>Sworn</FirstName>
+    <DateofBirth>30/08/1996</DateofBirth>
+    <Phone>641 278 7191</Phone>
+    <Email>rsworn15@disqus.com</Email>
+  </student><student>
+    <CNE>514</CNE>
+    <LastName>Arel</LastName>
+    <FirstName>Mulchrone</FirstName>
+    <DateofBirth>05/04/1999</DateofBirth>
+    <Phone>850 482 0642</Phone>
+    <Email>amulchrone16@bluehost.com</Email>
+  </student><student>
+    <CNE>515</CNE>
+    <LastName>Mariel</LastName>
+    <FirstName>Cheetam</FirstName>
+    <DateofBirth>29/04/1997</DateofBirth>
+    <Phone>650 142 7492</Phone>
+    <Email>mcheetam17@businesswire.com</Email>
+  </student><student>
+    <CNE>516</CNE>
+    <LastName>Biddy</LastName>
+    <FirstName>Toy</FirstName>
+    <DateofBirth>20/09/1995</DateofBirth>
+    <Phone>600 891 9153</Phone>
+    <Email>btoy18@hubpages.com</Email>
+  </student><student>
+    <CNE>517</CNE>
+    <LastName>Sandor</LastName>
+    <FirstName>Hallor</FirstName>
+    <DateofBirth>28/06/1996</DateofBirth>
+    <Phone>904 198 8803</Phone>
+    <Email>shallor19@vimeo.com</Email>
+  </student></students>

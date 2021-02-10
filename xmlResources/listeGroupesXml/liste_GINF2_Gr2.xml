@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>354</CNE>
+    <LastName>El mamaoune</LastName>
+    <FirstName>Mouad</FirstName>
+    <DateofBirth>26/05/1996</DateofBirth>
+    <Phone>05 52 25 45 86</Phone>
+    <Email>vitae.posuere.at@Curabiturdictum.co.uk</Email>
+  </student><student>
+    <CNE>355</CNE>
+    <LastName>El Moustachir</LastName>
+    <FirstName>Yassine</FirstName>
+    <DateofBirth>15/08/1996</DateofBirth>
+    <Phone>07 54 23 51 86</Phone>
+    <Email>et.magnis@felis.net</Email>
+  </student><student>
+    <CNE>356</CNE>
+    <LastName>El Ouazani</LastName>
+    <FirstName>Zohra</FirstName>
+    <DateofBirth>04/02/2001</DateofBirth>
+    <Phone>08 25 12 23 20</Phone>
+    <Email>nonummy.ut@Quisquenonummy.edu</Email>
+  </student><student>
+    <CNE>357</CNE>
+    <LastName>El Younssi</LastName>
+    <FirstName>Mouna</FirstName>
+    <DateofBirth>18/07/1996</DateofBirth>
+    <Phone>08 29 78 57 61</Phone>
+    <Email>eros.Nam.consequat@nasceturridiculusmus.org</Email>
+  </student><student>
+    <CNE>358</CNE>
+    <LastName>Essar-rhini</LastName>
+    <FirstName>Souhaib</FirstName>
+    <DateofBirth>14/05/1999</DateofBirth>
+    <Phone>06 96 56 96 80</Phone>
+    <Email>Duis@elitAliquam.co.uk</Email>
+  </student><student>
+    <CNE>359</CNE>
+    <LastName>Falaki</LastName>
+    <FirstName>Youssef</FirstName>
+    <DateofBirth>20/05/2001</DateofBirth>
+    <Phone>06 14 42 14 81</Phone>
+    <Email>Integer.mollis@lorem.net</Email>
+  </student><student>
+    <CNE>360</CNE>
+    <LastName>Jaadar</LastName>
+    <FirstName>Sami</FirstName>
+    <DateofBirth>30/10/1999</DateofBirth>
+    <Phone>08 33 41 67 23</Phone>
+    <Email>Sed.molestie.Sed@lacus.net</Email>
+  </student><student>
+    <CNE>361</CNE>
+    <LastName>Jadar</LastName>
+    <FirstName>Mohamed</FirstName>
+    <DateofBirth>25/01/1999</DateofBirth>
+    <Phone>03 53 98 13 07</Phone>
+    <Email>iaculis.odio.Nam@vulputatemaurissagittis.co.uk</Email>
+  </student><student>
+    <CNE>362</CNE>
+    <LastName>Kaadiri</LastName>
+    <FirstName>Abdelatif</FirstName>
+    <DateofBirth>04/08/1996</DateofBirth>
+    <Phone>09 17 90 06 00</Phone>
+    <Email>Nulla.eu.neque@necdiam.ca</Email>
+  </student><student>
+    <CNE>363</CNE>
+    <LastName>Kherraf</LastName>
+    <FirstName>Taha</FirstName>
+    <DateofBirth>13/02/1997</DateofBirth>
+    <Phone>09 23 71 30 75</Phone>
+    <Email>non@convallisdolor.com</Email>
+  </student><student>
+    <CNE>364</CNE>
+    <LastName>Laidouni</LastName>
+    <FirstName>Youssef</FirstName>
+    <DateofBirth>27/10/2001</DateofBirth>
+    <Phone>08 11 76 57 23</Phone>
+    <Email>dictum.Phasellus.in@sem.org</Email>
+  </student><student>
+    <CNE>365</CNE>
+    <LastName>Malawi</LastName>
+    <FirstName>Imane</FirstName>
+    <DateofBirth>20/11/1999</DateofBirth>
+    <Phone>02 72 45 27 20</Phone>
+    <Email>in.faucibus@ac.ca</Email>
+  </student><student>
+    <CNE>366</CNE>
+    <LastName>Mansour</LastName>
+    <FirstName>El Mhedi</FirstName>
+    <DateofBirth>09/07/1999</DateofBirth>
+    <Phone>05 48 51 19 03</Phone>
+    <Email>risus@posuerecubiliaCurae.co.uk</Email>
+  </student><student>
+    <CNE>367</CNE>
+    <LastName>Maztaoui</LastName>
+    <FirstName>Ilias</FirstName>
+    <DateofBirth>29/03/2000</DateofBirth>
+    <Phone>02 18 03 52 24</Phone>
+    <Email>lectus@Fuscefermentumfermentum.ca</Email>
+  </student><student>
+    <CNE>368</CNE>
+    <LastName>Mchachti</LastName>
+    <FirstName>Fezzazi</FirstName>
+    <DateofBirth>06/02/2000</DateofBirth>
+    <Phone>08 12 61 06 92</Phone>
+    <Email>Nulla@elitNulla.net</Email>
+  </student><student>
+    <CNE>369</CNE>
+    <LastName>Mossaouir</LastName>
+    <FirstName>Firdaous</FirstName>
+    <DateofBirth>07/03/1996</DateofBirth>
+    <Phone>05 16 37 46 37</Phone>
+    <Email>Duis.gravida.Praesent@Crasdolordolor.edu</Email>
+  </student><student>
+    <CNE>370</CNE>
+    <LastName>Noufel </LastName>
+    <FirstName>Salima</FirstName>
+    <DateofBirth>31/07/1996</DateofBirth>
+    <Phone>04 17 06 67 95</Phone>
+    <Email>Quisque.nonummy.ipsum@euismodest.edu</Email>
+  </student><student>
+    <CNE>371</CNE>
+    <LastName>Ngan</LastName>
+    <FirstName>Joseph</FirstName>
+    <DateofBirth>02/10/2001</DateofBirth>
+    <Phone>08 92 32 93 61</Phone>
+    <Email>eu@Pellentesqueultricies.edu</Email>
+  </student><student>
+    <CNE>372</CNE>
+    <LastName>Oumechtak</LastName>
+    <FirstName>Rida</FirstName>
+    <DateofBirth>17/01/2002</DateofBirth>
+    <Phone>07 82 84 07 38</Phone>
+    <Email>magnis.dis@Nunclaoreet.net</Email>
+  </student><student>
+    <CNE>373</CNE>
+    <LastName>Sahel</LastName>
+    <FirstName>Ikrame</FirstName>
+    <DateofBirth>05/03/2001</DateofBirth>
+    <Phone>04 49 51 01 75</Phone>
+    <Email>aliquam@NullafacilisiSed.net</Email>
+  </student><student>
+    <CNE>374</CNE>
+    <LastName>Sahli</LastName>
+    <FirstName>Kawtar</FirstName>
+    <DateofBirth>31/10/1997</DateofBirth>
+    <Phone>01 98 13 34 30</Phone>
+    <Email>eros@Donecegestas.com</Email>
+  </student><student>
+    <CNE>375</CNE>
+    <LastName>Salmoun</LastName>
+    <FirstName>Insaf</FirstName>
+    <DateofBirth>19/07/1999</DateofBirth>
+    <Phone>09 09 94 63 97</Phone>
+    <Email>amet.consectetuer.adipiscing@MaurismagnaDuis.co.uk</Email>
+  </student><student>
+    <CNE>376</CNE>
+    <LastName>Serrad</LastName>
+    <FirstName>Hajar</FirstName>
+    <DateofBirth>21/11/1995</DateofBirth>
+    <Phone>05 52 85 13 69</Phone>
+    <Email>velit.dui@porttitorscelerisqueneque.org</Email>
+  </student></students>

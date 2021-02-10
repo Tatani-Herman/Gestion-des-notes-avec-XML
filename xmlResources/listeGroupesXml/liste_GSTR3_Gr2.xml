@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>684</CNE>
+    <LastName>Tony</LastName>
+    <FirstName>Bedford</FirstName>
+    <DateofBirth>02/04/1995</DateofBirth>
+    <Phone>131 886 7687</Phone>
+    <Email>tbedfordo@whitehouse.gov</Email>
+  </student><student>
+    <CNE>685</CNE>
+    <LastName>Talbert</LastName>
+    <FirstName>Jenson</FirstName>
+    <DateofBirth>25/03/1996</DateofBirth>
+    <Phone>963 402 0476</Phone>
+    <Email>tjensonp@lulu.com</Email>
+  </student><student>
+    <CNE>686</CNE>
+    <LastName>Marianne</LastName>
+    <FirstName>Broader</FirstName>
+    <DateofBirth>12/05/2000</DateofBirth>
+    <Phone>119 454 2263</Phone>
+    <Email>mbroaderq@digg.com</Email>
+  </student><student>
+    <CNE>687</CNE>
+    <LastName>Lydon</LastName>
+    <FirstName>Stapleton</FirstName>
+    <DateofBirth>10/06/1996</DateofBirth>
+    <Phone>992 175 9699</Phone>
+    <Email>lstapletonr@freewebs.com</Email>
+  </student><student>
+    <CNE>688</CNE>
+    <LastName>Alexio</LastName>
+    <FirstName>Bascomb</FirstName>
+    <DateofBirth>08/12/1997</DateofBirth>
+    <Phone>825 622 7988</Phone>
+    <Email>abascombs@pagesperso-orange.fr</Email>
+  </student><student>
+    <CNE>689</CNE>
+    <LastName>Whitaker</LastName>
+    <FirstName>Wyre</FirstName>
+    <DateofBirth>11/04/2000</DateofBirth>
+    <Phone>554 153 5435</Phone>
+    <Email>wwyret@phpbb.com</Email>
+  </student><student>
+    <CNE>690</CNE>
+    <LastName>Reade</LastName>
+    <FirstName>Jantet</FirstName>
+    <DateofBirth>16/06/1997</DateofBirth>
+    <Phone>401 625 5027</Phone>
+    <Email>rjantetu@google.ru</Email>
+  </student><student>
+    <CNE>691</CNE>
+    <LastName>Murdoch</LastName>
+    <FirstName>Di Matteo</FirstName>
+    <DateofBirth>13/08/1997</DateofBirth>
+    <Phone>192 526 5918</Phone>
+    <Email>mdimatteov@acquirethisname.com</Email>
+  </student><student>
+    <CNE>692</CNE>
+    <LastName>Ban</LastName>
+    <FirstName>Bedinham</FirstName>
+    <DateofBirth>17/12/1995</DateofBirth>
+    <Phone>656 711 3935</Phone>
+    <Email>bbedinhamw@google.co.jp</Email>
+  </student><student>
+    <CNE>693</CNE>
+    <LastName>Kimberlyn</LastName>
+    <FirstName>Pigeon</FirstName>
+    <DateofBirth>31/07/2000</DateofBirth>
+    <Phone>582 293 1091</Phone>
+    <Email>kpigeonx@cbslocal.com</Email>
+  </student><student>
+    <CNE>694</CNE>
+    <LastName>Preston</LastName>
+    <FirstName>Petris</FirstName>
+    <DateofBirth>28/07/1997</DateofBirth>
+    <Phone>297 779 0145</Phone>
+    <Email>ppetrisy@walmart.com</Email>
+  </student><student>
+    <CNE>695</CNE>
+    <LastName>Jannel</LastName>
+    <FirstName>Ferreras</FirstName>
+    <DateofBirth>19/10/2000</DateofBirth>
+    <Phone>702 805 2894</Phone>
+    <Email>jferrerasz@taobao.com</Email>
+  </student><student>
+    <CNE>696</CNE>
+    <LastName>Goran</LastName>
+    <FirstName>Sharpin</FirstName>
+    <DateofBirth>20/02/1997</DateofBirth>
+    <Phone>338 918 5660</Phone>
+    <Email>gsharpin10@netlog.com</Email>
+  </student><student>
+    <CNE>697</CNE>
+    <LastName>Ash</LastName>
+    <FirstName>Benyon</FirstName>
+    <DateofBirth>18/01/2001</DateofBirth>
+    <Phone>926 234 8638</Phone>
+    <Email>abenyon11@scientificamerican.com</Email>
+  </student><student>
+    <CNE>698</CNE>
+    <LastName>Karmen</LastName>
+    <FirstName>Dyett</FirstName>
+    <DateofBirth>08/09/1995</DateofBirth>
+    <Phone>784 768 0510</Phone>
+    <Email>kdyett12@tripod.com</Email>
+  </student><student>
+    <CNE>699</CNE>
+    <LastName>Brewer</LastName>
+    <FirstName>Paiton</FirstName>
+    <DateofBirth>29/05/2000</DateofBirth>
+    <Phone>986 906 6966</Phone>
+    <Email>bpaiton13@jalbum.net</Email>
+  </student><student>
+    <CNE>700</CNE>
+    <LastName>Meara</LastName>
+    <FirstName>Bickersteth</FirstName>
+    <DateofBirth>18/09/1995</DateofBirth>
+    <Phone>337 762 9363</Phone>
+    <Email>mbickersteth14@epa.gov</Email>
+  </student><student>
+    <CNE>701</CNE>
+    <LastName>Cinda</LastName>
+    <FirstName>Piens</FirstName>
+    <DateofBirth>21/07/1998</DateofBirth>
+    <Phone>488 931 9733</Phone>
+    <Email>cpiens15@npr.org</Email>
+  </student><student>
+    <CNE>702</CNE>
+    <LastName>Joella</LastName>
+    <FirstName>Edgeson</FirstName>
+    <DateofBirth>16/08/1998</DateofBirth>
+    <Phone>707 473 2221</Phone>
+    <Email>jedgeson16@rambler.ru</Email>
+  </student><student>
+    <CNE>703</CNE>
+    <LastName>Blane</LastName>
+    <FirstName>Rewbottom</FirstName>
+    <DateofBirth>30/09/1995</DateofBirth>
+    <Phone>458 348 9276</Phone>
+    <Email>brewbottom17@com.com</Email>
+  </student><student>
+    <CNE>704</CNE>
+    <LastName>Cherye</LastName>
+    <FirstName>Lammerts</FirstName>
+    <DateofBirth>24/04/1997</DateofBirth>
+    <Phone>746 291 1593</Phone>
+    <Email>clammerts18@time.com</Email>
+  </student><student>
+    <CNE>705</CNE>
+    <LastName>Robert</LastName>
+    <FirstName>Gwyer</FirstName>
+    <DateofBirth>18/01/1996</DateofBirth>
+    <Phone>609 926 4037</Phone>
+    <Email>rgwyer19@free.fr</Email>
+  </student></students>

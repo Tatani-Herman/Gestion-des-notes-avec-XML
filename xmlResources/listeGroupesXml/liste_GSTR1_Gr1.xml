@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>566</CNE>
+    <LastName>Kizzee</LastName>
+    <FirstName>Matonin</FirstName>
+    <DateofBirth>27/01/2000</DateofBirth>
+    <Phone>491 679 5985</Phone>
+    <Email>kmatonin0@zimbio.com</Email>
+  </student><student>
+    <CNE>567</CNE>
+    <LastName>Gerianne</LastName>
+    <FirstName>Proudler</FirstName>
+    <DateofBirth>29/01/2000</DateofBirth>
+    <Phone>593 843 8052</Phone>
+    <Email>gproudler1@symantec.com</Email>
+  </student><student>
+    <CNE>568</CNE>
+    <LastName>Gwen</LastName>
+    <FirstName>Summerlee</FirstName>
+    <DateofBirth>21/07/2000</DateofBirth>
+    <Phone>182 179 6918</Phone>
+    <Email>gsummerlee2@webeden.co.uk</Email>
+  </student><student>
+    <CNE>569</CNE>
+    <LastName>Mollee</LastName>
+    <FirstName>Fiddler</FirstName>
+    <DateofBirth>27/10/1999</DateofBirth>
+    <Phone>965 910 7038</Phone>
+    <Email>mfiddler3@spotify.com</Email>
+  </student><student>
+    <CNE>570</CNE>
+    <LastName>Bastian</LastName>
+    <FirstName>Keats</FirstName>
+    <DateofBirth>22/09/1999</DateofBirth>
+    <Phone>605 815 4167</Phone>
+    <Email>bkeats4@mozilla.org</Email>
+  </student><student>
+    <CNE>571</CNE>
+    <LastName>Desiri</LastName>
+    <FirstName>Wilbore</FirstName>
+    <DateofBirth>08/11/1995</DateofBirth>
+    <Phone>487 289 8655</Phone>
+    <Email>dwilbore5@instagram.com</Email>
+  </student><student>
+    <CNE>572</CNE>
+    <LastName>Hyacinthie</LastName>
+    <FirstName>Brister</FirstName>
+    <DateofBirth>28/02/2000</DateofBirth>
+    <Phone>180 877 5161</Phone>
+    <Email>hbrister6@jigsy.com</Email>
+  </student><student>
+    <CNE>573</CNE>
+    <LastName>Husein</LastName>
+    <FirstName>Ayer</FirstName>
+    <DateofBirth>31/03/1996</DateofBirth>
+    <Phone>237 348 3795</Phone>
+    <Email>hayer7@oakley.com</Email>
+  </student><student>
+    <CNE>574</CNE>
+    <LastName>Marcello</LastName>
+    <FirstName>Leggis</FirstName>
+    <DateofBirth>15/02/1995</DateofBirth>
+    <Phone>319 681 3967</Phone>
+    <Email>mleggis8@adobe.com</Email>
+  </student><student>
+    <CNE>575</CNE>
+    <LastName>Hubert</LastName>
+    <FirstName>Dietsche</FirstName>
+    <DateofBirth>08/05/1997</DateofBirth>
+    <Phone>601 216 6372</Phone>
+    <Email>hdietsche9@aboutads.info</Email>
+  </student><student>
+    <CNE>576</CNE>
+    <LastName>Hortensia</LastName>
+    <FirstName>Frain</FirstName>
+    <DateofBirth>21/04/1997</DateofBirth>
+    <Phone>798 534 2755</Phone>
+    <Email>hfraina@virginia.edu</Email>
+  </student><student>
+    <CNE>577</CNE>
+    <LastName>Carine</LastName>
+    <FirstName>Greenless</FirstName>
+    <DateofBirth>04/09/1999</DateofBirth>
+    <Phone>174 499 2779</Phone>
+    <Email>cgreenlessb@mac.com</Email>
+  </student><student>
+    <CNE>578</CNE>
+    <LastName>Andie</LastName>
+    <FirstName>Funnell</FirstName>
+    <DateofBirth>10/09/1997</DateofBirth>
+    <Phone>626 322 1900</Phone>
+    <Email>afunnellc@photobucket.com</Email>
+  </student><student>
+    <CNE>579</CNE>
+    <LastName>Georgianne</LastName>
+    <FirstName>Ludlam</FirstName>
+    <DateofBirth>17/09/1997</DateofBirth>
+    <Phone>387 964 5315</Phone>
+    <Email>gludlamd@drupal.org</Email>
+  </student><student>
+    <CNE>580</CNE>
+    <LastName>Raynor</LastName>
+    <FirstName>Germon</FirstName>
+    <DateofBirth>20/07/1997</DateofBirth>
+    <Phone>864 994 8920</Phone>
+    <Email>rgermone@huffingtonpost.com</Email>
+  </student><student>
+    <CNE>581</CNE>
+    <LastName>Valera</LastName>
+    <FirstName>Wilcocke</FirstName>
+    <DateofBirth>22/06/1995</DateofBirth>
+    <Phone>984 911 1724</Phone>
+    <Email>vwilcockef@spotify.com</Email>
+  </student><student>
+    <CNE>582</CNE>
+    <LastName>Raddie</LastName>
+    <FirstName>Dopson</FirstName>
+    <DateofBirth>16/01/2001</DateofBirth>
+    <Phone>633 988 0774</Phone>
+    <Email>rdopsong@cnn.com</Email>
+  </student><student>
+    <CNE>583</CNE>
+    <LastName>Perceval</LastName>
+    <FirstName>Trevaskus</FirstName>
+    <DateofBirth>24/01/2000</DateofBirth>
+    <Phone>656 927 7638</Phone>
+    <Email>ptrevaskush@techcrunch.com</Email>
+  </student><student>
+    <CNE>584</CNE>
+    <LastName>Mace</LastName>
+    <FirstName>McQuilliam</FirstName>
+    <DateofBirth>04/10/1997</DateofBirth>
+    <Phone>817 790 8642</Phone>
+    <Email>mmcquilliami@bravesites.com</Email>
+  </student><student>
+    <CNE>585</CNE>
+    <LastName>Joannes</LastName>
+    <FirstName>Dagon</FirstName>
+    <DateofBirth>19/04/1998</DateofBirth>
+    <Phone>989 977 7199</Phone>
+    <Email>jdagonj@cnn.com</Email>
+  </student><student>
+    <CNE>586</CNE>
+    <LastName>Josefina</LastName>
+    <FirstName>Faughey</FirstName>
+    <DateofBirth>19/05/1999</DateofBirth>
+    <Phone>436 361 8379</Phone>
+    <Email>jfaugheyk@prlog.org</Email>
+  </student><student>
+    <CNE>587</CNE>
+    <LastName>Enrique</LastName>
+    <FirstName>Brelsford</FirstName>
+    <DateofBirth>15/10/1995</DateofBirth>
+    <Phone>299 407 2382</Phone>
+    <Email>ebrelsfordl@nymag.com</Email>
+  </student><student>
+    <CNE>588</CNE>
+    <LastName>Fifi</LastName>
+    <FirstName>Provis</FirstName>
+    <DateofBirth>01/09/1999</DateofBirth>
+    <Phone>946 244 3377</Phone>
+    <Email>fprovism@kickstarter.com</Email>
+  </student><student>
+    <CNE>589</CNE>
+    <LastName>Donica</LastName>
+    <FirstName>Macey</FirstName>
+    <DateofBirth>14/12/1997</DateofBirth>
+    <Phone>486 245 9756</Phone>
+    <Email>dmaceyn@loc.gov</Email>
+  </student></students>

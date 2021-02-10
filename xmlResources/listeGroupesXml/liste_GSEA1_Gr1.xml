@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>425</CNE>
+    <LastName>Hobart</LastName>
+    <FirstName>Clipson</FirstName>
+    <DateofBirth>26/04/1995</DateofBirth>
+    <Phone>755 455 5993</Phone>
+    <Email>hclipson0@abc.net.au</Email>
+  </student><student>
+    <CNE>426</CNE>
+    <LastName>Corrie</LastName>
+    <FirstName>Moakler</FirstName>
+    <DateofBirth>22/11/1997</DateofBirth>
+    <Phone>650 817 9335</Phone>
+    <Email>cmoakler1@washington.edu</Email>
+  </student><student>
+    <CNE>427</CNE>
+    <LastName>Janaya</LastName>
+    <FirstName>Kuhndel</FirstName>
+    <DateofBirth>23/08/1999</DateofBirth>
+    <Phone>904 286 1691</Phone>
+    <Email>jkuhndel2@wsj.com</Email>
+  </student><student>
+    <CNE>428</CNE>
+    <LastName>Deeanne</LastName>
+    <FirstName>Pala</FirstName>
+    <DateofBirth>23/06/1995</DateofBirth>
+    <Phone>778 497 7646</Phone>
+    <Email>dpala3@a8.net</Email>
+  </student><student>
+    <CNE>429</CNE>
+    <LastName>Sherman</LastName>
+    <FirstName>Huonic</FirstName>
+    <DateofBirth>24/10/1995</DateofBirth>
+    <Phone>472 947 8727</Phone>
+    <Email>shuonic4@privacy.gov.au</Email>
+  </student><student>
+    <CNE>430</CNE>
+    <LastName>Idell</LastName>
+    <FirstName>Stratton</FirstName>
+    <DateofBirth>14/02/1995</DateofBirth>
+    <Phone>450 386 4421</Phone>
+    <Email>istratton5@theglobeandmail.com</Email>
+  </student><student>
+    <CNE>431</CNE>
+    <LastName>Barth</LastName>
+    <FirstName>Hamblington</FirstName>
+    <DateofBirth>28/11/1997</DateofBirth>
+    <Phone>518 705 8055</Phone>
+    <Email>bhamblington6@indiegogo.com</Email>
+  </student><student>
+    <CNE>432</CNE>
+    <LastName>Bambie</LastName>
+    <FirstName>Pawnsford</FirstName>
+    <DateofBirth>17/02/2000</DateofBirth>
+    <Phone>968 201 1702</Phone>
+    <Email>bpawnsford7@csmonitor.com</Email>
+  </student><student>
+    <CNE>433</CNE>
+    <LastName>Saleem</LastName>
+    <FirstName>Le Provost</FirstName>
+    <DateofBirth>16/02/1997</DateofBirth>
+    <Phone>536 884 1269</Phone>
+    <Email>sleprovost8@furl.net</Email>
+  </student><student>
+    <CNE>434</CNE>
+    <LastName>Woodie</LastName>
+    <FirstName>Wrout</FirstName>
+    <DateofBirth>18/11/1999</DateofBirth>
+    <Phone>627 240 7309</Phone>
+    <Email>wwrout9@webeden.co.uk</Email>
+  </student><student>
+    <CNE>435</CNE>
+    <LastName>Maddie</LastName>
+    <FirstName>Heckner</FirstName>
+    <DateofBirth>12/11/1995</DateofBirth>
+    <Phone>528 935 6827</Phone>
+    <Email>mhecknera@oracle.com</Email>
+  </student><student>
+    <CNE>436</CNE>
+    <LastName>Roi</LastName>
+    <FirstName>Borborough</FirstName>
+    <DateofBirth>01/10/1995</DateofBirth>
+    <Phone>270 155 4705</Phone>
+    <Email>rborboroughb@rediff.com</Email>
+  </student><student>
+    <CNE>437</CNE>
+    <LastName>Coriss</LastName>
+    <FirstName>Tapner</FirstName>
+    <DateofBirth>27/10/1999</DateofBirth>
+    <Phone>282 595 0291</Phone>
+    <Email>ctapnerc@weibo.com</Email>
+  </student><student>
+    <CNE>438</CNE>
+    <LastName>Cull</LastName>
+    <FirstName>Witherbed</FirstName>
+    <DateofBirth>25/12/1999</DateofBirth>
+    <Phone>460 356 7115</Phone>
+    <Email>cwitherbedd@elegantthemes.com</Email>
+  </student><student>
+    <CNE>439</CNE>
+    <LastName>Josie</LastName>
+    <FirstName>Redley</FirstName>
+    <DateofBirth>01/06/2000</DateofBirth>
+    <Phone>559 235 1265</Phone>
+    <Email>jredleye@barnesandnoble.com</Email>
+  </student><student>
+    <CNE>440</CNE>
+    <LastName>Hyacinthe</LastName>
+    <FirstName>Harsum</FirstName>
+    <DateofBirth>10/03/1998</DateofBirth>
+    <Phone>394 285 7567</Phone>
+    <Email>hharsumf@jimdo.com</Email>
+  </student><student>
+    <CNE>441</CNE>
+    <LastName>Krysta</LastName>
+    <FirstName>Baptiste</FirstName>
+    <DateofBirth>08/08/1996</DateofBirth>
+    <Phone>254 584 5121</Phone>
+    <Email>kbaptisteg@google.com.hk</Email>
+  </student><student>
+    <CNE>442</CNE>
+    <LastName>Blondelle</LastName>
+    <FirstName>Castellone</FirstName>
+    <DateofBirth>29/03/2000</DateofBirth>
+    <Phone>441 688 6365</Phone>
+    <Email>bcastelloneh@privacy.gov.au</Email>
+  </student><student>
+    <CNE>443</CNE>
+    <LastName>Jay</LastName>
+    <FirstName>Kenvin</FirstName>
+    <DateofBirth>03/07/1996</DateofBirth>
+    <Phone>368 403 8769</Phone>
+    <Email>jkenvini@geocities.com</Email>
+  </student><student>
+    <CNE>444</CNE>
+    <LastName>Dieter</LastName>
+    <FirstName>Croote</FirstName>
+    <DateofBirth>19/10/1995</DateofBirth>
+    <Phone>409 138 7094</Phone>
+    <Email>dcrootej@ed.gov</Email>
+  </student><student>
+    <CNE>445</CNE>
+    <LastName>Evvie</LastName>
+    <FirstName>Mallison</FirstName>
+    <DateofBirth>16/09/1998</DateofBirth>
+    <Phone>532 836 0943</Phone>
+    <Email>emallisonk@indiegogo.com</Email>
+  </student><student>
+    <CNE>446</CNE>
+    <LastName>Jerrilee</LastName>
+    <FirstName>Yallop</FirstName>
+    <DateofBirth>13/04/1995</DateofBirth>
+    <Phone>201 924 8184</Phone>
+    <Email>jyallopl@google.nl</Email>
+  </student><student>
+    <CNE>447</CNE>
+    <LastName>Julissa</LastName>
+    <FirstName>Upshall</FirstName>
+    <DateofBirth>06/03/1997</DateofBirth>
+    <Phone>797 214 7726</Phone>
+    <Email>jupshallm@admin.ch</Email>
+  </student><student>
+    <CNE>448</CNE>
+    <LastName>Tony</LastName>
+    <FirstName>Giamuzzo</FirstName>
+    <DateofBirth>16/10/1998</DateofBirth>
+    <Phone>561 213 3957</Phone>
+    <Email>tgiamuzzon@blogspot.com</Email>
+  </student></students>

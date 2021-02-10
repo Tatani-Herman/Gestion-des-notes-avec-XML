@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>590</CNE>
+    <LastName>Drew</LastName>
+    <FirstName>Sirmon</FirstName>
+    <DateofBirth>14/12/2000</DateofBirth>
+    <Phone>155 835 3122</Phone>
+    <Email>dsirmono@ucoz.ru</Email>
+  </student><student>
+    <CNE>591</CNE>
+    <LastName>Lind</LastName>
+    <FirstName>Antosik</FirstName>
+    <DateofBirth>20/09/1997</DateofBirth>
+    <Phone>173 423 0965</Phone>
+    <Email>lantosikp@vimeo.com</Email>
+  </student><student>
+    <CNE>592</CNE>
+    <LastName>Robbin</LastName>
+    <FirstName>Smewin</FirstName>
+    <DateofBirth>22/01/1997</DateofBirth>
+    <Phone>677 906 1254</Phone>
+    <Email>rsmewinq@theguardian.com</Email>
+  </student><student>
+    <CNE>593</CNE>
+    <LastName>Meta</LastName>
+    <FirstName>Spedding</FirstName>
+    <DateofBirth>14/05/1999</DateofBirth>
+    <Phone>804 625 6105</Phone>
+    <Email>mspeddingr@berkeley.edu</Email>
+  </student><student>
+    <CNE>594</CNE>
+    <LastName>Donica</LastName>
+    <FirstName>Jorgensen</FirstName>
+    <DateofBirth>06/09/1999</DateofBirth>
+    <Phone>229 615 3926</Phone>
+    <Email>djorgensens@ucsd.edu</Email>
+  </student><student>
+    <CNE>595</CNE>
+    <LastName>Gonzales</LastName>
+    <FirstName>Deschelle</FirstName>
+    <DateofBirth>18/03/1999</DateofBirth>
+    <Phone>826 870 1310</Phone>
+    <Email>gdeschellet@jimdo.com</Email>
+  </student><student>
+    <CNE>596</CNE>
+    <LastName>Lucie</LastName>
+    <FirstName>O'Dempsey</FirstName>
+    <DateofBirth>02/06/1997</DateofBirth>
+    <Phone>138 214 2933</Phone>
+    <Email>lodempseyu@over-blog.com</Email>
+  </student><student>
+    <CNE>597</CNE>
+    <LastName>Della</LastName>
+    <FirstName>Fassbender</FirstName>
+    <DateofBirth>26/01/2001</DateofBirth>
+    <Phone>512 361 4194</Phone>
+    <Email>dfassbenderv@geocities.com</Email>
+  </student><student>
+    <CNE>598</CNE>
+    <LastName>Jacquenette</LastName>
+    <FirstName>McClarence</FirstName>
+    <DateofBirth>21/09/2000</DateofBirth>
+    <Phone>320 361 1569</Phone>
+    <Email>jmcclarencew@fema.gov</Email>
+  </student><student>
+    <CNE>599</CNE>
+    <LastName>Ase</LastName>
+    <FirstName>Murrie</FirstName>
+    <DateofBirth>20/08/1995</DateofBirth>
+    <Phone>256 142 6911</Phone>
+    <Email>amurriex@ftc.gov</Email>
+  </student><student>
+    <CNE>600</CNE>
+    <LastName>Muire</LastName>
+    <FirstName>Kynsey</FirstName>
+    <DateofBirth>18/12/1995</DateofBirth>
+    <Phone>820 789 7001</Phone>
+    <Email>mkynseyy@barnesandnoble.com</Email>
+  </student><student>
+    <CNE>601</CNE>
+    <LastName>Tommie</LastName>
+    <FirstName>Nizard</FirstName>
+    <DateofBirth>20/01/1996</DateofBirth>
+    <Phone>339 292 1194</Phone>
+    <Email>tnizardz@eepurl.com</Email>
+  </student><student>
+    <CNE>602</CNE>
+    <LastName>Frants</LastName>
+    <FirstName>Lacrouts</FirstName>
+    <DateofBirth>13/09/1996</DateofBirth>
+    <Phone>910 849 5268</Phone>
+    <Email>flacrouts10@storify.com</Email>
+  </student><student>
+    <CNE>603</CNE>
+    <LastName>Farly</LastName>
+    <FirstName>Uzelli</FirstName>
+    <DateofBirth>18/09/2000</DateofBirth>
+    <Phone>711 670 9596</Phone>
+    <Email>fuzelli11@timesonline.co.uk</Email>
+  </student><student>
+    <CNE>604</CNE>
+    <LastName>Rasia</LastName>
+    <FirstName>Mattityahou</FirstName>
+    <DateofBirth>09/03/1995</DateofBirth>
+    <Phone>586 289 1344</Phone>
+    <Email>rmattityahou12@cpanel.net</Email>
+  </student><student>
+    <CNE>605</CNE>
+    <LastName>Johann</LastName>
+    <FirstName>Gert</FirstName>
+    <DateofBirth>18/12/1997</DateofBirth>
+    <Phone>591 141 7087</Phone>
+    <Email>jgert13@google.es</Email>
+  </student><student>
+    <CNE>606</CNE>
+    <LastName>Thatch</LastName>
+    <FirstName>Bremeyer</FirstName>
+    <DateofBirth>03/12/2000</DateofBirth>
+    <Phone>452 102 7214</Phone>
+    <Email>tbremeyer14@bigcartel.com</Email>
+  </student><student>
+    <CNE>607</CNE>
+    <LastName>Porty</LastName>
+    <FirstName>Jurick</FirstName>
+    <DateofBirth>24/05/1998</DateofBirth>
+    <Phone>363 752 5720</Phone>
+    <Email>pjurick15@abc.net.au</Email>
+  </student><student>
+    <CNE>608</CNE>
+    <LastName>Sayre</LastName>
+    <FirstName>Smyth</FirstName>
+    <DateofBirth>13/12/1998</DateofBirth>
+    <Phone>884 641 8471</Phone>
+    <Email>ssmyth16@pen.io</Email>
+  </student><student>
+    <CNE>609</CNE>
+    <LastName>Kaye</LastName>
+    <FirstName>Enbury</FirstName>
+    <DateofBirth>21/10/1999</DateofBirth>
+    <Phone>570 291 7028</Phone>
+    <Email>kenbury17@moonfruit.com</Email>
+  </student><student>
+    <CNE>610</CNE>
+    <LastName>Patrizius</LastName>
+    <FirstName>Dredge</FirstName>
+    <DateofBirth>01/02/2000</DateofBirth>
+    <Phone>769 236 7828</Phone>
+    <Email>pdredge18@vimeo.com</Email>
+  </student><student>
+    <CNE>611</CNE>
+    <LastName>Fee</LastName>
+    <FirstName>Knappett</FirstName>
+    <DateofBirth>02/03/2000</DateofBirth>
+    <Phone>597 128 2283</Phone>
+    <Email>fknappett19@npr.org</Email>
+  </student></students>

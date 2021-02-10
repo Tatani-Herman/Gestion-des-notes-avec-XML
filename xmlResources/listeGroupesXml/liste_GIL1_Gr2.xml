@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>166</CNE>
+    <LastName>Nikos</LastName>
+    <FirstName>Shout</FirstName>
+    <DateofBirth>12/07/1998</DateofBirth>
+    <Phone>512 775 5101</Phone>
+    <Email>nshouto@economist.com</Email>
+  </student><student>
+    <CNE>167</CNE>
+    <LastName>Keeley</LastName>
+    <FirstName>Janz</FirstName>
+    <DateofBirth>15/11/1999</DateofBirth>
+    <Phone>765 494 8282</Phone>
+    <Email>kjanzp@artisteer.com</Email>
+  </student><student>
+    <CNE>168</CNE>
+    <LastName>Jessa</LastName>
+    <FirstName>Mamwell</FirstName>
+    <DateofBirth>20/05/1997</DateofBirth>
+    <Phone>607 915 1166</Phone>
+    <Email>jmamwellq@skyrock.com</Email>
+  </student><student>
+    <CNE>169</CNE>
+    <LastName>Raimondo</LastName>
+    <FirstName>Blomfield</FirstName>
+    <DateofBirth>06/10/1998</DateofBirth>
+    <Phone>715 147 9054</Phone>
+    <Email>rblomfieldr@ft.com</Email>
+  </student><student>
+    <CNE>170</CNE>
+    <LastName>Eustacia</LastName>
+    <FirstName>Yakunin</FirstName>
+    <DateofBirth>12/08/2000</DateofBirth>
+    <Phone>416 160 6256</Phone>
+    <Email>eyakunins@homestead.com</Email>
+  </student><student>
+    <CNE>171</CNE>
+    <LastName>Evania</LastName>
+    <FirstName>Kerford</FirstName>
+    <DateofBirth>15/11/1997</DateofBirth>
+    <Phone>720 432 6122</Phone>
+    <Email>ekerfordt@ameblo.jp</Email>
+  </student><student>
+    <CNE>172</CNE>
+    <LastName>Malcolm</LastName>
+    <FirstName>Domnin</FirstName>
+    <DateofBirth>12/11/1999</DateofBirth>
+    <Phone>302 439 9148</Phone>
+    <Email>mdomninu@e-recht24.de</Email>
+  </student><student>
+    <CNE>173</CNE>
+    <LastName>Chastity</LastName>
+    <FirstName>Kidney</FirstName>
+    <DateofBirth>17/08/2000</DateofBirth>
+    <Phone>377 914 4062</Phone>
+    <Email>ckidneyv@comsenz.com</Email>
+  </student><student>
+    <CNE>174</CNE>
+    <LastName>Mellie</LastName>
+    <FirstName>Minithorpe</FirstName>
+    <DateofBirth>02/04/2000</DateofBirth>
+    <Phone>993 193 0699</Phone>
+    <Email>mminithorpew@skyrock.com</Email>
+  </student><student>
+    <CNE>175</CNE>
+    <LastName>Northrup</LastName>
+    <FirstName>Bonsall</FirstName>
+    <DateofBirth>01/05/2000</DateofBirth>
+    <Phone>384 161 3756</Phone>
+    <Email>nbonsallx@domainmarket.com</Email>
+  </student><student>
+    <CNE>176</CNE>
+    <LastName>Harry</LastName>
+    <FirstName>Davidofski</FirstName>
+    <DateofBirth>17/12/1998</DateofBirth>
+    <Phone>489 629 0657</Phone>
+    <Email>hdavidofskiy@apple.com</Email>
+  </student><student>
+    <CNE>177</CNE>
+    <LastName>Kliment</LastName>
+    <FirstName>Prewer</FirstName>
+    <DateofBirth>23/07/1996</DateofBirth>
+    <Phone>160 783 6494</Phone>
+    <Email>kprewerz@japanpost.jp</Email>
+  </student><student>
+    <CNE>178</CNE>
+    <LastName>Meredeth</LastName>
+    <FirstName>Gillan</FirstName>
+    <DateofBirth>09/08/2000</DateofBirth>
+    <Phone>939 851 2020</Phone>
+    <Email>mgillan10@netlog.com</Email>
+  </student><student>
+    <CNE>179</CNE>
+    <LastName>Bendite</LastName>
+    <FirstName>Ianne</FirstName>
+    <DateofBirth>06/01/1996</DateofBirth>
+    <Phone>902 715 4639</Phone>
+    <Email>bianne11@friendfeed.com</Email>
+  </student><student>
+    <CNE>180</CNE>
+    <LastName>Blake</LastName>
+    <FirstName>Comerford</FirstName>
+    <DateofBirth>28/04/1999</DateofBirth>
+    <Phone>148 188 3125</Phone>
+    <Email>bcomerford12@smugmug.com</Email>
+  </student><student>
+    <CNE>181</CNE>
+    <LastName>Alexia</LastName>
+    <FirstName>Stegers</FirstName>
+    <DateofBirth>03/02/1998</DateofBirth>
+    <Phone>310 923 6134</Phone>
+    <Email>astegers13@buzzfeed.com</Email>
+  </student><student>
+    <CNE>182</CNE>
+    <LastName>Pierre</LastName>
+    <FirstName>Pinsent</FirstName>
+    <DateofBirth>24/06/1999</DateofBirth>
+    <Phone>314 187 9478</Phone>
+    <Email>ppinsent14@geocities.jp</Email>
+  </student><student>
+    <CNE>183</CNE>
+    <LastName>Tommie</LastName>
+    <FirstName>Towne</FirstName>
+    <DateofBirth>19/11/2000</DateofBirth>
+    <Phone>688 500 7276</Phone>
+    <Email>ttowne15@latimes.com</Email>
+  </student><student>
+    <CNE>184</CNE>
+    <LastName>Odo</LastName>
+    <FirstName>Haworth</FirstName>
+    <DateofBirth>20/11/1998</DateofBirth>
+    <Phone>283 567 8525</Phone>
+    <Email>ohaworth16@ucla.edu</Email>
+  </student><student>
+    <CNE>185</CNE>
+    <LastName>Mal</LastName>
+    <FirstName>Fellgate</FirstName>
+    <DateofBirth>29/01/1998</DateofBirth>
+    <Phone>218 287 4627</Phone>
+    <Email>mfellgate17@w3.org</Email>
+  </student><student>
+    <CNE>186</CNE>
+    <LastName>Ofelia</LastName>
+    <FirstName>Charlot</FirstName>
+    <DateofBirth>23/08/1998</DateofBirth>
+    <Phone>330 800 7154</Phone>
+    <Email>ocharlot18@msu.edu</Email>
+  </student><student>
+    <CNE>187</CNE>
+    <LastName>Shalne</LastName>
+    <FirstName>Charville</FirstName>
+    <DateofBirth>03/12/1997</DateofBirth>
+    <Phone>789 325 6912</Phone>
+    <Email>scharville19@ehow.com</Email>
+  </student></students>

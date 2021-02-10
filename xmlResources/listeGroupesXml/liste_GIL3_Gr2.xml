@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>260</CNE>
+    <LastName>Rabi</LastName>
+    <FirstName>Prattin</FirstName>
+    <DateofBirth>17/02/1995</DateofBirth>
+    <Phone>676 829 9881</Phone>
+    <Email>rprattino@nbcnews.com</Email>
+  </student><student>
+    <CNE>261</CNE>
+    <LastName>Isabelle</LastName>
+    <FirstName>Baugh</FirstName>
+    <DateofBirth>10/06/1996</DateofBirth>
+    <Phone>457 781 6010</Phone>
+    <Email>ibaughp@phoca.cz</Email>
+  </student><student>
+    <CNE>262</CNE>
+    <LastName>Rasia</LastName>
+    <FirstName>Glenny</FirstName>
+    <DateofBirth>29/02/2000</DateofBirth>
+    <Phone>648 757 1654</Phone>
+    <Email>rglennyq@theguardian.com</Email>
+  </student><student>
+    <CNE>263</CNE>
+    <LastName>Arden</LastName>
+    <FirstName>Hammersley</FirstName>
+    <DateofBirth>09/08/2000</DateofBirth>
+    <Phone>670 247 1266</Phone>
+    <Email>ahammersleyr@marketwatch.com</Email>
+  </student><student>
+    <CNE>264</CNE>
+    <LastName>Neall</LastName>
+    <FirstName>Frosch</FirstName>
+    <DateofBirth>23/10/2000</DateofBirth>
+    <Phone>929 616 6517</Phone>
+    <Email>nfroschs@cmu.edu</Email>
+  </student><student>
+    <CNE>265</CNE>
+    <LastName>Anders</LastName>
+    <FirstName>Basler</FirstName>
+    <DateofBirth>05/11/1995</DateofBirth>
+    <Phone>590 361 5788</Phone>
+    <Email>abaslert@github.io</Email>
+  </student><student>
+    <CNE>266</CNE>
+    <LastName>Jo ann</LastName>
+    <FirstName>Barkley</FirstName>
+    <DateofBirth>15/01/2000</DateofBirth>
+    <Phone>366 142 5107</Phone>
+    <Email>jbarkleyu@dell.com</Email>
+  </student><student>
+    <CNE>267</CNE>
+    <LastName>Julietta</LastName>
+    <FirstName>Cortes</FirstName>
+    <DateofBirth>26/10/1996</DateofBirth>
+    <Phone>673 512 7750</Phone>
+    <Email>jcortesv@example.com</Email>
+  </student><student>
+    <CNE>268</CNE>
+    <LastName>Jaime</LastName>
+    <FirstName>Olrenshaw</FirstName>
+    <DateofBirth>11/06/1998</DateofBirth>
+    <Phone>262 312 7036</Phone>
+    <Email>jolrenshaww@nydailynews.com</Email>
+  </student><student>
+    <CNE>269</CNE>
+    <LastName>Bradley</LastName>
+    <FirstName>Van Hesteren</FirstName>
+    <DateofBirth>30/06/1997</DateofBirth>
+    <Phone>887 359 3883</Phone>
+    <Email>bvanhesterenx@google.ca</Email>
+  </student><student>
+    <CNE>270</CNE>
+    <LastName>Lowe</LastName>
+    <FirstName>Sparwell</FirstName>
+    <DateofBirth>09/04/1999</DateofBirth>
+    <Phone>878 975 1881</Phone>
+    <Email>lsparwelly@va.gov</Email>
+  </student><student>
+    <CNE>271</CNE>
+    <LastName>Emanuel</LastName>
+    <FirstName>Bracci</FirstName>
+    <DateofBirth>29/12/1999</DateofBirth>
+    <Phone>585 506 2942</Phone>
+    <Email>ebracciz@skyrock.com</Email>
+  </student><student>
+    <CNE>272</CNE>
+    <LastName>Melina</LastName>
+    <FirstName>Mallya</FirstName>
+    <DateofBirth>31/12/2000</DateofBirth>
+    <Phone>623 135 7286</Phone>
+    <Email>mmallya10@sciencedirect.com</Email>
+  </student><student>
+    <CNE>273</CNE>
+    <LastName>Alene</LastName>
+    <FirstName>Nolot</FirstName>
+    <DateofBirth>30/12/2000</DateofBirth>
+    <Phone>866 985 6739</Phone>
+    <Email>anolot11@unesco.org</Email>
+  </student><student>
+    <CNE>274</CNE>
+    <LastName>Torrie</LastName>
+    <FirstName>Alcock</FirstName>
+    <DateofBirth>23/04/1997</DateofBirth>
+    <Phone>477 432 6365</Phone>
+    <Email>talcock12@boston.com</Email>
+  </student><student>
+    <CNE>275</CNE>
+    <LastName>Kip</LastName>
+    <FirstName>Killelay</FirstName>
+    <DateofBirth>02/09/1996</DateofBirth>
+    <Phone>377 565 7283</Phone>
+    <Email>kkillelay13@amazon.de</Email>
+  </student><student>
+    <CNE>276</CNE>
+    <LastName>Hector</LastName>
+    <FirstName>Bourton</FirstName>
+    <DateofBirth>05/08/1999</DateofBirth>
+    <Phone>686 479 1388</Phone>
+    <Email>hbourton14@liveinternet.ru</Email>
+  </student><student>
+    <CNE>277</CNE>
+    <LastName>Portia</LastName>
+    <FirstName>Yea</FirstName>
+    <DateofBirth>08/04/2000</DateofBirth>
+    <Phone>728 861 1318</Phone>
+    <Email>pyea15@storify.com</Email>
+  </student><student>
+    <CNE>278</CNE>
+    <LastName>Griffie</LastName>
+    <FirstName>Khristoforov</FirstName>
+    <DateofBirth>28/10/1997</DateofBirth>
+    <Phone>209 891 6057</Phone>
+    <Email>gkhristoforov16@e-recht24.de</Email>
+  </student><student>
+    <CNE>279</CNE>
+    <LastName>Jephthah</LastName>
+    <FirstName>Olenchikov</FirstName>
+    <DateofBirth>06/01/2000</DateofBirth>
+    <Phone>310 876 0676</Phone>
+    <Email>jolenchikov17@chicagotribune.com</Email>
+  </student><student>
+    <CNE>280</CNE>
+    <LastName>Vivien</LastName>
+    <FirstName>Ciobutaro</FirstName>
+    <DateofBirth>19/07/1996</DateofBirth>
+    <Phone>535 884 1956</Phone>
+    <Email>vciobutaro18@w3.org</Email>
+  </student><student>
+    <CNE>281</CNE>
+    <LastName>Adiana</LastName>
+    <FirstName>Gavahan</FirstName>
+    <DateofBirth>12/01/1996</DateofBirth>
+    <Phone>162 249 2789</Phone>
+    <Email>agavahan19@deviantart.com</Email>
+  </student></students>

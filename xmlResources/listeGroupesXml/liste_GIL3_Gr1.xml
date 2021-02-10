@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>236</CNE>
+    <LastName>Davidde</LastName>
+    <FirstName>Shoulders</FirstName>
+    <DateofBirth>23/01/1997</DateofBirth>
+    <Phone>418 778 8573</Phone>
+    <Email>dshoulders0@discuz.net</Email>
+  </student><student>
+    <CNE>237</CNE>
+    <LastName>Philippine</LastName>
+    <FirstName>Haydon</FirstName>
+    <DateofBirth>11/11/1997</DateofBirth>
+    <Phone>333 823 3739</Phone>
+    <Email>phaydon1@nifty.com</Email>
+  </student><student>
+    <CNE>238</CNE>
+    <LastName>Findlay</LastName>
+    <FirstName>Edgworth</FirstName>
+    <DateofBirth>18/02/2000</DateofBirth>
+    <Phone>145 243 9902</Phone>
+    <Email>fedgworth2@usgs.gov</Email>
+  </student><student>
+    <CNE>239</CNE>
+    <LastName>Tracie</LastName>
+    <FirstName>Sodory</FirstName>
+    <DateofBirth>27/05/1999</DateofBirth>
+    <Phone>813 705 1599</Phone>
+    <Email>tsodory3@joomla.org</Email>
+  </student><student>
+    <CNE>240</CNE>
+    <LastName>Andriette</LastName>
+    <FirstName>McGourty</FirstName>
+    <DateofBirth>03/08/1999</DateofBirth>
+    <Phone>846 784 2517</Phone>
+    <Email>amcgourty4@spiegel.de</Email>
+  </student><student>
+    <CNE>241</CNE>
+    <LastName>Holly-anne</LastName>
+    <FirstName>Mechell</FirstName>
+    <DateofBirth>18/11/1998</DateofBirth>
+    <Phone>449 127 7388</Phone>
+    <Email>hmechell5@icio.us</Email>
+  </student><student>
+    <CNE>242</CNE>
+    <LastName>Leslie</LastName>
+    <FirstName>Traylen</FirstName>
+    <DateofBirth>20/12/2000</DateofBirth>
+    <Phone>997 447 0625</Phone>
+    <Email>ltraylen6@sakura.ne.jp</Email>
+  </student><student>
+    <CNE>243</CNE>
+    <LastName>Nixie</LastName>
+    <FirstName>Keenor</FirstName>
+    <DateofBirth>05/02/1997</DateofBirth>
+    <Phone>126 675 5600</Phone>
+    <Email>nkeenor7@addthis.com</Email>
+  </student><student>
+    <CNE>244</CNE>
+    <LastName>Alena</LastName>
+    <FirstName>Giabuzzi</FirstName>
+    <DateofBirth>20/02/1998</DateofBirth>
+    <Phone>199 233 7714</Phone>
+    <Email>agiabuzzi8@trellian.com</Email>
+  </student><student>
+    <CNE>245</CNE>
+    <LastName>Orlando</LastName>
+    <FirstName>Bullin</FirstName>
+    <DateofBirth>10/04/1996</DateofBirth>
+    <Phone>693 346 7791</Phone>
+    <Email>obullin9@virginia.edu</Email>
+  </student><student>
+    <CNE>246</CNE>
+    <LastName>Gavra</LastName>
+    <FirstName>McKibbin</FirstName>
+    <DateofBirth>24/03/1996</DateofBirth>
+    <Phone>569 937 8880</Phone>
+    <Email>gmckibbina@marriott.com</Email>
+  </student><student>
+    <CNE>247</CNE>
+    <LastName>Briny</LastName>
+    <FirstName>Minci</FirstName>
+    <DateofBirth>02/03/1995</DateofBirth>
+    <Phone>911 791 0805</Phone>
+    <Email>bmincib@goo.gl</Email>
+  </student><student>
+    <CNE>248</CNE>
+    <LastName>Julius</LastName>
+    <FirstName>Bliven</FirstName>
+    <DateofBirth>17/05/1998</DateofBirth>
+    <Phone>171 646 7368</Phone>
+    <Email>jblivenc@surveymonkey.com</Email>
+  </student><student>
+    <CNE>249</CNE>
+    <LastName>Mikaela</LastName>
+    <FirstName>Cornes</FirstName>
+    <DateofBirth>20/09/1999</DateofBirth>
+    <Phone>702 173 4048</Phone>
+    <Email>mcornesd@skype.com</Email>
+  </student><student>
+    <CNE>250</CNE>
+    <LastName>Hyacintha</LastName>
+    <FirstName>Jaquet</FirstName>
+    <DateofBirth>18/07/1999</DateofBirth>
+    <Phone>251 108 5875</Phone>
+    <Email>hjaquete@wsj.com</Email>
+  </student><student>
+    <CNE>251</CNE>
+    <LastName>Justino</LastName>
+    <FirstName>Badsey</FirstName>
+    <DateofBirth>27/01/1999</DateofBirth>
+    <Phone>165 923 2578</Phone>
+    <Email>jbadseyf@buzzfeed.com</Email>
+  </student><student>
+    <CNE>252</CNE>
+    <LastName>Sonja</LastName>
+    <FirstName>Demangeot</FirstName>
+    <DateofBirth>04/04/1995</DateofBirth>
+    <Phone>944 395 4167</Phone>
+    <Email>sdemangeotg@census.gov</Email>
+  </student><student>
+    <CNE>253</CNE>
+    <LastName>Delora</LastName>
+    <FirstName>Jolin</FirstName>
+    <DateofBirth>29/09/1995</DateofBirth>
+    <Phone>119 629 5985</Phone>
+    <Email>djolinh@smugmug.com</Email>
+  </student><student>
+    <CNE>254</CNE>
+    <LastName>Andrea</LastName>
+    <FirstName>O'Skehan</FirstName>
+    <DateofBirth>11/10/1995</DateofBirth>
+    <Phone>131 124 2913</Phone>
+    <Email>aoskehani@dell.com</Email>
+  </student><student>
+    <CNE>255</CNE>
+    <LastName>Lorinda</LastName>
+    <FirstName>Vasnetsov</FirstName>
+    <DateofBirth>20/05/1995</DateofBirth>
+    <Phone>265 515 5533</Phone>
+    <Email>lvasnetsovj@cam.ac.uk</Email>
+  </student><student>
+    <CNE>256</CNE>
+    <LastName>Ammamaria</LastName>
+    <FirstName>Grimston</FirstName>
+    <DateofBirth>15/08/2000</DateofBirth>
+    <Phone>528 367 9201</Phone>
+    <Email>agrimstonk@zdnet.com</Email>
+  </student><student>
+    <CNE>257</CNE>
+    <LastName>Jodie</LastName>
+    <FirstName>Spilsburie</FirstName>
+    <DateofBirth>04/05/1995</DateofBirth>
+    <Phone>786 169 1991</Phone>
+    <Email>jspilsburiel@aboutads.info</Email>
+  </student><student>
+    <CNE>258</CNE>
+    <LastName>Padraig</LastName>
+    <FirstName>Pester</FirstName>
+    <DateofBirth>13/11/1998</DateofBirth>
+    <Phone>564 752 1062</Phone>
+    <Email>ppesterm@creativecommons.org</Email>
+  </student><student>
+    <CNE>259</CNE>
+    <LastName>Dorey</LastName>
+    <FirstName>Ovenell</FirstName>
+    <DateofBirth>26/11/1997</DateofBirth>
+    <Phone>777 454 5819</Phone>
+    <Email>dovenelln@rakuten.co.jp</Email>
+  </student></students>

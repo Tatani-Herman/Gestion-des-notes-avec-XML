@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>779</CNE>
+    <LastName>Jacob</LastName>
+    <FirstName>Webster</FirstName>
+    <DateofBirth>29/11/2002</DateofBirth>
+    <Phone>03 00 69 30 61</Phone>
+    <Email>egestas@fringilla.edu</Email>
+  </student><student>
+    <CNE>780</CNE>
+    <LastName>Maris</LastName>
+    <FirstName>Blankenship</FirstName>
+    <DateofBirth>26/01/1999</DateofBirth>
+    <Phone>01 67 82 31 54</Phone>
+    <Email>et.commodo@rutrumloremac.edu</Email>
+  </student><student>
+    <CNE>781</CNE>
+    <LastName>Christopher</LastName>
+    <FirstName>Kirkland</FirstName>
+    <DateofBirth>04/07/2001</DateofBirth>
+    <Phone>04 39 73 74 08</Phone>
+    <Email>faucibus.Morbi.vehicula@arcuMorbisit.net</Email>
+  </student><student>
+    <CNE>782</CNE>
+    <LastName>Jamalia</LastName>
+    <FirstName>Levine</FirstName>
+    <DateofBirth>26/08/2002</DateofBirth>
+    <Phone>05 93 68 43 90</Phone>
+    <Email>eu.tellus@egetvariusultrices.ca</Email>
+  </student><student>
+    <CNE>783</CNE>
+    <LastName>Lacy</LastName>
+    <FirstName>Brennan</FirstName>
+    <DateofBirth>11/07/2000</DateofBirth>
+    <Phone>05 78 31 99 25</Phone>
+    <Email>diam.eu@nibhlaciniaorci.edu</Email>
+  </student><student>
+    <CNE>784</CNE>
+    <LastName>Ali</LastName>
+    <FirstName>Conner</FirstName>
+    <DateofBirth>13/06/2002</DateofBirth>
+    <Phone>07 65 30 18 48</Phone>
+    <Email>orci.in.consequat@Crasdictum.ca</Email>
+  </student><student>
+    <CNE>785</CNE>
+    <LastName>Penelope</LastName>
+    <FirstName>Heath</FirstName>
+    <DateofBirth>12/05/2001</DateofBirth>
+    <Phone>06 32 21 14 64</Phone>
+    <Email>vulputate.risus.a@adui.net</Email>
+  </student><student>
+    <CNE>786</CNE>
+    <LastName>Karleigh</LastName>
+    <FirstName>Rollins</FirstName>
+    <DateofBirth>04/02/2001</DateofBirth>
+    <Phone>04 76 41 88 09</Phone>
+    <Email>Curae.Phasellus.ornare@aliquamarcu.edu</Email>
+  </student><student>
+    <CNE>787</CNE>
+    <LastName>Elmo</LastName>
+    <FirstName>Dodson</FirstName>
+    <DateofBirth>21/02/1998</DateofBirth>
+    <Phone>05 67 48 87 40</Phone>
+    <Email>eu@eleifendnondapibus.net</Email>
+  </student><student>
+    <CNE>788</CNE>
+    <LastName>Helen</LastName>
+    <FirstName>Frost</FirstName>
+    <DateofBirth>28/07/1998</DateofBirth>
+    <Phone>05 57 28 82 09</Phone>
+    <Email>Nunc.quis.arcu@lectuspedeultrices.com</Email>
+  </student><student>
+    <CNE>789</CNE>
+    <LastName>Kenneth</LastName>
+    <FirstName>Woodard</FirstName>
+    <DateofBirth>01/08/2003</DateofBirth>
+    <Phone>02 70 89 71 30</Phone>
+    <Email>erat.volutpat@dictum.com</Email>
+  </student><student>
+    <CNE>790</CNE>
+    <LastName>Hedy</LastName>
+    <FirstName>Chase</FirstName>
+    <DateofBirth>09/08/2002</DateofBirth>
+    <Phone>08 37 05 98 52</Phone>
+    <Email>scelerisque@lectusCum.ca</Email>
+  </student><student>
+    <CNE>791</CNE>
+    <LastName>Anne</LastName>
+    <FirstName>Holder</FirstName>
+    <DateofBirth>06/02/2000</DateofBirth>
+    <Phone>03 00 95 22 41</Phone>
+    <Email>et.ultrices.posuere@semmagna.net</Email>
+  </student><student>
+    <CNE>792</CNE>
+    <LastName>Callie</LastName>
+    <FirstName>Hess</FirstName>
+    <DateofBirth>13/09/1999</DateofBirth>
+    <Phone>07 31 58 21 89</Phone>
+    <Email>eu@Pellentesque.edu</Email>
+  </student><student>
+    <CNE>793</CNE>
+    <LastName>Kevin</LastName>
+    <FirstName>Peck</FirstName>
+    <DateofBirth>10/10/2002</DateofBirth>
+    <Phone>02 66 85 37 02</Phone>
+    <Email>mattis.semper@maurissit.co.uk</Email>
+  </student><student>
+    <CNE>794</CNE>
+    <LastName>Dai</LastName>
+    <FirstName>Love</FirstName>
+    <DateofBirth>04/10/1999</DateofBirth>
+    <Phone>04 78 77 45 37</Phone>
+    <Email>sit.amet@mattisInteger.ca</Email>
+  </student><student>
+    <CNE>795</CNE>
+    <LastName>Xerxes</LastName>
+    <FirstName>Spence</FirstName>
+    <DateofBirth>31/12/2001</DateofBirth>
+    <Phone>06 92 26 85 68</Phone>
+    <Email>risus@justonecante.edu</Email>
+  </student><student>
+    <CNE>796</CNE>
+    <LastName>Nehru</LastName>
+    <FirstName>Bean</FirstName>
+    <DateofBirth>28/06/2002</DateofBirth>
+    <Phone>06 65 84 22 85</Phone>
+    <Email>mauris@vitaerisusDuis.co.uk</Email>
+  </student><student>
+    <CNE>797</CNE>
+    <LastName>Alyssa</LastName>
+    <FirstName>Moreno</FirstName>
+    <DateofBirth>06/07/2000</DateofBirth>
+    <Phone>05 94 74 63 37</Phone>
+    <Email>torquent.per.conubia@dignissim.com</Email>
+  </student><student>
+    <CNE>798</CNE>
+    <LastName>Clinton</LastName>
+    <FirstName>Best</FirstName>
+    <DateofBirth>24/04/2002</DateofBirth>
+    <Phone>08 17 96 07 74</Phone>
+    <Email>erat@tincidunt.org</Email>
+  </student><student>
+    <CNE>799</CNE>
+    <LastName>Zenia</LastName>
+    <FirstName>Horne</FirstName>
+    <DateofBirth>10/06/2000</DateofBirth>
+    <Phone>04 43 56 44 79</Phone>
+    <Email>eget@noncursus.edu</Email>
+  </student><student>
+    <CNE>800</CNE>
+    <LastName>Jamal</LastName>
+    <FirstName>Herman</FirstName>
+    <DateofBirth>27/11/2004</DateofBirth>
+    <Phone>09 76 13 87 24</Phone>
+    <Email>nec.tellus.Nunc@liberoet.ca</Email>
+  </student><student>
+    <CNE>801</CNE>
+    <LastName>Maile</LastName>
+    <FirstName>Whitehead</FirstName>
+    <DateofBirth>17/12/2004</DateofBirth>
+    <Phone>09 65 93 49 58</Phone>
+    <Email>quam.quis.diam@felisDonec.com</Email>
+  </student><student>
+    <CNE>802</CNE>
+    <LastName>Alfreda</LastName>
+    <FirstName>Sears</FirstName>
+    <DateofBirth>23/12/2001</DateofBirth>
+    <Phone>05 89 54 26 41</Phone>
+    <Email>fringilla@lobortisrisusIn.net</Email>
+  </student></students>

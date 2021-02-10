@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>827</CNE>
+    <LastName>Sebastian</LastName>
+    <FirstName>Benjamin</FirstName>
+    <DateofBirth>24/08/2001</DateofBirth>
+    <Phone>03 82 22 37 59</Phone>
+    <Email>Cum.sociis@euaccumsansed.org</Email>
+  </student><student>
+    <CNE>828</CNE>
+    <LastName>Kiayada</LastName>
+    <FirstName>Mcguire</FirstName>
+    <DateofBirth>23/02/1998</DateofBirth>
+    <Phone>07 02 48 28 76</Phone>
+    <Email>mauris.Integer@nonhendrerit.co.uk</Email>
+  </student><student>
+    <CNE>829</CNE>
+    <LastName>Julian</LastName>
+    <FirstName>Sykes</FirstName>
+    <DateofBirth>05/01/2003</DateofBirth>
+    <Phone>06 50 19 11 89</Phone>
+    <Email>elit.pede.malesuada@dignissimpharetra.co.uk</Email>
+  </student><student>
+    <CNE>830</CNE>
+    <LastName>Jermaine</LastName>
+    <FirstName>Moss</FirstName>
+    <DateofBirth>20/03/2001</DateofBirth>
+    <Phone>09 00 77 88 04</Phone>
+    <Email>Sed.dictum@ipsum.ca</Email>
+  </student><student>
+    <CNE>831</CNE>
+    <LastName>Grady</LastName>
+    <FirstName>Alvarado</FirstName>
+    <DateofBirth>05/07/1998</DateofBirth>
+    <Phone>07 21 52 36 66</Phone>
+    <Email>lectus@ornarelibero.org</Email>
+  </student><student>
+    <CNE>832</CNE>
+    <LastName>April</LastName>
+    <FirstName>Oneill</FirstName>
+    <DateofBirth>16/11/2000</DateofBirth>
+    <Phone>06 78 52 64 41</Phone>
+    <Email>auctor.ullamcorper@tinciduntcongue.edu</Email>
+  </student><student>
+    <CNE>833</CNE>
+    <LastName>Jason</LastName>
+    <FirstName>Wooten</FirstName>
+    <DateofBirth>12/03/2001</DateofBirth>
+    <Phone>06 99 49 37 70</Phone>
+    <Email>nisi.dictum.augue@etmagnaPraesent.co.uk</Email>
+  </student><student>
+    <CNE>834</CNE>
+    <LastName>Owen</LastName>
+    <FirstName>Benton</FirstName>
+    <DateofBirth>20/04/2002</DateofBirth>
+    <Phone>03 03 43 02 56</Phone>
+    <Email>Etiam@Curabiturutodio.ca</Email>
+  </student><student>
+    <CNE>835</CNE>
+    <LastName>Judah</LastName>
+    <FirstName>Bailey</FirstName>
+    <DateofBirth>24/01/2002</DateofBirth>
+    <Phone>07 59 85 27 86</Phone>
+    <Email>elit@rutrummagna.co.uk</Email>
+  </student><student>
+    <CNE>836</CNE>
+    <LastName>Keiko</LastName>
+    <FirstName>Guerrero</FirstName>
+    <DateofBirth>26/06/1999</DateofBirth>
+    <Phone>04 88 72 91 39</Phone>
+    <Email>consequat.purus.Maecenas@malesuada.ca</Email>
+  </student><student>
+    <CNE>837</CNE>
+    <LastName>Uma</LastName>
+    <FirstName>Vargas</FirstName>
+    <DateofBirth>02/09/2003</DateofBirth>
+    <Phone>01 91 43 19 32</Phone>
+    <Email>netus.et.malesuada@sed.ca</Email>
+  </student><student>
+    <CNE>838</CNE>
+    <LastName>Janna</LastName>
+    <FirstName>Sharp</FirstName>
+    <DateofBirth>12/02/2001</DateofBirth>
+    <Phone>08 30 64 00 99</Phone>
+    <Email>diam@ac.ca</Email>
+  </student><student>
+    <CNE>839</CNE>
+    <LastName>Ulysses</LastName>
+    <FirstName>Campbell</FirstName>
+    <DateofBirth>10/06/2004</DateofBirth>
+    <Phone>08 60 90 53 91</Phone>
+    <Email>egestas@magnaNam.org</Email>
+  </student><student>
+    <CNE>840</CNE>
+    <LastName>Keelie</LastName>
+    <FirstName>Kline</FirstName>
+    <DateofBirth>20/08/2004</DateofBirth>
+    <Phone>05 43 28 24 25</Phone>
+    <Email>aliquam.adipiscing@sedduiFusce.com</Email>
+  </student><student>
+    <CNE>841</CNE>
+    <LastName>Kyra</LastName>
+    <FirstName>Mcmahon</FirstName>
+    <DateofBirth>10/12/2001</DateofBirth>
+    <Phone>04 33 41 91 12</Phone>
+    <Email>nec.luctus.felis@aarcu.com</Email>
+  </student><student>
+    <CNE>842</CNE>
+    <LastName>Drew</LastName>
+    <FirstName>Bailey</FirstName>
+    <DateofBirth>09/04/1998</DateofBirth>
+    <Phone>05 24 79 62 55</Phone>
+    <Email>est@purusMaecenas.ca</Email>
+  </student><student>
+    <CNE>843</CNE>
+    <LastName>Desirae</LastName>
+    <FirstName>Shields</FirstName>
+    <DateofBirth>06/08/1998</DateofBirth>
+    <Phone>01 58 58 57 95</Phone>
+    <Email>nec.enim.Nunc@sagittis.edu</Email>
+  </student><student>
+    <CNE>844</CNE>
+    <LastName>Graham</LastName>
+    <FirstName>Dixon</FirstName>
+    <DateofBirth>22/09/1999</DateofBirth>
+    <Phone>03 00 80 34 97</Phone>
+    <Email>risus.Donec@vehiculaPellentesque.net</Email>
+  </student><student>
+    <CNE>845</CNE>
+    <LastName>Jackson</LastName>
+    <FirstName>Rocha</FirstName>
+    <DateofBirth>05/05/1999</DateofBirth>
+    <Phone>02 46 49 98 47</Phone>
+    <Email>cursus.vestibulum.Mauris@duinectempus.com</Email>
+  </student><student>
+    <CNE>846</CNE>
+    <LastName>Ciara</LastName>
+    <FirstName>Browning</FirstName>
+    <DateofBirth>17/03/1999</DateofBirth>
+    <Phone>09 60 43 60 85</Phone>
+    <Email>velit@consectetuer.co.uk</Email>
+  </student><student>
+    <CNE>847</CNE>
+    <LastName>Miranda</LastName>
+    <FirstName>Lyons</FirstName>
+    <DateofBirth>06/02/2003</DateofBirth>
+    <Phone>04 77 70 43 51</Phone>
+    <Email>eu@Vestibulumanteipsum.ca</Email>
+  </student><student>
+    <CNE>848</CNE>
+    <LastName>Chaim</LastName>
+    <FirstName>Bernard</FirstName>
+    <DateofBirth>01/08/1998</DateofBirth>
+    <Phone>07 21 83 78 26</Phone>
+    <Email>est@quis.com</Email>
+  </student><student>
+    <CNE>849</CNE>
+    <LastName>Jerome</LastName>
+    <FirstName>Martinez</FirstName>
+    <DateofBirth>31/10/1998</DateofBirth>
+    <Phone>04 25 18 62 05</Phone>
+    <Email>dis@consequatpurus.co.uk</Email>
+  </student><student>
+    <CNE>850</CNE>
+    <LastName>Sylvia</LastName>
+    <FirstName>Dillard</FirstName>
+    <DateofBirth>26/01/2005</DateofBirth>
+    <Phone>02 25 53 42 53</Phone>
+    <Email>sollicitudin.a.malesuada@augue.ca</Email>
+  </student></students>

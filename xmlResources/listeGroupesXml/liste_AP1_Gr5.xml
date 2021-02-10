@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>1043</CNE>
+    <LastName>Wylie</LastName>
+    <FirstName>Garrett</FirstName>
+    <DateofBirth>10/10/2003</DateofBirth>
+    <Phone>02 55 46 49 88</Phone>
+    <Email>augue.id.ante@leoelementumsem.com</Email>
+  </student><student>
+    <CNE>1044</CNE>
+    <LastName>Zoe</LastName>
+    <FirstName>Cunningham</FirstName>
+    <DateofBirth>19/12/1998</DateofBirth>
+    <Phone>01 42 63 64 68</Phone>
+    <Email>Vivamus.nisi@scelerisqueneque.org</Email>
+  </student><student>
+    <CNE>1045</CNE>
+    <LastName>Gary</LastName>
+    <FirstName>Lawson</FirstName>
+    <DateofBirth>06/05/2001</DateofBirth>
+    <Phone>04 77 85 83 33</Phone>
+    <Email>nec.leo@magnaNam.co.uk</Email>
+  </student><student>
+    <CNE>1046</CNE>
+    <LastName>Louis</LastName>
+    <FirstName>Lang</FirstName>
+    <DateofBirth>18/12/1999</DateofBirth>
+    <Phone>09 16 05 82 34</Phone>
+    <Email>at@dolor.edu</Email>
+  </student><student>
+    <CNE>1047</CNE>
+    <LastName>Jane</LastName>
+    <FirstName>Gilliam</FirstName>
+    <DateofBirth>24/03/2000</DateofBirth>
+    <Phone>04 64 82 74 47</Phone>
+    <Email>dui@habitant.net</Email>
+  </student><student>
+    <CNE>1048</CNE>
+    <LastName>Clinton</LastName>
+    <FirstName>Owens</FirstName>
+    <DateofBirth>02/11/2000</DateofBirth>
+    <Phone>01 72 97 31 96</Phone>
+    <Email>Aliquam.rutrum.lorem@massa.edu</Email>
+  </student><student>
+    <CNE>1049</CNE>
+    <LastName>Cara</LastName>
+    <FirstName>Marks</FirstName>
+    <DateofBirth>26/05/1998</DateofBirth>
+    <Phone>06 37 63 03 51</Phone>
+    <Email>egestas.lacinia@auctorullamcorpernisl.org</Email>
+  </student><student>
+    <CNE>1050</CNE>
+    <LastName>Acton</LastName>
+    <FirstName>Hinton</FirstName>
+    <DateofBirth>27/09/2004</DateofBirth>
+    <Phone>05 50 62 13 76</Phone>
+    <Email>Nullam.enim.Sed@nibhDonec.ca</Email>
+  </student><student>
+    <CNE>1051</CNE>
+    <LastName>Ferris</LastName>
+    <FirstName>Wright</FirstName>
+    <DateofBirth>23/04/1999</DateofBirth>
+    <Phone>04 41 08 49 39</Phone>
+    <Email>tellus@Cumsociis.edu</Email>
+  </student><student>
+    <CNE>1052</CNE>
+    <LastName>Isaiah</LastName>
+    <FirstName>Patterson</FirstName>
+    <DateofBirth>04/04/2004</DateofBirth>
+    <Phone>08 56 89 72 36</Phone>
+    <Email>a.felis.ullamcorper@orciadipiscingnon.org</Email>
+  </student><student>
+    <CNE>1053</CNE>
+    <LastName>Henry</LastName>
+    <FirstName>Ratliff</FirstName>
+    <DateofBirth>22/07/2000</DateofBirth>
+    <Phone>09 74 52 00 00</Phone>
+    <Email>lacinia.at.iaculis@sitametnulla.edu</Email>
+  </student><student>
+    <CNE>1054</CNE>
+    <LastName>Cally</LastName>
+    <FirstName>Ewing</FirstName>
+    <DateofBirth>14/07/2000</DateofBirth>
+    <Phone>08 30 32 94 16</Phone>
+    <Email>vel.arcu.Curabitur@lacusCrasinterdum.co.uk</Email>
+  </student><student>
+    <CNE>1055</CNE>
+    <LastName>Shea</LastName>
+    <FirstName>Tran</FirstName>
+    <DateofBirth>06/02/1998</DateofBirth>
+    <Phone>01 55 89 73 49</Phone>
+    <Email>lorem.luctus.ut@iaculislacuspede.edu</Email>
+  </student><student>
+    <CNE>1056</CNE>
+    <LastName>Robin</LastName>
+    <FirstName>Marks</FirstName>
+    <DateofBirth>24/12/2001</DateofBirth>
+    <Phone>02 66 93 82 03</Phone>
+    <Email>est@aliquamarcuAliquam.net</Email>
+  </student><student>
+    <CNE>1057</CNE>
+    <LastName>Lesley</LastName>
+    <FirstName>Russell</FirstName>
+    <DateofBirth>10/10/1998</DateofBirth>
+    <Phone>06 23 62 77 99</Phone>
+    <Email>turpis@lacusMaurisnon.org</Email>
+  </student><student>
+    <CNE>1058</CNE>
+    <LastName>Mia</LastName>
+    <FirstName>Dawson</FirstName>
+    <DateofBirth>22/07/2004</DateofBirth>
+    <Phone>08 89 83 50 17</Phone>
+    <Email>feugiat.Lorem.ipsum@luctusaliquet.com</Email>
+  </student><student>
+    <CNE>1059</CNE>
+    <LastName>Eden</LastName>
+    <FirstName>Howe</FirstName>
+    <DateofBirth>30/09/2003</DateofBirth>
+    <Phone>04 58 76 09 12</Phone>
+    <Email>urna.Nullam.lobortis@id.com</Email>
+  </student><student>
+    <CNE>1060</CNE>
+    <LastName>Isaiah</LastName>
+    <FirstName>Pollard</FirstName>
+    <DateofBirth>12/01/2003</DateofBirth>
+    <Phone>07 31 35 68 21</Phone>
+    <Email>cursus.in@In.org</Email>
+  </student><student>
+    <CNE>1061</CNE>
+    <LastName>Nolan</LastName>
+    <FirstName>Bowers</FirstName>
+    <DateofBirth>06/09/2003</DateofBirth>
+    <Phone>08 31 83 92 25</Phone>
+    <Email>ante.Maecenas@lectusNullamsuscipit.net</Email>
+  </student><student>
+    <CNE>1062</CNE>
+    <LastName>Alma</LastName>
+    <FirstName>Ferrell</FirstName>
+    <DateofBirth>09/01/2002</DateofBirth>
+    <Phone>06 64 23 85 36</Phone>
+    <Email>Cum@quisurna.ca</Email>
+  </student><student>
+    <CNE>1063</CNE>
+    <LastName>Ronan</LastName>
+    <FirstName>Doyle</FirstName>
+    <DateofBirth>18/06/2002</DateofBirth>
+    <Phone>08 43 65 50 80</Phone>
+    <Email>Suspendisse.aliquet.molestie@ridiculusmusDonec.co.uk</Email>
+  </student><student>
+    <CNE>1064</CNE>
+    <LastName>Colorado</LastName>
+    <FirstName>Burris</FirstName>
+    <DateofBirth>19/02/2002</DateofBirth>
+    <Phone>07 52 75 70 27</Phone>
+    <Email>Vivamus.nisi@tempus.ca</Email>
+  </student><student>
+    <CNE>1065</CNE>
+    <LastName>Penelope</LastName>
+    <FirstName>Villarreal</FirstName>
+    <DateofBirth>19/10/1998</DateofBirth>
+    <Phone>03 02 45 57 12</Phone>
+    <Email>auctor@Aliquamgravidamauris.com</Email>
+  </student><student>
+    <CNE>1066</CNE>
+    <LastName>Kadeem</LastName>
+    <FirstName>Cook</FirstName>
+    <DateofBirth>17/05/2002</DateofBirth>
+    <Phone>05 33 74 36 30</Phone>
+    <Email>risus@quisurna.org</Email>
+  </student></students>

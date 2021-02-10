@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>472</CNE>
+    <LastName>Fredrika</LastName>
+    <FirstName>Malyan</FirstName>
+    <DateofBirth>15/04/2000</DateofBirth>
+    <Phone>134 908 0020</Phone>
+    <Email>fmalyan0@sfgate.com</Email>
+  </student><student>
+    <CNE>473</CNE>
+    <LastName>Gun</LastName>
+    <FirstName>Iiannone</FirstName>
+    <DateofBirth>16/08/1999</DateofBirth>
+    <Phone>691 402 6237</Phone>
+    <Email>giiannone1@mozilla.org</Email>
+  </student><student>
+    <CNE>474</CNE>
+    <LastName>Taber</LastName>
+    <FirstName>Kleinhandler</FirstName>
+    <DateofBirth>06/06/1997</DateofBirth>
+    <Phone>528 624 3100</Phone>
+    <Email>tkleinhandler2@posterous.com</Email>
+  </student><student>
+    <CNE>475</CNE>
+    <LastName>Anny</LastName>
+    <FirstName>Nevins</FirstName>
+    <DateofBirth>02/03/1996</DateofBirth>
+    <Phone>132 133 1749</Phone>
+    <Email>anevins3@slideshare.net</Email>
+  </student><student>
+    <CNE>476</CNE>
+    <LastName>Letitia</LastName>
+    <FirstName>Nockles</FirstName>
+    <DateofBirth>18/11/1998</DateofBirth>
+    <Phone>564 314 8923</Phone>
+    <Email>lnockles4@blogger.com</Email>
+  </student><student>
+    <CNE>477</CNE>
+    <LastName>Rhody</LastName>
+    <FirstName>Kerr</FirstName>
+    <DateofBirth>05/01/1999</DateofBirth>
+    <Phone>447 226 4726</Phone>
+    <Email>rkerr5@ning.com</Email>
+  </student><student>
+    <CNE>478</CNE>
+    <LastName>Barnie</LastName>
+    <FirstName>Lung</FirstName>
+    <DateofBirth>21/02/1999</DateofBirth>
+    <Phone>174 710 6648</Phone>
+    <Email>blung6@posterous.com</Email>
+  </student><student>
+    <CNE>479</CNE>
+    <LastName>Dillie</LastName>
+    <FirstName>Gerhartz</FirstName>
+    <DateofBirth>01/06/2000</DateofBirth>
+    <Phone>510 174 4707</Phone>
+    <Email>dgerhartz7@dion.ne.jp</Email>
+  </student><student>
+    <CNE>480</CNE>
+    <LastName>Thomasina</LastName>
+    <FirstName>Beatey</FirstName>
+    <DateofBirth>17/01/1997</DateofBirth>
+    <Phone>387 283 6630</Phone>
+    <Email>tbeatey8@fema.gov</Email>
+  </student><student>
+    <CNE>481</CNE>
+    <LastName>Fernanda</LastName>
+    <FirstName>Berthelet</FirstName>
+    <DateofBirth>27/12/1998</DateofBirth>
+    <Phone>288 856 1504</Phone>
+    <Email>fberthelet9@wordpress.org</Email>
+  </student><student>
+    <CNE>482</CNE>
+    <LastName>Cesaro</LastName>
+    <FirstName>Gierth</FirstName>
+    <DateofBirth>02/04/1999</DateofBirth>
+    <Phone>148 477 9614</Phone>
+    <Email>cgiertha@blogspot.com</Email>
+  </student><student>
+    <CNE>483</CNE>
+    <LastName>Rosaleen</LastName>
+    <FirstName>Lutwyche</FirstName>
+    <DateofBirth>20/05/1997</DateofBirth>
+    <Phone>797 620 8908</Phone>
+    <Email>rlutwycheb@parallels.com</Email>
+  </student><student>
+    <CNE>484</CNE>
+    <LastName>Devonna</LastName>
+    <FirstName>Sivyer</FirstName>
+    <DateofBirth>24/01/1999</DateofBirth>
+    <Phone>661 874 5868</Phone>
+    <Email>dsivyerc@icio.us</Email>
+  </student><student>
+    <CNE>485</CNE>
+    <LastName>Gae</LastName>
+    <FirstName>Pibworth</FirstName>
+    <DateofBirth>09/02/1999</DateofBirth>
+    <Phone>716 373 6862</Phone>
+    <Email>gpibworthd@nih.gov</Email>
+  </student><student>
+    <CNE>486</CNE>
+    <LastName>Archibaldo</LastName>
+    <FirstName>Seeds</FirstName>
+    <DateofBirth>20/07/1996</DateofBirth>
+    <Phone>784 499 3496</Phone>
+    <Email>aseedse@cbc.ca</Email>
+  </student><student>
+    <CNE>487</CNE>
+    <LastName>Hobard</LastName>
+    <FirstName>Gersam</FirstName>
+    <DateofBirth>18/09/1999</DateofBirth>
+    <Phone>579 766 4493</Phone>
+    <Email>hgersamf@youtube.com</Email>
+  </student><student>
+    <CNE>488</CNE>
+    <LastName>Arlina</LastName>
+    <FirstName>Oxer</FirstName>
+    <DateofBirth>01/09/1996</DateofBirth>
+    <Phone>652 858 6620</Phone>
+    <Email>aoxerg@sogou.com</Email>
+  </student><student>
+    <CNE>489</CNE>
+    <LastName>Bealle</LastName>
+    <FirstName>Bleas</FirstName>
+    <DateofBirth>05/10/1995</DateofBirth>
+    <Phone>400 114 1357</Phone>
+    <Email>bbleash@addtoany.com</Email>
+  </student><student>
+    <CNE>490</CNE>
+    <LastName>Jilli</LastName>
+    <FirstName>Blamire</FirstName>
+    <DateofBirth>23/10/1997</DateofBirth>
+    <Phone>596 224 0004</Phone>
+    <Email>jblamirei@elegantthemes.com</Email>
+  </student><student>
+    <CNE>491</CNE>
+    <LastName>Dell</LastName>
+    <FirstName>Chape</FirstName>
+    <DateofBirth>11/12/2000</DateofBirth>
+    <Phone>484 299 7372</Phone>
+    <Email>dchapej@seesaa.net</Email>
+  </student><student>
+    <CNE>492</CNE>
+    <LastName>Deeann</LastName>
+    <FirstName>Brettle</FirstName>
+    <DateofBirth>20/08/1995</DateofBirth>
+    <Phone>956 652 1295</Phone>
+    <Email>dbrettlek@sogou.com</Email>
+  </student><student>
+    <CNE>493</CNE>
+    <LastName>Jerrie</LastName>
+    <FirstName>Toffetto</FirstName>
+    <DateofBirth>22/07/2000</DateofBirth>
+    <Phone>110 734 2229</Phone>
+    <Email>jtoffettol@nymag.com</Email>
+  </student><student>
+    <CNE>494</CNE>
+    <LastName>Lyn</LastName>
+    <FirstName>Rohloff</FirstName>
+    <DateofBirth>23/05/2000</DateofBirth>
+    <Phone>192 894 9392</Phone>
+    <Email>lrohloffm@vimeo.com</Email>
+  </student><student>
+    <CNE>495</CNE>
+    <LastName>Banky</LastName>
+    <FirstName>Testo</FirstName>
+    <DateofBirth>10/08/2000</DateofBirth>
+    <Phone>505 209 1087</Phone>
+    <Email>bteston@nifty.com</Email>
+  </student></students>

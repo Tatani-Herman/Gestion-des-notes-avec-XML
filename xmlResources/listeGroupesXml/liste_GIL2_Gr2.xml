@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>213</CNE>
+    <LastName>Evan</LastName>
+    <FirstName>Bewick</FirstName>
+    <DateofBirth>27/02/1997</DateofBirth>
+    <Phone>650 855 8862</Phone>
+    <Email>ebewicko@buzzfeed.com</Email>
+  </student><student>
+    <CNE>214</CNE>
+    <LastName>Amata</LastName>
+    <FirstName>Emson</FirstName>
+    <DateofBirth>25/09/1995</DateofBirth>
+    <Phone>299 353 4679</Phone>
+    <Email>aemsonp@mtv.com</Email>
+  </student><student>
+    <CNE>215</CNE>
+    <LastName>Freeland</LastName>
+    <FirstName>Venneur</FirstName>
+    <DateofBirth>09/02/1995</DateofBirth>
+    <Phone>883 811 1667</Phone>
+    <Email>fvenneurq@gov.uk</Email>
+  </student><student>
+    <CNE>216</CNE>
+    <LastName>Lem</LastName>
+    <FirstName>Wallenger</FirstName>
+    <DateofBirth>21/03/1998</DateofBirth>
+    <Phone>735 734 5920</Phone>
+    <Email>lwallengerr@cloudflare.com</Email>
+  </student><student>
+    <CNE>217</CNE>
+    <LastName>Earlie</LastName>
+    <FirstName>Gunbie</FirstName>
+    <DateofBirth>06/04/1997</DateofBirth>
+    <Phone>917 635 1104</Phone>
+    <Email>egunbies@sbwire.com</Email>
+  </student><student>
+    <CNE>218</CNE>
+    <LastName>Jewelle</LastName>
+    <FirstName>Blacklidge</FirstName>
+    <DateofBirth>02/07/1996</DateofBirth>
+    <Phone>606 293 3464</Phone>
+    <Email>jblacklidget@wikipedia.org</Email>
+  </student><student>
+    <CNE>219</CNE>
+    <LastName>Petronille</LastName>
+    <FirstName>Frear</FirstName>
+    <DateofBirth>21/09/2000</DateofBirth>
+    <Phone>760 751 6866</Phone>
+    <Email>pfrearu@soundcloud.com</Email>
+  </student><student>
+    <CNE>220</CNE>
+    <LastName>Elianore</LastName>
+    <FirstName>Zuenelli</FirstName>
+    <DateofBirth>01/02/2000</DateofBirth>
+    <Phone>636 737 4261</Phone>
+    <Email>ezuenelliv@netscape.com</Email>
+  </student><student>
+    <CNE>221</CNE>
+    <LastName>Aindrea</LastName>
+    <FirstName>Shadfourth</FirstName>
+    <DateofBirth>09/04/1995</DateofBirth>
+    <Phone>211 133 0919</Phone>
+    <Email>ashadfourthw@hibu.com</Email>
+  </student><student>
+    <CNE>222</CNE>
+    <LastName>Calhoun</LastName>
+    <FirstName>Carratt</FirstName>
+    <DateofBirth>01/11/1999</DateofBirth>
+    <Phone>192 447 6587</Phone>
+    <Email>ccarrattx@reverbnation.com</Email>
+  </student><student>
+    <CNE>223</CNE>
+    <LastName>Kata</LastName>
+    <FirstName>Steffans</FirstName>
+    <DateofBirth>19/12/1997</DateofBirth>
+    <Phone>610 734 7686</Phone>
+    <Email>ksteffansy@ftc.gov</Email>
+  </student><student>
+    <CNE>224</CNE>
+    <LastName>Homere</LastName>
+    <FirstName>Beagrie</FirstName>
+    <DateofBirth>24/03/1995</DateofBirth>
+    <Phone>960 714 3490</Phone>
+    <Email>hbeagriez@cbc.ca</Email>
+  </student><student>
+    <CNE>225</CNE>
+    <LastName>Jaquelyn</LastName>
+    <FirstName>Crimin</FirstName>
+    <DateofBirth>25/03/1998</DateofBirth>
+    <Phone>251 850 8007</Phone>
+    <Email>jcrimin10@dedecms.com</Email>
+  </student><student>
+    <CNE>226</CNE>
+    <LastName>Cahra</LastName>
+    <FirstName>Downgate</FirstName>
+    <DateofBirth>03/04/1995</DateofBirth>
+    <Phone>625 744 8656</Phone>
+    <Email>cdowngate11@spotify.com</Email>
+  </student><student>
+    <CNE>227</CNE>
+    <LastName>Spenser</LastName>
+    <FirstName>Hendrickson</FirstName>
+    <DateofBirth>13/03/2000</DateofBirth>
+    <Phone>114 925 8654</Phone>
+    <Email>shendrickson12@hc360.com</Email>
+  </student><student>
+    <CNE>228</CNE>
+    <LastName>Kenn</LastName>
+    <FirstName>Gosalvez</FirstName>
+    <DateofBirth>22/09/1999</DateofBirth>
+    <Phone>729 434 4651</Phone>
+    <Email>kgosalvez13@uiuc.edu</Email>
+  </student><student>
+    <CNE>229</CNE>
+    <LastName>Marci</LastName>
+    <FirstName>Glancy</FirstName>
+    <DateofBirth>10/10/1998</DateofBirth>
+    <Phone>782 894 2305</Phone>
+    <Email>mglancy14@go.com</Email>
+  </student><student>
+    <CNE>230</CNE>
+    <LastName>Boris</LastName>
+    <FirstName>Falconer</FirstName>
+    <DateofBirth>01/02/1998</DateofBirth>
+    <Phone>235 949 0981</Phone>
+    <Email>bfalconer15@booking.com</Email>
+  </student><student>
+    <CNE>231</CNE>
+    <LastName>Korney</LastName>
+    <FirstName>Giacomuzzi</FirstName>
+    <DateofBirth>18/04/1997</DateofBirth>
+    <Phone>934 995 4482</Phone>
+    <Email>kgiacomuzzi16@discuz.net</Email>
+  </student><student>
+    <CNE>232</CNE>
+    <LastName>Christoforo</LastName>
+    <FirstName>Elwel</FirstName>
+    <DateofBirth>12/06/2000</DateofBirth>
+    <Phone>922 317 6552</Phone>
+    <Email>celwel17@wufoo.com</Email>
+  </student><student>
+    <CNE>233</CNE>
+    <LastName>Jens</LastName>
+    <FirstName>Lammin</FirstName>
+    <DateofBirth>14/01/2000</DateofBirth>
+    <Phone>764 819 8227</Phone>
+    <Email>jlammin18@java.com</Email>
+  </student><student>
+    <CNE>234</CNE>
+    <LastName>Flin</LastName>
+    <FirstName>Wahlberg</FirstName>
+    <DateofBirth>20/07/1995</DateofBirth>
+    <Phone>275 503 3187</Phone>
+    <Email>fwahlberg19@dedecms.com</Email>
+  </student></students>

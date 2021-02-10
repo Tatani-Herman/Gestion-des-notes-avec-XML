@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>947</CNE>
+    <LastName>Hilel</LastName>
+    <FirstName>Hernandez</FirstName>
+    <DateofBirth>11/05/2002</DateofBirth>
+    <Phone>05 91 47 06 68</Phone>
+    <Email>pede.sagittis@est.org</Email>
+  </student><student>
+    <CNE>948</CNE>
+    <LastName>Silas</LastName>
+    <FirstName>Vincent</FirstName>
+    <DateofBirth>12/02/2003</DateofBirth>
+    <Phone>05 25 58 07 68</Phone>
+    <Email>eget@odio.edu</Email>
+  </student><student>
+    <CNE>949</CNE>
+    <LastName>Ian</LastName>
+    <FirstName>Petty</FirstName>
+    <DateofBirth>21/03/2004</DateofBirth>
+    <Phone>02 33 69 38 76</Phone>
+    <Email>justo.Praesent@vitaeorciPhasellus.edu</Email>
+  </student><student>
+    <CNE>950</CNE>
+    <LastName>Fulton</LastName>
+    <FirstName>Powell</FirstName>
+    <DateofBirth>24/07/2004</DateofBirth>
+    <Phone>03 92 59 15 86</Phone>
+    <Email>mi.Duis.risus@dapibusquamquis.ca</Email>
+  </student><student>
+    <CNE>951</CNE>
+    <LastName>Nehru</LastName>
+    <FirstName>Haley</FirstName>
+    <DateofBirth>29/07/2002</DateofBirth>
+    <Phone>08 85 13 11 87</Phone>
+    <Email>mauris.Integer.sem@vitaeerat.net</Email>
+  </student><student>
+    <CNE>952</CNE>
+    <LastName>Trevor</LastName>
+    <FirstName>Austin</FirstName>
+    <DateofBirth>23/02/1998</DateofBirth>
+    <Phone>06 32 56 21 59</Phone>
+    <Email>id.enim.Curabitur@sem.ca</Email>
+  </student><student>
+    <CNE>953</CNE>
+    <LastName>Dalton</LastName>
+    <FirstName>Petersen</FirstName>
+    <DateofBirth>01/02/2005</DateofBirth>
+    <Phone>09 73 48 70 64</Phone>
+    <Email>molestie.Sed@vitae.com</Email>
+  </student><student>
+    <CNE>954</CNE>
+    <LastName>Jaime</LastName>
+    <FirstName>Hicks</FirstName>
+    <DateofBirth>28/05/2000</DateofBirth>
+    <Phone>09 02 06 49 89</Phone>
+    <Email>luctus.sit.amet@eu.edu</Email>
+  </student><student>
+    <CNE>955</CNE>
+    <LastName>Anne</LastName>
+    <FirstName>Camacho</FirstName>
+    <DateofBirth>18/05/2001</DateofBirth>
+    <Phone>01 36 48 50 97</Phone>
+    <Email>ipsum@ametfaucibus.ca</Email>
+  </student><student>
+    <CNE>956</CNE>
+    <LastName>Leo</LastName>
+    <FirstName>Glover</FirstName>
+    <DateofBirth>29/07/1999</DateofBirth>
+    <Phone>06 13 46 40 17</Phone>
+    <Email>ligula.Aliquam@adipiscingelitCurabitur.net</Email>
+  </student><student>
+    <CNE>957</CNE>
+    <LastName>Marvin</LastName>
+    <FirstName>Hyde</FirstName>
+    <DateofBirth>24/10/2003</DateofBirth>
+    <Phone>01 64 64 40 16</Phone>
+    <Email>molestie.arcu@tinciduntDonecvitae.ca</Email>
+  </student><student>
+    <CNE>958</CNE>
+    <LastName>Shelley</LastName>
+    <FirstName>Daugherty</FirstName>
+    <DateofBirth>02/01/2001</DateofBirth>
+    <Phone>02 18 94 01 80</Phone>
+    <Email>sodales@aliquetlobortisnisi.edu</Email>
+  </student><student>
+    <CNE>959</CNE>
+    <LastName>Wyoming</LastName>
+    <FirstName>Carroll</FirstName>
+    <DateofBirth>19/03/2003</DateofBirth>
+    <Phone>03 61 52 27 04</Phone>
+    <Email>sollicitudin.commodo@convallis.co.uk</Email>
+  </student><student>
+    <CNE>960</CNE>
+    <LastName>Benedict</LastName>
+    <FirstName>Edwards</FirstName>
+    <DateofBirth>10/01/2004</DateofBirth>
+    <Phone>06 12 46 88 93</Phone>
+    <Email>quam@ullamcorper.com</Email>
+  </student><student>
+    <CNE>961</CNE>
+    <LastName>Eric</LastName>
+    <FirstName>Mullen</FirstName>
+    <DateofBirth>23/09/2003</DateofBirth>
+    <Phone>02 72 28 96 15</Phone>
+    <Email>justo.Proin.non@est.ca</Email>
+  </student><student>
+    <CNE>962</CNE>
+    <LastName>Jennifer</LastName>
+    <FirstName>Dickson</FirstName>
+    <DateofBirth>13/07/2004</DateofBirth>
+    <Phone>04 88 12 25 58</Phone>
+    <Email>id@Phasellusdapibusquam.co.uk</Email>
+  </student><student>
+    <CNE>963</CNE>
+    <LastName>Zachary</LastName>
+    <FirstName>Sloan</FirstName>
+    <DateofBirth>12/04/2003</DateofBirth>
+    <Phone>02 28 37 30 32</Phone>
+    <Email>cursus.vestibulum@Duis.org</Email>
+  </student><student>
+    <CNE>964</CNE>
+    <LastName>Natalie</LastName>
+    <FirstName>Molina</FirstName>
+    <DateofBirth>25/07/2004</DateofBirth>
+    <Phone>09 30 15 64 76</Phone>
+    <Email>Maecenas@anteMaecenas.co.uk</Email>
+  </student><student>
+    <CNE>965</CNE>
+    <LastName>Hunter</LastName>
+    <FirstName>Christensen</FirstName>
+    <DateofBirth>21/09/2001</DateofBirth>
+    <Phone>09 54 89 53 51</Phone>
+    <Email>est@vitae.net</Email>
+  </student><student>
+    <CNE>966</CNE>
+    <LastName>Victoria</LastName>
+    <FirstName>Griffin</FirstName>
+    <DateofBirth>22/12/2004</DateofBirth>
+    <Phone>01 44 48 48 36</Phone>
+    <Email>arcu.Vestibulum@bibendum.co.uk</Email>
+  </student><student>
+    <CNE>967</CNE>
+    <LastName>Hillary</LastName>
+    <FirstName>Delgado</FirstName>
+    <DateofBirth>21/02/2002</DateofBirth>
+    <Phone>06 40 74 89 93</Phone>
+    <Email>mi@Praesent.ca</Email>
+  </student><student>
+    <CNE>968</CNE>
+    <LastName>Brent</LastName>
+    <FirstName>Brady</FirstName>
+    <DateofBirth>11/03/2003</DateofBirth>
+    <Phone>06 70 27 16 22</Phone>
+    <Email>porttitor.interdum.Sed@quam.co.uk</Email>
+  </student><student>
+    <CNE>969</CNE>
+    <LastName>Hamish</LastName>
+    <FirstName>Quinn</FirstName>
+    <DateofBirth>29/11/1999</DateofBirth>
+    <Phone>09 04 34 86 99</Phone>
+    <Email>Integer@cursus.net</Email>
+  </student><student>
+    <CNE>970</CNE>
+    <LastName>Anika</LastName>
+    <FirstName>Madden</FirstName>
+    <DateofBirth>21/04/2002</DateofBirth>
+    <Phone>05 55 85 87 80</Phone>
+    <Email>neque@eu.co.uk</Email>
+  </student></students>

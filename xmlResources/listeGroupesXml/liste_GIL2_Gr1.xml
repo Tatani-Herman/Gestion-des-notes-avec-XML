@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>189</CNE>
+    <LastName>Blanch</LastName>
+    <FirstName>Anneslie</FirstName>
+    <DateofBirth>11/11/1997</DateofBirth>
+    <Phone>459 745 3786</Phone>
+    <Email>banneslie0@paypal.com</Email>
+  </student><student>
+    <CNE>190</CNE>
+    <LastName>Margaretha</LastName>
+    <FirstName>Campana</FirstName>
+    <DateofBirth>27/05/1996</DateofBirth>
+    <Phone>410 147 9290</Phone>
+    <Email>mcampana1@booking.com</Email>
+  </student><student>
+    <CNE>191</CNE>
+    <LastName>Perri</LastName>
+    <FirstName>Onslow</FirstName>
+    <DateofBirth>04/07/2000</DateofBirth>
+    <Phone>475 773 3200</Phone>
+    <Email>ponslow2@exblog.jp</Email>
+  </student><student>
+    <CNE>192</CNE>
+    <LastName>Talbert</LastName>
+    <FirstName>Speaks</FirstName>
+    <DateofBirth>03/07/1999</DateofBirth>
+    <Phone>510 566 3221</Phone>
+    <Email>tspeaks3@paginegialle.it</Email>
+  </student><student>
+    <CNE>193</CNE>
+    <LastName>Sigismund</LastName>
+    <FirstName>Drysdell</FirstName>
+    <DateofBirth>05/02/1998</DateofBirth>
+    <Phone>194 472 1427</Phone>
+    <Email>sdrysdell4@slideshare.net</Email>
+  </student><student>
+    <CNE>194</CNE>
+    <LastName>Margit</LastName>
+    <FirstName>Ladewig</FirstName>
+    <DateofBirth>13/10/1997</DateofBirth>
+    <Phone>680 908 0910</Phone>
+    <Email>mladewig5@cisco.com</Email>
+  </student><student>
+    <CNE>195</CNE>
+    <LastName>Terrijo</LastName>
+    <FirstName>Cuerda</FirstName>
+    <DateofBirth>03/02/1998</DateofBirth>
+    <Phone>338 856 5486</Phone>
+    <Email>tcuerda6@si.edu</Email>
+  </student><student>
+    <CNE>196</CNE>
+    <LastName>Prent</LastName>
+    <FirstName>Blakesley</FirstName>
+    <DateofBirth>22/08/1999</DateofBirth>
+    <Phone>164 612 2159</Phone>
+    <Email>pblakesley7@google.com</Email>
+  </student><student>
+    <CNE>197</CNE>
+    <LastName>Kelly</LastName>
+    <FirstName>Humbert</FirstName>
+    <DateofBirth>18/10/1999</DateofBirth>
+    <Phone>145 855 6381</Phone>
+    <Email>khumbert8@prweb.com</Email>
+  </student><student>
+    <CNE>198</CNE>
+    <LastName>Cheslie</LastName>
+    <FirstName>Riddell</FirstName>
+    <DateofBirth>19/05/1998</DateofBirth>
+    <Phone>165 512 7401</Phone>
+    <Email>criddell9@weibo.com</Email>
+  </student><student>
+    <CNE>199</CNE>
+    <LastName>Ichabod</LastName>
+    <FirstName>Pinnock</FirstName>
+    <DateofBirth>08/01/1996</DateofBirth>
+    <Phone>448 585 3874</Phone>
+    <Email>ipinnocka@artisteer.com</Email>
+  </student><student>
+    <CNE>200</CNE>
+    <LastName>Casar</LastName>
+    <FirstName>Stileman</FirstName>
+    <DateofBirth>20/09/1999</DateofBirth>
+    <Phone>173 255 0850</Phone>
+    <Email>cstilemanb@t-online.de</Email>
+  </student><student>
+    <CNE>201</CNE>
+    <LastName>Sondra</LastName>
+    <FirstName>Garley</FirstName>
+    <DateofBirth>11/07/2000</DateofBirth>
+    <Phone>878 838 0361</Phone>
+    <Email>sgarleyc@geocities.com</Email>
+  </student><student>
+    <CNE>202</CNE>
+    <LastName>Abran</LastName>
+    <FirstName>Qualtro</FirstName>
+    <DateofBirth>23/09/1999</DateofBirth>
+    <Phone>425 613 4584</Phone>
+    <Email>aqualtrod@qq.com</Email>
+  </student><student>
+    <CNE>203</CNE>
+    <LastName>Lorant</LastName>
+    <FirstName>Collman</FirstName>
+    <DateofBirth>21/01/1998</DateofBirth>
+    <Phone>537 126 5538</Phone>
+    <Email>lcollmane@soundcloud.com</Email>
+  </student><student>
+    <CNE>204</CNE>
+    <LastName>Oliver</LastName>
+    <FirstName>Maitland</FirstName>
+    <DateofBirth>30/07/1996</DateofBirth>
+    <Phone>883 466 7788</Phone>
+    <Email>omaitlandf@behance.net</Email>
+  </student><student>
+    <CNE>205</CNE>
+    <LastName>Lina</LastName>
+    <FirstName>McNiven</FirstName>
+    <DateofBirth>25/06/1997</DateofBirth>
+    <Phone>619 825 9636</Phone>
+    <Email>lmcniveng@jugem.jp</Email>
+  </student><student>
+    <CNE>206</CNE>
+    <LastName>Clarine</LastName>
+    <FirstName>Kenington</FirstName>
+    <DateofBirth>09/12/1995</DateofBirth>
+    <Phone>819 615 9932</Phone>
+    <Email>ckeningtonh@microsoft.com</Email>
+  </student><student>
+    <CNE>207</CNE>
+    <LastName>Joete</LastName>
+    <FirstName>Hall</FirstName>
+    <DateofBirth>27/06/1995</DateofBirth>
+    <Phone>183 785 9937</Phone>
+    <Email>jhalli@foxnews.com</Email>
+  </student><student>
+    <CNE>208</CNE>
+    <LastName>Joyan</LastName>
+    <FirstName>Morrill</FirstName>
+    <DateofBirth>27/09/1999</DateofBirth>
+    <Phone>258 954 4481</Phone>
+    <Email>jmorrillj@desdev.cn</Email>
+  </student><student>
+    <CNE>209</CNE>
+    <LastName>Jessika</LastName>
+    <FirstName>Vasyunkin</FirstName>
+    <DateofBirth>12/09/2000</DateofBirth>
+    <Phone>331 628 6373</Phone>
+    <Email>jvasyunkink@examiner.com</Email>
+  </student><student>
+    <CNE>210</CNE>
+    <LastName>Marietta</LastName>
+    <FirstName>Bridgman</FirstName>
+    <DateofBirth>03/06/1998</DateofBirth>
+    <Phone>591 553 8466</Phone>
+    <Email>mbridgmanl@imageshack.us</Email>
+  </student><student>
+    <CNE>211</CNE>
+    <LastName>Averil</LastName>
+    <FirstName>Howlin</FirstName>
+    <DateofBirth>26/11/1999</DateofBirth>
+    <Phone>826 591 7615</Phone>
+    <Email>ahowlinm@unesco.org</Email>
+  </student><student>
+    <CNE>212</CNE>
+    <LastName>Seamus</LastName>
+    <FirstName>Wolstencroft</FirstName>
+    <DateofBirth>16/04/1998</DateofBirth>
+    <Phone>844 545 1843</Phone>
+    <Email>swolstencroftn@behance.net</Email>
+  </student></students>

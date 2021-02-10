@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>142</CNE>
+    <LastName>Gardy</LastName>
+    <FirstName>Pauley</FirstName>
+    <DateofBirth>17/05/1996</DateofBirth>
+    <Phone>164 233 7365</Phone>
+    <Email>gpauley0@squarespace.com</Email>
+  </student><student>
+    <CNE>143</CNE>
+    <LastName>Brewster</LastName>
+    <FirstName>Wondraschek</FirstName>
+    <DateofBirth>16/04/1996</DateofBirth>
+    <Phone>990 745 4180</Phone>
+    <Email>bwondraschek1@jiathis.com</Email>
+  </student><student>
+    <CNE>144</CNE>
+    <LastName>Leilah</LastName>
+    <FirstName>Beldham</FirstName>
+    <DateofBirth>19/10/1995</DateofBirth>
+    <Phone>202 971 0235</Phone>
+    <Email>lbeldham2@networksolutions.com</Email>
+  </student><student>
+    <CNE>145</CNE>
+    <LastName>Brett</LastName>
+    <FirstName>Fingleton</FirstName>
+    <DateofBirth>07/10/1999</DateofBirth>
+    <Phone>932 245 6831</Phone>
+    <Email>bfingleton3@ihg.com</Email>
+  </student><student>
+    <CNE>146</CNE>
+    <LastName>Maris</LastName>
+    <FirstName>Vitall</FirstName>
+    <DateofBirth>25/03/1996</DateofBirth>
+    <Phone>210 771 5690</Phone>
+    <Email>mvitall4@sina.com.cn</Email>
+  </student><student>
+    <CNE>147</CNE>
+    <LastName>Marrilee</LastName>
+    <FirstName>Novotni</FirstName>
+    <DateofBirth>10/10/1997</DateofBirth>
+    <Phone>972 969 0687</Phone>
+    <Email>mnovotni5@dmoz.org</Email>
+  </student><student>
+    <CNE>148</CNE>
+    <LastName>Wallis</LastName>
+    <FirstName>Jaggli</FirstName>
+    <DateofBirth>19/10/1998</DateofBirth>
+    <Phone>713 774 2558</Phone>
+    <Email>wjaggli6@washingtonpost.com</Email>
+  </student><student>
+    <CNE>149</CNE>
+    <LastName>Eugenio</LastName>
+    <FirstName>Youtead</FirstName>
+    <DateofBirth>19/07/1995</DateofBirth>
+    <Phone>838 776 9525</Phone>
+    <Email>eyoutead7@yellowpages.com</Email>
+  </student><student>
+    <CNE>150</CNE>
+    <LastName>Harrietta</LastName>
+    <FirstName>Baudassi</FirstName>
+    <DateofBirth>12/08/1997</DateofBirth>
+    <Phone>564 291 3337</Phone>
+    <Email>hbaudassi8@issuu.com</Email>
+  </student><student>
+    <CNE>151</CNE>
+    <LastName>Tiertza</LastName>
+    <FirstName>Merali</FirstName>
+    <DateofBirth>16/04/1996</DateofBirth>
+    <Phone>930 116 5865</Phone>
+    <Email>tmerali9@seesaa.net</Email>
+  </student><student>
+    <CNE>152</CNE>
+    <LastName>Dennie</LastName>
+    <FirstName>Trineman</FirstName>
+    <DateofBirth>25/11/2000</DateofBirth>
+    <Phone>383 819 7847</Phone>
+    <Email>dtrinemana@webeden.co.uk</Email>
+  </student><student>
+    <CNE>153</CNE>
+    <LastName>Ainsley</LastName>
+    <FirstName>Gentiry</FirstName>
+    <DateofBirth>02/07/2000</DateofBirth>
+    <Phone>493 759 1444</Phone>
+    <Email>agentiryb@marketwatch.com</Email>
+  </student><student>
+    <CNE>154</CNE>
+    <LastName>Chantal</LastName>
+    <FirstName>McGeffen</FirstName>
+    <DateofBirth>23/08/1995</DateofBirth>
+    <Phone>487 305 7997</Phone>
+    <Email>cmcgeffenc@wikimedia.org</Email>
+  </student><student>
+    <CNE>155</CNE>
+    <LastName>Darelle</LastName>
+    <FirstName>Davidy</FirstName>
+    <DateofBirth>10/03/2000</DateofBirth>
+    <Phone>586 385 4129</Phone>
+    <Email>ddavidyd@telegraph.co.uk</Email>
+  </student><student>
+    <CNE>156</CNE>
+    <LastName>Jori</LastName>
+    <FirstName>Woodwing</FirstName>
+    <DateofBirth>10/01/2000</DateofBirth>
+    <Phone>476 655 0891</Phone>
+    <Email>jwoodwinge@hp.com</Email>
+  </student><student>
+    <CNE>157</CNE>
+    <LastName>Veronique</LastName>
+    <FirstName>Pember</FirstName>
+    <DateofBirth>05/03/1995</DateofBirth>
+    <Phone>792 687 4928</Phone>
+    <Email>vpemberf@huffingtonpost.com</Email>
+  </student><student>
+    <CNE>158</CNE>
+    <LastName>Torrey</LastName>
+    <FirstName>Bunten</FirstName>
+    <DateofBirth>19/09/1999</DateofBirth>
+    <Phone>346 636 8788</Phone>
+    <Email>tbunteng@hud.gov</Email>
+  </student><student>
+    <CNE>159</CNE>
+    <LastName>Grace</LastName>
+    <FirstName>Wraith</FirstName>
+    <DateofBirth>01/09/1998</DateofBirth>
+    <Phone>957 451 5049</Phone>
+    <Email>gwraithh@1und1.de</Email>
+  </student><student>
+    <CNE>160</CNE>
+    <LastName>Jenna</LastName>
+    <FirstName>Peacher</FirstName>
+    <DateofBirth>03/02/1995</DateofBirth>
+    <Phone>738 445 5523</Phone>
+    <Email>jpeacheri@engadget.com</Email>
+  </student><student>
+    <CNE>161</CNE>
+    <LastName>Elizabeth</LastName>
+    <FirstName>Dunnet</FirstName>
+    <DateofBirth>30/07/1996</DateofBirth>
+    <Phone>221 329 9098</Phone>
+    <Email>edunnetj@yellowbook.com</Email>
+  </student><student>
+    <CNE>162</CNE>
+    <LastName>Danette</LastName>
+    <FirstName>Klehyn</FirstName>
+    <DateofBirth>12/09/1999</DateofBirth>
+    <Phone>896 860 6190</Phone>
+    <Email>dklehynk@cbc.ca</Email>
+  </student><student>
+    <CNE>163</CNE>
+    <LastName>Francyne</LastName>
+    <FirstName>Walkinshaw</FirstName>
+    <DateofBirth>15/08/2000</DateofBirth>
+    <Phone>439 792 0530</Phone>
+    <Email>fwalkinshawl@nyu.edu</Email>
+  </student><student>
+    <CNE>164</CNE>
+    <LastName>Eleanor</LastName>
+    <FirstName>Jozefiak</FirstName>
+    <DateofBirth>05/02/2000</DateofBirth>
+    <Phone>172 203 2456</Phone>
+    <Email>ejozefiakm@wikia.com</Email>
+  </student><student>
+    <CNE>165</CNE>
+    <LastName>Noreen</LastName>
+    <FirstName>Dulanty</FirstName>
+    <DateofBirth>14/06/1999</DateofBirth>
+    <Phone>546 241 8727</Phone>
+    <Email>ndulantyn@webnode.com</Email>
+  </student></students>

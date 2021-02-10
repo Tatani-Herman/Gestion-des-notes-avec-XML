@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>378</CNE>
+    <LastName>Roanne</LastName>
+    <FirstName>Maxfield</FirstName>
+    <DateofBirth>25/12/1996</DateofBirth>
+    <Phone>628 944 4856</Phone>
+    <Email>rmaxfield0@rambler.ru</Email>
+  </student><student>
+    <CNE>379</CNE>
+    <LastName>Zelma</LastName>
+    <FirstName>Gowanson</FirstName>
+    <DateofBirth>23/01/2001</DateofBirth>
+    <Phone>379 828 2704</Phone>
+    <Email>zgowanson1@ameblo.jp</Email>
+  </student><student>
+    <CNE>380</CNE>
+    <LastName>Vannie</LastName>
+    <FirstName>Cawson</FirstName>
+    <DateofBirth>22/11/1995</DateofBirth>
+    <Phone>537 306 1439</Phone>
+    <Email>vcawson2@ucoz.ru</Email>
+  </student><student>
+    <CNE>381</CNE>
+    <LastName>Cheslie</LastName>
+    <FirstName>Iacobacci</FirstName>
+    <DateofBirth>12/06/1997</DateofBirth>
+    <Phone>912 477 2886</Phone>
+    <Email>ciacobacci3@topsy.com</Email>
+  </student><student>
+    <CNE>382</CNE>
+    <LastName>Dani</LastName>
+    <FirstName>Torbet</FirstName>
+    <DateofBirth>25/03/1995</DateofBirth>
+    <Phone>444 393 8361</Phone>
+    <Email>dtorbet4@imageshack.us</Email>
+  </student><student>
+    <CNE>383</CNE>
+    <LastName>Junette</LastName>
+    <FirstName>Gowan</FirstName>
+    <DateofBirth>05/02/1998</DateofBirth>
+    <Phone>401 370 9389</Phone>
+    <Email>jgowan5@netvibes.com</Email>
+  </student><student>
+    <CNE>384</CNE>
+    <LastName>Cymbre</LastName>
+    <FirstName>Forcade</FirstName>
+    <DateofBirth>27/01/2001</DateofBirth>
+    <Phone>175 922 6536</Phone>
+    <Email>cforcade6@sogou.com</Email>
+  </student><student>
+    <CNE>385</CNE>
+    <LastName>Constantino</LastName>
+    <FirstName>Lassey</FirstName>
+    <DateofBirth>24/01/1996</DateofBirth>
+    <Phone>876 384 7020</Phone>
+    <Email>classey7@moonfruit.com</Email>
+  </student><student>
+    <CNE>386</CNE>
+    <LastName>Amii</LastName>
+    <FirstName>Sawfoot</FirstName>
+    <DateofBirth>05/12/1997</DateofBirth>
+    <Phone>917 774 5454</Phone>
+    <Email>asawfoot8@ow.ly</Email>
+  </student><student>
+    <CNE>387</CNE>
+    <LastName>Catlee</LastName>
+    <FirstName>Wass</FirstName>
+    <DateofBirth>31/12/1997</DateofBirth>
+    <Phone>505 250 6604</Phone>
+    <Email>cwass9@google.ca</Email>
+  </student><student>
+    <CNE>388</CNE>
+    <LastName>Avril</LastName>
+    <FirstName>Targe</FirstName>
+    <DateofBirth>30/12/1997</DateofBirth>
+    <Phone>577 290 7935</Phone>
+    <Email>atargea@weibo.com</Email>
+  </student><student>
+    <CNE>389</CNE>
+    <LastName>Stafani</LastName>
+    <FirstName>Battlestone</FirstName>
+    <DateofBirth>28/07/2000</DateofBirth>
+    <Phone>179 222 0103</Phone>
+    <Email>sbattlestoneb@goo.gl</Email>
+  </student><student>
+    <CNE>390</CNE>
+    <LastName>Viviana</LastName>
+    <FirstName>MacCrossan</FirstName>
+    <DateofBirth>23/08/1997</DateofBirth>
+    <Phone>937 875 8331</Phone>
+    <Email>vmaccrossanc@techcrunch.com</Email>
+  </student><student>
+    <CNE>391</CNE>
+    <LastName>Dario</LastName>
+    <FirstName>Sired</FirstName>
+    <DateofBirth>03/08/1999</DateofBirth>
+    <Phone>572 928 8630</Phone>
+    <Email>dsiredd@ucoz.com</Email>
+  </student><student>
+    <CNE>392</CNE>
+    <LastName>Taddeusz</LastName>
+    <FirstName>Brandolini</FirstName>
+    <DateofBirth>18/06/2000</DateofBirth>
+    <Phone>101 885 0866</Phone>
+    <Email>tbrandolinie@java.com</Email>
+  </student><student>
+    <CNE>393</CNE>
+    <LastName>Joshua</LastName>
+    <FirstName>Jone</FirstName>
+    <DateofBirth>15/10/1997</DateofBirth>
+    <Phone>250 650 3268</Phone>
+    <Email>jjonef@epa.gov</Email>
+  </student><student>
+    <CNE>394</CNE>
+    <LastName>Ludovika</LastName>
+    <FirstName>Jemison</FirstName>
+    <DateofBirth>21/07/1996</DateofBirth>
+    <Phone>279 555 1192</Phone>
+    <Email>ljemisong@bluehost.com</Email>
+  </student><student>
+    <CNE>395</CNE>
+    <LastName>Seana</LastName>
+    <FirstName>Hosier</FirstName>
+    <DateofBirth>03/06/1995</DateofBirth>
+    <Phone>498 596 5456</Phone>
+    <Email>shosierh@ca.gov</Email>
+  </student><student>
+    <CNE>396</CNE>
+    <LastName>Letti</LastName>
+    <FirstName>Donativo</FirstName>
+    <DateofBirth>06/09/1997</DateofBirth>
+    <Phone>653 209 1555</Phone>
+    <Email>ldonativoi@amazon.co.uk</Email>
+  </student><student>
+    <CNE>397</CNE>
+    <LastName>Ferrel</LastName>
+    <FirstName>Melmoth</FirstName>
+    <DateofBirth>27/09/1995</DateofBirth>
+    <Phone>851 510 8475</Phone>
+    <Email>fmelmothj@adobe.com</Email>
+  </student><student>
+    <CNE>398</CNE>
+    <LastName>Kessiah</LastName>
+    <FirstName>Caldero</FirstName>
+    <DateofBirth>07/04/2000</DateofBirth>
+    <Phone>860 391 8748</Phone>
+    <Email>kcalderok@usa.gov</Email>
+  </student><student>
+    <CNE>399</CNE>
+    <LastName>Camile</LastName>
+    <FirstName>Archbald</FirstName>
+    <DateofBirth>10/09/1999</DateofBirth>
+    <Phone>229 109 9623</Phone>
+    <Email>carchbaldl@fastcompany.com</Email>
+  </student><student>
+    <CNE>400</CNE>
+    <LastName>Boot</LastName>
+    <FirstName>Watmough</FirstName>
+    <DateofBirth>17/03/1998</DateofBirth>
+    <Phone>843 586 8481</Phone>
+    <Email>bwatmoughm@wix.com</Email>
+  </student><student>
+    <CNE>401</CNE>
+    <LastName>Graham</LastName>
+    <FirstName>Pays</FirstName>
+    <DateofBirth>01/10/1999</DateofBirth>
+    <Phone>783 153 7416</Phone>
+    <Email>gpaysn@ftc.gov</Email>
+  </student></students>

@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>449</CNE>
+    <LastName>Rik</LastName>
+    <FirstName>Tremelling</FirstName>
+    <DateofBirth>20/12/1996</DateofBirth>
+    <Phone>923 118 8183</Phone>
+    <Email>rtremellingo@mtv.com</Email>
+  </student><student>
+    <CNE>450</CNE>
+    <LastName>Arlie</LastName>
+    <FirstName>Boller</FirstName>
+    <DateofBirth>14/11/1998</DateofBirth>
+    <Phone>678 436 6466</Phone>
+    <Email>abollerp@noaa.gov</Email>
+  </student><student>
+    <CNE>451</CNE>
+    <LastName>Monroe</LastName>
+    <FirstName>Tooley</FirstName>
+    <DateofBirth>21/07/1998</DateofBirth>
+    <Phone>449 333 5212</Phone>
+    <Email>mtooleyq@cafepress.com</Email>
+  </student><student>
+    <CNE>452</CNE>
+    <LastName>Tiena</LastName>
+    <FirstName>Wardrope</FirstName>
+    <DateofBirth>09/11/1996</DateofBirth>
+    <Phone>666 785 5484</Phone>
+    <Email>twardroper@prnewswire.com</Email>
+  </student><student>
+    <CNE>453</CNE>
+    <LastName>Ester</LastName>
+    <FirstName>McAusland</FirstName>
+    <DateofBirth>02/06/1998</DateofBirth>
+    <Phone>502 346 3051</Phone>
+    <Email>emcauslands@whitehouse.gov</Email>
+  </student><student>
+    <CNE>454</CNE>
+    <LastName>Molli</LastName>
+    <FirstName>Fawks</FirstName>
+    <DateofBirth>26/08/1995</DateofBirth>
+    <Phone>351 507 1047</Phone>
+    <Email>mfawkst@upenn.edu</Email>
+  </student><student>
+    <CNE>455</CNE>
+    <LastName>Chiquia</LastName>
+    <FirstName>Bouzek</FirstName>
+    <DateofBirth>17/03/1996</DateofBirth>
+    <Phone>409 452 3263</Phone>
+    <Email>cbouzeku@reference.com</Email>
+  </student><student>
+    <CNE>456</CNE>
+    <LastName>Charmain</LastName>
+    <FirstName>Mea</FirstName>
+    <DateofBirth>26/05/1996</DateofBirth>
+    <Phone>131 114 7717</Phone>
+    <Email>cmeav@berkeley.edu</Email>
+  </student><student>
+    <CNE>457</CNE>
+    <LastName>Gerard</LastName>
+    <FirstName>Cadamy</FirstName>
+    <DateofBirth>30/03/1998</DateofBirth>
+    <Phone>516 286 2473</Phone>
+    <Email>gcadamyw@phpbb.com</Email>
+  </student><student>
+    <CNE>458</CNE>
+    <LastName>Terrill</LastName>
+    <FirstName>Gouldbourn</FirstName>
+    <DateofBirth>29/08/1998</DateofBirth>
+    <Phone>368 157 1155</Phone>
+    <Email>tgouldbournx@walmart.com</Email>
+  </student><student>
+    <CNE>459</CNE>
+    <LastName>Rodina</LastName>
+    <FirstName>Heisman</FirstName>
+    <DateofBirth>18/07/1998</DateofBirth>
+    <Phone>452 163 4582</Phone>
+    <Email>rheismany@tmall.com</Email>
+  </student><student>
+    <CNE>460</CNE>
+    <LastName>Georas</LastName>
+    <FirstName>Blackmuir</FirstName>
+    <DateofBirth>06/08/1996</DateofBirth>
+    <Phone>424 658 8298</Phone>
+    <Email>gblackmuirz@ft.com</Email>
+  </student><student>
+    <CNE>461</CNE>
+    <LastName>Nerti</LastName>
+    <FirstName>Tollady</FirstName>
+    <DateofBirth>12/05/1996</DateofBirth>
+    <Phone>514 141 8802</Phone>
+    <Email>ntollady10@spotify.com</Email>
+  </student><student>
+    <CNE>462</CNE>
+    <LastName>Cassie</LastName>
+    <FirstName>Pulham</FirstName>
+    <DateofBirth>06/12/1999</DateofBirth>
+    <Phone>591 831 0998</Phone>
+    <Email>cpulham11@vkontakte.ru</Email>
+  </student><student>
+    <CNE>463</CNE>
+    <LastName>Thelma</LastName>
+    <FirstName>Saffle</FirstName>
+    <DateofBirth>28/03/1995</DateofBirth>
+    <Phone>841 817 0953</Phone>
+    <Email>tsaffle12@utexas.edu</Email>
+  </student><student>
+    <CNE>464</CNE>
+    <LastName>Shaina</LastName>
+    <FirstName>Petry</FirstName>
+    <DateofBirth>03/05/1995</DateofBirth>
+    <Phone>758 599 7057</Phone>
+    <Email>spetry13@npr.org</Email>
+  </student><student>
+    <CNE>465</CNE>
+    <LastName>Brantley</LastName>
+    <FirstName>Shufflebotham</FirstName>
+    <DateofBirth>25/10/2000</DateofBirth>
+    <Phone>533 622 1123</Phone>
+    <Email>bshufflebotham14@joomla.org</Email>
+  </student><student>
+    <CNE>466</CNE>
+    <LastName>Randolf</LastName>
+    <FirstName>Packham</FirstName>
+    <DateofBirth>11/02/1999</DateofBirth>
+    <Phone>234 339 6705</Phone>
+    <Email>rpackham15@opera.com</Email>
+  </student><student>
+    <CNE>467</CNE>
+    <LastName>Dominik</LastName>
+    <FirstName>Boyd</FirstName>
+    <DateofBirth>01/04/1998</DateofBirth>
+    <Phone>587 662 4298</Phone>
+    <Email>dboyd16@buzzfeed.com</Email>
+  </student><student>
+    <CNE>468</CNE>
+    <LastName>Ulrike</LastName>
+    <FirstName>Fearon</FirstName>
+    <DateofBirth>20/07/1999</DateofBirth>
+    <Phone>352 758 5471</Phone>
+    <Email>ufearon17@so-net.ne.jp</Email>
+  </student><student>
+    <CNE>469</CNE>
+    <LastName>Dilan</LastName>
+    <FirstName>Galway</FirstName>
+    <DateofBirth>17/08/1998</DateofBirth>
+    <Phone>545 267 2769</Phone>
+    <Email>dgalway18@springer.com</Email>
+  </student><student>
+    <CNE>470</CNE>
+    <LastName>King</LastName>
+    <FirstName>Yushankin</FirstName>
+    <DateofBirth>24/01/2000</DateofBirth>
+    <Phone>157 188 5615</Phone>
+    <Email>kyushankin19@yale.edu</Email>
+  </student></students>

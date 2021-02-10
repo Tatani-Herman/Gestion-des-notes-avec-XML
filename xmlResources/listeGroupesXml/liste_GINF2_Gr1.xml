@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>330</CNE>
+    <LastName>Achabar</LastName>
+    <FirstName>Adnane</FirstName>
+    <DateofBirth>18/10/1998</DateofBirth>
+    <Phone>04 55 28 57 36</Phone>
+    <Email>a.ultricies.adipiscing@sagittislobortismauris.com</Email>
+  </student><student>
+    <CNE>331</CNE>
+    <LastName>Adraoui</LastName>
+    <FirstName>Khaoula</FirstName>
+    <DateofBirth>28/11/1999</DateofBirth>
+    <Phone>07 09 95 10 17</Phone>
+    <Email>eget@elitpharetra.ca</Email>
+  </student><student>
+    <CNE>332</CNE>
+    <LastName>Aissa</LastName>
+    <FirstName>Maria</FirstName>
+    <DateofBirth>29/04/2000</DateofBirth>
+    <Phone>04 34 09 21 70</Phone>
+    <Email>nonummy@sitamet.com</Email>
+  </student><student>
+    <CNE>333</CNE>
+    <LastName>Ahmadoun</LastName>
+    <FirstName>Mohamed</FirstName>
+    <DateofBirth>21/09/2001</DateofBirth>
+    <Phone>04 55 59 07 00</Phone>
+    <Email>diam.Sed.diam@dictummagna.net</Email>
+  </student><student>
+    <CNE>334</CNE>
+    <LastName>Ameziane </LastName>
+    <FirstName>Chaimae</FirstName>
+    <DateofBirth>31/03/2001</DateofBirth>
+    <Phone>09 09 71 13 93</Phone>
+    <Email>vel.convallis.in@tellus.edu</Email>
+  </student><student>
+    <CNE>335</CNE>
+    <LastName>Aymane</LastName>
+    <FirstName>Dabdoubi</FirstName>
+    <DateofBirth>18/02/1999</DateofBirth>
+    <Phone>04 03 74 96 33</Phone>
+    <Email>eu.ligula@Nunc.org</Email>
+  </student><student>
+    <CNE>336</CNE>
+    <LastName>Benabdellah</LastName>
+    <FirstName>Adnane</FirstName>
+    <DateofBirth>28/04/2001</DateofBirth>
+    <Phone>03 65 75 55 99</Phone>
+    <Email>dapibus@dapibusgravidaAliquam.com</Email>
+  </student><student>
+    <CNE>337</CNE>
+    <LastName>Bentaher</LastName>
+    <FirstName>Mohamed</FirstName>
+    <DateofBirth>14/09/2000</DateofBirth>
+    <Phone>01 13 17 82 27</Phone>
+    <Email>In.at@lacusQuisquepurus.edu</Email>
+  </student><student>
+    <CNE>338</CNE>
+    <LastName>Bouabib</LastName>
+    <FirstName>Iness</FirstName>
+    <DateofBirth>31/07/2001</DateofBirth>
+    <Phone>01 83 99 82 19</Phone>
+    <Email>gravida.molestie.arcu@ac.edu</Email>
+  </student><student>
+    <CNE>339</CNE>
+    <LastName>Bouhal</LastName>
+    <FirstName>Basma</FirstName>
+    <DateofBirth>11/09/2000</DateofBirth>
+    <Phone>06 17 06 13 51</Phone>
+    <Email>blandit.enim@auctorvelit.com</Email>
+  </student><student>
+    <CNE>340</CNE>
+    <LastName>Bouzekraoui</LastName>
+    <FirstName>Asmae</FirstName>
+    <DateofBirth>05/02/2001</DateofBirth>
+    <Phone>06 16 17 67 88</Phone>
+    <Email>ligula@convallisantelectus.ca</Email>
+  </student><student>
+    <CNE>341</CNE>
+    <LastName>Charfi</LastName>
+    <FirstName>Youssef</FirstName>
+    <DateofBirth>26/06/2001</DateofBirth>
+    <Phone>04 64 98 60 55</Phone>
+    <Email>est@laciniaatiaculis.edu</Email>
+  </student><student>
+    <CNE>342</CNE>
+    <LastName>Chihi</LastName>
+    <FirstName>Hasnae</FirstName>
+    <DateofBirth>03/12/2000</DateofBirth>
+    <Phone>09 25 82 42 37</Phone>
+    <Email>Nulla@nequeInornare.edu</Email>
+  </student><student>
+    <CNE>343</CNE>
+    <LastName>Dachar</LastName>
+    <FirstName>Mohamed</FirstName>
+    <DateofBirth>19/07/1999</DateofBirth>
+    <Phone>05 77 03 22 28</Phone>
+    <Email>a.purus.Duis@semperauctorMauris.org</Email>
+  </student><student>
+    <CNE>344</CNE>
+    <LastName>Echtioui</LastName>
+    <FirstName>Salma</FirstName>
+    <DateofBirth>27/04/1996</DateofBirth>
+    <Phone>09 31 60 34 93</Phone>
+    <Email>primis@euismod.net</Email>
+  </student><student>
+    <CNE>345</CNE>
+    <LastName>El Aakkouchi</LastName>
+    <FirstName>Salma</FirstName>
+    <DateofBirth>19/08/1998</DateofBirth>
+    <Phone>02 41 34 61 92</Phone>
+    <Email>eu.tellus.eu@urnaet.org</Email>
+  </student><student>
+    <CNE>346</CNE>
+    <LastName>El Azizi</LastName>
+    <FirstName>Hamza</FirstName>
+    <DateofBirth>08/01/2001</DateofBirth>
+    <Phone>01 51 56 04 75</Phone>
+    <Email>Cras.interdum.Nunc@nec.net</Email>
+  </student><student>
+    <CNE>347</CNE>
+    <LastName>El Asli</LastName>
+    <FirstName>Mariam</FirstName>
+    <DateofBirth>18/03/1995</DateofBirth>
+    <Phone>09 86 03 83 03</Phone>
+    <Email>aliquam.eros.turpis@Maurisquisturpis.org</Email>
+  </student><student>
+    <CNE>348</CNE>
+    <LastName>El Bourkadi</LastName>
+    <FirstName>Oussama</FirstName>
+    <DateofBirth>01/02/2000</DateofBirth>
+    <Phone>02 05 53 81 64</Phone>
+    <Email>fringilla.cursus.purus@turpisnonenim.net</Email>
+  </student><student>
+    <CNE>349</CNE>
+    <LastName>El Hassani</LastName>
+    <FirstName>Sokayna</FirstName>
+    <DateofBirth>31/12/1998</DateofBirth>
+    <Phone>03 60 13 08 48</Phone>
+    <Email>pretium.et@Aeneanegestas.edu</Email>
+  </student><student>
+    <CNE>350</CNE>
+    <LastName>El Jettari</LastName>
+    <FirstName>Mohamed</FirstName>
+    <DateofBirth>15/01/2001</DateofBirth>
+    <Phone>05 19 05 86 31</Phone>
+    <Email>ornare.facilisis.eget@elit.ca</Email>
+  </student><student>
+    <CNE>351</CNE>
+    <LastName>Elkasmi</LastName>
+    <FirstName>Fatima Zhora</FirstName>
+    <DateofBirth>29/04/1998</DateofBirth>
+    <Phone>01 75 51 34 37</Phone>
+    <Email>ante@orci.net</Email>
+  </student><student>
+    <CNE>352</CNE>
+    <LastName>El Khayyat</LastName>
+    <FirstName>Mohamed El Amine</FirstName>
+    <DateofBirth>09/04/1999</DateofBirth>
+    <Phone>01 77 86 71 61</Phone>
+    <Email>sodales.Mauris@mattis.ca</Email>
+  </student><student>
+    <CNE>353</CNE>
+    <LastName>El mansori</LastName>
+    <FirstName>Issam</FirstName>
+    <DateofBirth>20/02/1997</DateofBirth>
+    <Phone>03 83 03 68 01</Phone>
+    <Email>Integer.vitae@eutellusPhasellus.com</Email>
+  </student></students>

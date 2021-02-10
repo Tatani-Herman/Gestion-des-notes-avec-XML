@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>731</CNE>
+    <LastName>Kato</LastName>
+    <FirstName>Baker</FirstName>
+    <DateofBirth>25/04/2001</DateofBirth>
+    <Phone>02 45 40 10 87</Phone>
+    <Email>hendrerit.Donec.porttitor@risusNuncac.org</Email>
+  </student><student>
+    <CNE>732</CNE>
+    <LastName>Lev</LastName>
+    <FirstName>Cotton</FirstName>
+    <DateofBirth>01/06/2001</DateofBirth>
+    <Phone>02 21 49 79 03</Phone>
+    <Email>mi.lorem@quam.org</Email>
+  </student><student>
+    <CNE>733</CNE>
+    <LastName>Shafira</LastName>
+    <FirstName>Valencia</FirstName>
+    <DateofBirth>07/06/1998</DateofBirth>
+    <Phone>02 26 67 32 40</Phone>
+    <Email>Vestibulum.accumsan.neque@semperrutrumFusce.org</Email>
+  </student><student>
+    <CNE>734</CNE>
+    <LastName>Kerry</LastName>
+    <FirstName>Ramsey</FirstName>
+    <DateofBirth>24/11/2002</DateofBirth>
+    <Phone>03 46 62 98 45</Phone>
+    <Email>dui.Fusce.diam@Crasvulputatevelit.ca</Email>
+  </student><student>
+    <CNE>735</CNE>
+    <LastName>Berk</LastName>
+    <FirstName>Brooks</FirstName>
+    <DateofBirth>24/07/2003</DateofBirth>
+    <Phone>04 58 24 54 26</Phone>
+    <Email>convallis.est@vulputatelacus.edu</Email>
+  </student><student>
+    <CNE>736</CNE>
+    <LastName>Helen</LastName>
+    <FirstName>Moore</FirstName>
+    <DateofBirth>05/08/1999</DateofBirth>
+    <Phone>05 29 26 96 33</Phone>
+    <Email>litora.torquent@elementumpurusaccumsan.net</Email>
+  </student><student>
+    <CNE>737</CNE>
+    <LastName>Aubrey</LastName>
+    <FirstName>Mccall</FirstName>
+    <DateofBirth>14/02/1999</DateofBirth>
+    <Phone>02 32 34 59 16</Phone>
+    <Email>metus.eu@ligula.ca</Email>
+  </student><student>
+    <CNE>738</CNE>
+    <LastName>Priscilla</LastName>
+    <FirstName>Gardner</FirstName>
+    <DateofBirth>01/02/2002</DateofBirth>
+    <Phone>01 10 37 62 95</Phone>
+    <Email>hendrerit.neque@sit.edu</Email>
+  </student><student>
+    <CNE>739</CNE>
+    <LastName>Charlotte</LastName>
+    <FirstName>Cox</FirstName>
+    <DateofBirth>05/12/2003</DateofBirth>
+    <Phone>05 62 16 71 01</Phone>
+    <Email>eu@Pellentesque.edu</Email>
+  </student><student>
+    <CNE>740</CNE>
+    <LastName>Kelly</LastName>
+    <FirstName>Hayden</FirstName>
+    <DateofBirth>26/03/1998</DateofBirth>
+    <Phone>05 89 07 33 57</Phone>
+    <Email>nec.malesuada@vehicula.ca</Email>
+  </student><student>
+    <CNE>741</CNE>
+    <LastName>Audrey</LastName>
+    <FirstName>Booker</FirstName>
+    <DateofBirth>08/07/2003</DateofBirth>
+    <Phone>02 07 94 99 62</Phone>
+    <Email>quam@senectus.com</Email>
+  </student><student>
+    <CNE>742</CNE>
+    <LastName>Arsenio</LastName>
+    <FirstName>Brewer</FirstName>
+    <DateofBirth>02/03/1998</DateofBirth>
+    <Phone>01 78 49 64 01</Phone>
+    <Email>porta@convallis.org</Email>
+  </student><student>
+    <CNE>743</CNE>
+    <LastName>Quynn</LastName>
+    <FirstName>Baker</FirstName>
+    <DateofBirth>02/01/2002</DateofBirth>
+    <Phone>05 91 68 06 18</Phone>
+    <Email>est@musProinvel.ca</Email>
+  </student><student>
+    <CNE>744</CNE>
+    <LastName>Daphne</LastName>
+    <FirstName>Goff</FirstName>
+    <DateofBirth>19/11/1999</DateofBirth>
+    <Phone>02 53 84 41 73</Phone>
+    <Email>mauris@Aeneanegestas.edu</Email>
+  </student><student>
+    <CNE>745</CNE>
+    <LastName>Anne</LastName>
+    <FirstName>Wheeler</FirstName>
+    <DateofBirth>18/05/1998</DateofBirth>
+    <Phone>01 07 45 52 42</Phone>
+    <Email>ligula@vitae.ca</Email>
+  </student><student>
+    <CNE>746</CNE>
+    <LastName>Alexa</LastName>
+    <FirstName>Olson</FirstName>
+    <DateofBirth>13/04/1999</DateofBirth>
+    <Phone>03 67 10 01 52</Phone>
+    <Email>Sed@maurisa.co.uk</Email>
+  </student><student>
+    <CNE>747</CNE>
+    <LastName>Sharon</LastName>
+    <FirstName>Livingston</FirstName>
+    <DateofBirth>02/11/2003</DateofBirth>
+    <Phone>03 58 38 63 46</Phone>
+    <Email>ac.orci@Donec.edu</Email>
+  </student><student>
+    <CNE>748</CNE>
+    <LastName>Edan</LastName>
+    <FirstName>Rose</FirstName>
+    <DateofBirth>28/09/1998</DateofBirth>
+    <Phone>03 89 34 41 56</Phone>
+    <Email>vitae@bibendumfermentummetus.ca</Email>
+  </student><student>
+    <CNE>749</CNE>
+    <LastName>Benjamin</LastName>
+    <FirstName>Campos</FirstName>
+    <DateofBirth>05/12/2002</DateofBirth>
+    <Phone>05 29 96 49 66</Phone>
+    <Email>nisi.Cum.sociis@sodales.co.uk</Email>
+  </student><student>
+    <CNE>750</CNE>
+    <LastName>Sebastian</LastName>
+    <FirstName>Campos</FirstName>
+    <DateofBirth>23/02/2002</DateofBirth>
+    <Phone>01 80 30 94 04</Phone>
+    <Email>ut.nisi@anteVivamusnon.edu</Email>
+  </student><student>
+    <CNE>751</CNE>
+    <LastName>Holmes</LastName>
+    <FirstName>Hughes</FirstName>
+    <DateofBirth>10/06/2004</DateofBirth>
+    <Phone>09 50 91 21 39</Phone>
+    <Email>egestas@libero.net</Email>
+  </student><student>
+    <CNE>752</CNE>
+    <LastName>Ann</LastName>
+    <FirstName>Meadows</FirstName>
+    <DateofBirth>03/02/2000</DateofBirth>
+    <Phone>09 92 15 84 65</Phone>
+    <Email>enim.commodo.hendrerit@euismodindolor.edu</Email>
+  </student><student>
+    <CNE>753</CNE>
+    <LastName>Zeph</LastName>
+    <FirstName>Holder</FirstName>
+    <DateofBirth>15/05/2004</DateofBirth>
+    <Phone>09 68 45 40 17</Phone>
+    <Email>aliquet.metus.urna@purusmaurisa.com</Email>
+  </student><student>
+    <CNE>754</CNE>
+    <LastName>Rajah</LastName>
+    <FirstName>Battle</FirstName>
+    <DateofBirth>18/01/2005</DateofBirth>
+    <Phone>01 37 75 89 34</Phone>
+    <Email>mauris.sit@posuere.net</Email>
+  </student></students>

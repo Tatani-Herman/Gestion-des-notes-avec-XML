@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
+    <CNE>402</CNE>
+    <LastName>Uta</LastName>
+    <FirstName>Scogin</FirstName>
+    <DateofBirth>20/02/1999</DateofBirth>
+    <Phone>907 973 1594</Phone>
+    <Email>uscogino@shop-pro.jp</Email>
+  </student><student>
+    <CNE>403</CNE>
+    <LastName>Emmye</LastName>
+    <FirstName>Costellow</FirstName>
+    <DateofBirth>14/04/1999</DateofBirth>
+    <Phone>531 277 3763</Phone>
+    <Email>ecostellowp@newsvine.com</Email>
+  </student><student>
+    <CNE>404</CNE>
+    <LastName>Kelci</LastName>
+    <FirstName>Hancox</FirstName>
+    <DateofBirth>02/05/1995</DateofBirth>
+    <Phone>330 826 9350</Phone>
+    <Email>khancoxq@flavors.me</Email>
+  </student><student>
+    <CNE>405</CNE>
+    <LastName>Markos</LastName>
+    <FirstName>Flieger</FirstName>
+    <DateofBirth>21/03/1998</DateofBirth>
+    <Phone>855 340 3665</Phone>
+    <Email>mfliegerr@telegraph.co.uk</Email>
+  </student><student>
+    <CNE>406</CNE>
+    <LastName>Persis</LastName>
+    <FirstName>O'Longain</FirstName>
+    <DateofBirth>20/02/2000</DateofBirth>
+    <Phone>419 264 4147</Phone>
+    <Email>polongains@cnet.com</Email>
+  </student><student>
+    <CNE>407</CNE>
+    <LastName>Mady</LastName>
+    <FirstName>Handrahan</FirstName>
+    <DateofBirth>21/08/1998</DateofBirth>
+    <Phone>926 603 6891</Phone>
+    <Email>mhandrahant@google.com.br</Email>
+  </student><student>
+    <CNE>408</CNE>
+    <LastName>Alex</LastName>
+    <FirstName>Corteis</FirstName>
+    <DateofBirth>11/10/2000</DateofBirth>
+    <Phone>785 453 3613</Phone>
+    <Email>acorteisu@csmonitor.com</Email>
+  </student><student>
+    <CNE>409</CNE>
+    <LastName>Viviyan</LastName>
+    <FirstName>Gainsbury</FirstName>
+    <DateofBirth>10/06/1996</DateofBirth>
+    <Phone>371 117 8972</Phone>
+    <Email>vgainsburyv@google.ru</Email>
+  </student><student>
+    <CNE>410</CNE>
+    <LastName>Catherin</LastName>
+    <FirstName>Ollarenshaw</FirstName>
+    <DateofBirth>15/01/1999</DateofBirth>
+    <Phone>227 118 9582</Phone>
+    <Email>collarenshaww@so-net.ne.jp</Email>
+  </student><student>
+    <CNE>411</CNE>
+    <LastName>Flint</LastName>
+    <FirstName>Tarquini</FirstName>
+    <DateofBirth>02/03/1996</DateofBirth>
+    <Phone>424 205 0776</Phone>
+    <Email>ftarquinix@sciencedirect.com</Email>
+  </student><student>
+    <CNE>412</CNE>
+    <LastName>Estel</LastName>
+    <FirstName>Glawsop</FirstName>
+    <DateofBirth>15/11/1997</DateofBirth>
+    <Phone>336 444 5689</Phone>
+    <Email>eglawsopy@acquirethisname.com</Email>
+  </student><student>
+    <CNE>413</CNE>
+    <LastName>Jillane</LastName>
+    <FirstName>Najara</FirstName>
+    <DateofBirth>27/11/1996</DateofBirth>
+    <Phone>194 848 4430</Phone>
+    <Email>jnajaraz@ucoz.com</Email>
+  </student><student>
+    <CNE>414</CNE>
+    <LastName>Adiana</LastName>
+    <FirstName>Gwatkin</FirstName>
+    <DateofBirth>11/03/1995</DateofBirth>
+    <Phone>324 898 9606</Phone>
+    <Email>agwatkin10@baidu.com</Email>
+  </student><student>
+    <CNE>415</CNE>
+    <LastName>Igor</LastName>
+    <FirstName>Whellams</FirstName>
+    <DateofBirth>11/01/2001</DateofBirth>
+    <Phone>167 901 9145</Phone>
+    <Email>iwhellams11@51.la</Email>
+  </student><student>
+    <CNE>416</CNE>
+    <LastName>Tara</LastName>
+    <FirstName>Aronov</FirstName>
+    <DateofBirth>11/10/1997</DateofBirth>
+    <Phone>448 262 0156</Phone>
+    <Email>taronov12@baidu.com</Email>
+  </student><student>
+    <CNE>417</CNE>
+    <LastName>Cherlyn</LastName>
+    <FirstName>Ruppel</FirstName>
+    <DateofBirth>03/10/1998</DateofBirth>
+    <Phone>224 242 9468</Phone>
+    <Email>cruppel13@typepad.com</Email>
+  </student><student>
+    <CNE>418</CNE>
+    <LastName>Eden</LastName>
+    <FirstName>Elcoate</FirstName>
+    <DateofBirth>17/07/1998</DateofBirth>
+    <Phone>251 507 6450</Phone>
+    <Email>eelcoate14@topsy.com</Email>
+  </student><student>
+    <CNE>419</CNE>
+    <LastName>Zach</LastName>
+    <FirstName>Bowller</FirstName>
+    <DateofBirth>26/02/1997</DateofBirth>
+    <Phone>959 473 6270</Phone>
+    <Email>zbowller15@mapy.cz</Email>
+  </student><student>
+    <CNE>420</CNE>
+    <LastName>Lynnea</LastName>
+    <FirstName>Rau</FirstName>
+    <DateofBirth>02/01/1996</DateofBirth>
+    <Phone>528 189 8468</Phone>
+    <Email>lrau16@storify.com</Email>
+  </student><student>
+    <CNE>421</CNE>
+    <LastName>Sheelagh</LastName>
+    <FirstName>Kernes</FirstName>
+    <DateofBirth>09/11/1998</DateofBirth>
+    <Phone>753 780 9924</Phone>
+    <Email>skernes17@google.de</Email>
+  </student><student>
+    <CNE>422</CNE>
+    <LastName>Denver</LastName>
+    <FirstName>Wudeland</FirstName>
+    <DateofBirth>10/10/1998</DateofBirth>
+    <Phone>955 884 4355</Phone>
+    <Email>dwudeland18@nydailynews.com</Email>
+  </student><student>
+    <CNE>423</CNE>
+    <LastName>Petronia</LastName>
+    <FirstName>Reaman</FirstName>
+    <DateofBirth>13/05/1996</DateofBirth>
+    <Phone>987 501 3879</Phone>
+    <Email>preaman19@aol.com</Email>
+  </student></students>
