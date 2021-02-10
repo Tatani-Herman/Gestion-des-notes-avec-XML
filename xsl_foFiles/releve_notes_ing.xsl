@@ -268,7 +268,8 @@
           <fo:block space-after="6cm" space-before="1.5mm" font-weight="bold" margin-left="0.5cm" font-size="11pt">Résultat d'admission session 1:<fo:inline padding-left="3.6cm">
             <xsl:variable name="number" select="sum(matiere) div count(matiere)"/>
             <xsl:value-of select="format-number($number,'#.###')"/>/20
-                                
+
+           <!-- Test si la moyenne superieur a 12 pour valider (car l'etudiant est en cycle d'ingénieurie)-->                     
           <xsl:choose>
               <xsl:when test="$number &lt; 12">
                 <fo:inline padding-left="1.5cm">

@@ -3,8 +3,9 @@
   xmlns:fo="http://www.w3.org/1999/XSL/Format" version="2.0">
   <xsl:template match="/note">
 
+<!--  Test si la moyenne est superieur à 10 (car l'etudiant est en AP)-->
     <xsl:variable name="number" select="sum(matiere) div count(matiere)"/>
-    <xsl:if test="$number &gt; 12">
+    <xsl:if test="$number &gt; 10">
 
       <fo:root>
         <fo:layout-master-set>
@@ -49,7 +50,7 @@
           </fo:block>
           <fo:block text-align="center" space-after="2mm">né le 01 Janvier 2000 à TANGER</fo:block>
           <fo:block text-align="center" space-after="2mm">a été déclaré admis au niveau</fo:block>
-          <fo:block text-align="center" space-after="5mm" font-weight="bold">3° Année Génie Informatique</fo:block>
+          <fo:block text-align="center" space-after="5mm" font-weight="bold">1° Année Génie Informatique</fo:block>
           <fo:block text-align="center">au titre de l'année universitaire 2020/2021</fo:block>
           <fo:block margin-left="0.5cm" space-after="15cm">
             <fo:external-graphic src="url(C://xampp/htdocs/Gestion-des-notes-avec-XML/img/trait.PNG)"/>
