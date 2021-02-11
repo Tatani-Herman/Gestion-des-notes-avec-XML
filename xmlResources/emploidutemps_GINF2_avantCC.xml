@@ -2,15 +2,15 @@
 <emploidutemps>
   <filiere>Génie Informatique 2</filiere>
   <groupe>Toute la classe </groupe>
-  <semaine>Deuxième Moitié du premier semestre</semaine>
+  <semaine>Première Moitié du premier semestre</semaine>
 
   <heures>
     <heure debut="8h30-10h30">
        <lundi >
          <cours>
             <type>CM</type>
-           <matiere>Cycle de vie logiciel</matiere>
-           <professeur>Badir</professeur>
+           <matiere>Maitrise et optimisation des processus</matiere>
+           <professeur>Rahali</professeur>
            <salle>A distance</salle>
          </cours>
        </lundi>
@@ -18,9 +18,9 @@
        <mardi >
          <cours>
          <type>CM</type>
-          <matiere>Gestion des données distribuées</matiere>
+          <matiere>Optimisation des bases de données</matiere>
           <professeur>Fissoune</professeur>
-          <salle>Amphi 2</salle>
+          <salle> Salle B1</salle>
          </cours>
        </mardi>   
          <mercredi >
@@ -28,23 +28,23 @@
           <type>CM</type>
           <matiere>POO Java</matiere>
           <professeur>El Haddad</professeur>
-          <salle>B19</salle>
+          <salle>A distance</salle>
          </cours>
        </mercredi>  
        <jeudi >
          <cours>
-         <type>TD</type>
-          <matiere>UML</matiere>
-          <professeur>El Alami</professeur>
-          <salle>B14</salle>
+         <type>CM</type>
+          <matiere>Administration des bases de données</matiere>
+          <professeur>Badir</professeur>
+          <salle>A distance</salle>
          </cours>
        </jeudi>     
       	    <vendredi >
          <cours>
          <type>CM</type>
-          <matiere>IHM</matiere>
-          <professeur>El Alami</professeur>
-          <salle>B20</salle>
+          <matiere>XML</matiere>
+          <professeur>Lachkar</professeur>
+          <salle>B1</salle>
          </cours>
        </vendredi>  
 	    </heure>
@@ -52,18 +52,18 @@
        <lundi jour="13" >
          <cours>
          <type>CM</type>
-           <matiere>Cycle de vie logiciel</matiere>
-           <professeur>Badir</professeur>
+           <matiere>Maitrise et optimisation des processus</matiere>
+           <professeur>Rahali</professeur>
            <salle>A distance</salle>
          </cours>
        </lundi>
        
        <mardi >
          <cours>
-         <type>CM</type>
+         <type>TD</type>
           <matiere>Gestion des données distribuées</matiere>
           <professeur>Fissoune</professeur>
-          <salle>Amphi 2</salle>
+          <salle>B1</salle>
          </cours>
        </mardi>   
          <mercredi >
@@ -71,23 +71,23 @@
          <type>CM</type>
           <matiere>POO Java</matiere>
           <professeur>El Haddad</professeur>
-          <salle>B19</salle>
+          <salle>A distance</salle>
          </cours>
        </mercredi>  
        <jeudi >
          <cours>
          <type>TD</type>
-          <matiere>UML</matiere>
-          <professeur>El Alami</professeur>
-          <salle>B14</salle>
+          <matiere>Administration des bases de données</matiere>
+          <professeur>Badir</professeur>
+          <salle>B1</salle>
          </cours>
        </jeudi>     
       	    <vendredi >
          <cours>
          <type>TD</type>
-          <matiere>IHM</matiere>
-          <professeur>El Alami</professeur>
-          <salle>B20</salle>
+          <matiere>XML</matiere>
+          <professeur>Lachkar</professeur>
+          <salle>B1</salle>
          </cours>
        </vendredi>  
 	    </heure>
@@ -95,61 +95,61 @@
        <lundi>
          <cours>
          <type>CM</type>
-           <matiere>Programmation Système</matiere>
-           <professeur>Amechnoue Khalid</professeur>
-           <salle>Salle B1, Salle B2</salle>
+           <matiere>UML</matiere>
+           <professeur>El Alami</professeur>
+           <salle>A distance</salle>
          </cours>
        </lundi>
        
        <mardi >
          <cours>
          <type>TP</type>
-          <matiere>Programmation Système</matiere>
+          <matiere>Administration Système</matiere>
           <professeur>Amechnoue Khalid</professeur>
           <salle>Salle B1, Salle B2</salle>
          </cours>
        </mardi>   
          <mercredi >
          <cours>
+         <type>TD</type>
+          <matiere>Administration Système</matiere>
+          <professeur>Amechnoue Khalid</professeur>
+          <salle>A distance</salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
          <type></type>
           <matiere></matiere>
           <professeur></professeur>
           <salle></salle>
          </cours>
-       </mercredi>  
-       <jeudi >
-         <cours>
-         <type>CM</type>
-          <matiere>Technique de Communication</matiere>
-          <professeur>Zamouni</professeur>
-          <salle>Salle A8</salle>
-         </cours>
        </jeudi>     
       	    <vendredi >
          <cours>
          <type>CM</type>
-          <matiere>Assurance Qualité</matiere>
-          <professeur>Chihi</professeur>
-          <salle>A distance</salle>
+          <matiere>Anglais</matiere>
+          <professeur>Bourigui</professeur>
+          <salle>Amphi 1</salle>
          </cours>
        </vendredi>  
 	    </heure>
         <heure debut="15H45-17h15">
        <lundi>
          <cours>
-         <type>TP</type>
-           <matiere>Programmation Système</matiere>
-           <professeur>Amechnoue Khalid</professeur>
+         <type>CM</type>
+           <matiere>UML</matiere>
+           <professeur>El Alami</professeur>
            <salle>Salle B1, Salle B2</salle>
          </cours>
        </lundi>
        
        <mardi >
          <cours>
-         <type>CM</type>
-          <matiere>Espagnol</matiere>
-          <professeur>Laarmarti</professeur>
-          <salle>Amphi 2</salle>
+         <type>TD</type>
+          <matiere>Administration Système</matiere>
+          <professeur>Amechnoue Khalid</professeur>
+          <salle>B1</salle>
          </cours>
        </mardi>   
          <mercredi >
@@ -163,17 +163,17 @@
        <jeudi >
          <cours>
          <type>CM</type>
-          <matiere>Technique de Communication</matiere>
-          <professeur>Zamouni</professeur>
-          <salle>Salle A8</salle>
+          <matiere>Espagnol</matiere>
+          <professeur>Laarmarti</professeur>
+          <salle>Amphi 2</salle>
          </cours>
        </jeudi>     
       <vendredi >
          <cours>
          <type>CM</type>
-          <matiere>Assurance Qualité</matiere>
-          <professeur>Chihi</professeur>
-          <salle>A distance</salle>
+          <matiere>Anglais</matiere>
+          <professeur>Bourigui</professeur>
+          <salle>Amphi 1</salle>
          </cours>
        </vendredi>  
 	    </heure>
