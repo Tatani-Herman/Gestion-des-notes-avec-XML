@@ -211,7 +211,7 @@
                    <div class="card text-white bg-dark mb-3" style="width: 18rem; height :18rem;">   
                      <div class="card-body">
                         <h5 class="card-title">Générer des emploi du temps</h5>
-                        <form action="liste_groupe.php" method="get">
+                        <form action="generateurpdf/emploidutemps.php" method="get">
               <label for="Class">Choisissez une periode:</label>
                     <select name="periode" id="periode">
                       <option value="avant">Avant CC</option>

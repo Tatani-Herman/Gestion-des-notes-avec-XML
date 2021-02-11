@@ -8,7 +8,7 @@
 <xsl:template match="emploidutemps">
 <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
   <fo:layout-master-set>
-    <fo:simple-page-master master-name="simpleA4" page-height="21cm" page-width="29.7cm" margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm">
+    <fo:simple-page-master master-name="simpleA4" page-height="18cm" page-width="40cm" margin-top="1cm" margin-bottom="1cm" margin-left="1cm" margin-right="1cm">
       <fo:region-body/>
     </fo:simple-page-master>
   </fo:layout-master-set>
@@ -16,23 +16,23 @@
     <fo:flow flow-name="xsl-region-body">
       
       <fo:block>
-      <fo:table border="0.5pt solid black" text-align="center" border-spacing="3pt" table-layout="fixed">
-        <fo:table-column column-width="80px"/>
-        <fo:table-column column-width="62px" />
-        <fo:table-column column-width="62px"/>
-        <fo:table-column column-width="62px" />
-        <fo:table-column column-width="62px"/>
-        <fo:table-column column-width="62px" />
-        <fo:table-column column-width="62px"/>
-        <fo:table-column column-width="62px" />
-        <fo:table-column column-width="62px"/>
-        <fo:table-column column-width="62px" />
-        <fo:table-column column-width="62px"/>
+      <fo:table>
+        <fo:table-column column-width="2.5cm"/>
+        <fo:table-column column-width="3.5cm" />
+        <fo:table-column column-width="3.5cm"/>
+        <fo:table-column column-width="3.5cm" />
+        <fo:table-column column-width="3.5cm"/>
+        <fo:table-column column-width="3.5cm" />
+        <fo:table-column column-width="3.5cm"/>
+        <fo:table-column column-width="3.5cm" />
+        <fo:table-column column-width="3.5cm"/>
+        <fo:table-column column-width="3.5cm" />
+        <fo:table-column column-width="3.5cm"/>
 		
 		<!-- HEADER -->
         <fo:table-header>        
           <fo:table-row>
-            <fo:table-cell padding="6pt" border="1pt solid blue" background-color="white" number-columns-spanned="11">
+            <fo:table-cell padding="6pt" background-color="white" number-columns-spanned="11">
               <fo:block text-align="center" font-weight="bold">
              <xsl:value-of select="//filiere/text()" />    Emploi du temps : <xsl:value-of select="//semaine/text()" />
               </fo:block>
@@ -41,12 +41,12 @@
        </fo:table-header>
        
        <!-- BODY -->
-        <fo:table-body>
+        <fo:table-body  border="0.5pt solid black" text-align="center" border-spacing="3pt" table-layout="fixed">
           <!-- 1er ligne -->
           <fo:table-row>
             <fo:table-cell padding="6pt" border="1pt solid blue" background-color="white" number-rows-spanned="1">
-              <fo:block text-align="center" font-weight="bold">
-					Heure-Jours
+              <fo:block>
+					
              </fo:block>
            </fo:table-cell>
           <fo:table-cell padding="6pt" border="0.5pt solid black" number-columns-spanned="2" background-color="silver">
@@ -65,12 +65,12 @@
             <fo:block> Vendredi </fo:block>
           </fo:table-cell>
         </fo:table-row>
-        <fo:table-row height="30mm">
+        <fo:table-row height="20mm">
           <xsl:call-template name="heure1">
            <xsl:with-param name="hour">8h30-10h30</xsl:with-param>  
           </xsl:call-template>
         </fo:table-row>
-        <fo:table-row height="30mm">
+        <fo:table-row height="20mm">
          <xsl:call-template name="heure2">
            <xsl:with-param name="hour">10h45-12h45</xsl:with-param>  
           </xsl:call-template>
@@ -80,12 +80,12 @@
             <fo:block> Pause </fo:block>
           </fo:table-cell>
         </fo:table-row>
-        <fo:table-row height="30mm">
+        <fo:table-row height="20mm">
           <xsl:call-template name="heure3">
            <xsl:with-param name="hour">14h-15h30</xsl:with-param>  
           </xsl:call-template>
         </fo:table-row>
-        <fo:table-row height="30mm">
+        <fo:table-row height="20mm">
           <xsl:call-template name="heure4">
            <xsl:with-param name="hour">15h45-17h15</xsl:with-param>  
           </xsl:call-template>
@@ -121,14 +121,14 @@
         <xsl:value-of select="type"/> 
       </fo:block>
         </xsl:when>
-        <xsl:when test="type='TP'"><xsl:variable name="color" select="'green'"/>
+        <xsl:when test="type='TP'"><xsl:variable name="color" select="'palegreen'"/>
          <fo:block vertical-align="bottom" background-color="{$color}"> 
         <xsl:value-of select="type"/> 
       </fo:block>
         </xsl:when>
      </xsl:choose> 
      
-      <fo:block vertical-align="bottom"> 
+      <fo:block vertical-align="bottom" font-weight="bold" space-after="2mm"> 
         <xsl:value-of select="matiere"/> 
       </fo:block>
       <fo:block vertical-align="bottom"> 
@@ -162,13 +162,13 @@
         <xsl:value-of select="type"/> 
       </fo:block>
         </xsl:when>
-        <xsl:when test="type='TP'"><xsl:variable name="color" select="'green'"/>
+        <xsl:when test="type='TP'"><xsl:variable name="color" select="'palegreen'"/>
          <fo:block vertical-align="bottom" background-color="{$color}"> 
         <xsl:value-of select="type"/> 
       </fo:block>
         </xsl:when>
      </xsl:choose> 
-      <fo:block vertical-align="bottom"> 
+      <fo:block vertical-align="bottom" font-weight="bold" space-after="2mm"> 
         <xsl:value-of select="matiere"/> 
       </fo:block>
       <fo:block vertical-align="bottom"> 
@@ -202,13 +202,13 @@
         <xsl:value-of select="type"/> 
       </fo:block>
         </xsl:when>
-        <xsl:when test="type='TP'"><xsl:variable name="color" select="'green'"/>
+        <xsl:when test="type='TP'"><xsl:variable name="color" select="'palegreen'"/>
          <fo:block vertical-align="bottom" background-color="{$color}"> 
         <xsl:value-of select="type"/> 
       </fo:block>
         </xsl:when>
      </xsl:choose> 
-      <fo:block vertical-align="bottom"> 
+      <fo:block vertical-align="bottom" font-weight="bold" space-after="2mm"> 
         <xsl:value-of select="matiere"/> 
       </fo:block>
       <fo:block vertical-align="bottom"> 
@@ -242,13 +242,13 @@
         <xsl:value-of select="type"/> 
       </fo:block>
         </xsl:when>
-        <xsl:when test="type='TP'"><xsl:variable name="color" select="'green'"/>
+        <xsl:when test="type='TP'"><xsl:variable name="color" select="'palegreen'"/>
          <fo:block vertical-align="bottom" background-color="{$color}"> 
         <xsl:value-of select="type"/> 
       </fo:block>
         </xsl:when>
      </xsl:choose> 
-      <fo:block vertical-align="bottom"> 
+      <fo:block vertical-align="bottom" font-weight="bold" space-after="2mm"> 
         <xsl:value-of select="matiere"/> 
       </fo:block>
       <fo:block vertical-align="bottom"> 
