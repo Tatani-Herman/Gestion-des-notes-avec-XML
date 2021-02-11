@@ -8,7 +8,7 @@ if(isset($_GET['class']) && isset($_GET['periode']))
 
   $emploiXml=$doc->saveXML();
   $httppost=new HTTPPost();
-  $pdfdata=$httppost->post_request("localhost","8087","C://wamp/www/Gestion-des-notes-avec-XML/xsl_foFiles/emploidutemps_dy.xsl",$emploiXml);
+  $pdfdata=$httppost->post_request("localhost","8087","C://wamp/www/Gestion-des-notes-avec-XML/xsl_foFiles/emploidutemps.xsl",$emploiXml);
 
     // save PDF output to a PDF file
     $myFile = $_GET['class']."emploidutemps.pdf";

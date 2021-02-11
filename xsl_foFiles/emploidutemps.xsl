@@ -32,7 +32,7 @@
 		<!-- HEADER -->
         <fo:table-header>        
           <fo:table-row>
-            <fo:table-cell padding="6pt" border="1pt solid blue" background-color="yellow" number-columns-spanned="11">
+            <fo:table-cell padding="6pt" border="1pt solid blue" background-color="white" number-columns-spanned="11">
               <fo:block text-align="center" font-weight="bold">
              <xsl:value-of select="//filiere/text()" />    Emploi du temps : <xsl:value-of select="//semaine/text()" />
               </fo:block>
@@ -44,34 +44,34 @@
         <fo:table-body>
           <!-- 1er ligne -->
           <fo:table-row>
-            <fo:table-cell padding="6pt" border="1pt solid blue" background-color="green" number-rows-spanned="1">
+            <fo:table-cell padding="6pt" border="1pt solid blue" background-color="white" number-rows-spanned="1">
               <fo:block text-align="center" font-weight="bold">
 					Heure-Jours
              </fo:block>
            </fo:table-cell>
-          <fo:table-cell padding="6pt" border="0.5pt solid black" number-columns-spanned="2">
+          <fo:table-cell padding="6pt" border="0.5pt solid black" number-columns-spanned="2" background-color="silver">
             <fo:block> Lundi </fo:block>
           </fo:table-cell>
-          <fo:table-cell padding="6pt" border="0.5pt solid black" number-columns-spanned="2">
+          <fo:table-cell padding="6pt" border="0.5pt solid black" number-columns-spanned="2" background-color="silver">
             <fo:block> Mardi </fo:block>
           </fo:table-cell>
-          <fo:table-cell padding="6pt" border="0.5pt solid black" number-columns-spanned="2">
+          <fo:table-cell padding="6pt" border="0.5pt solid black" number-columns-spanned="2" background-color="silver">
             <fo:block> Mercredi </fo:block>
           </fo:table-cell>
-          <fo:table-cell padding="6pt" border="0.5pt solid black" number-columns-spanned="2">
+          <fo:table-cell padding="6pt" border="0.5pt solid black" number-columns-spanned="2" background-color="silver">
             <fo:block> Jeudi </fo:block>
           </fo:table-cell>
-          <fo:table-cell padding="6pt" border="0.5pt solid black" number-columns-spanned="2">
+          <fo:table-cell padding="6pt" border="0.5pt solid black" number-columns-spanned="2" background-color="silver">
             <fo:block> Vendredi </fo:block>
           </fo:table-cell>
         </fo:table-row>
         <fo:table-row height="30mm">
-          <xsl:call-template name="heure">
+          <xsl:call-template name="heure1">
            <xsl:with-param name="hour">8h30-10h30</xsl:with-param>  
           </xsl:call-template>
         </fo:table-row>
         <fo:table-row height="30mm">
-         <xsl:call-template name="heure">
+         <xsl:call-template name="heure2">
            <xsl:with-param name="hour">10h45-12h45</xsl:with-param>  
           </xsl:call-template>
         </fo:table-row>
@@ -81,13 +81,13 @@
           </fo:table-cell>
         </fo:table-row>
         <fo:table-row height="30mm">
-          <xsl:call-template name="heure">
-           <xsl:with-param name="hour">13h45-15h45</xsl:with-param>  
+          <xsl:call-template name="heure3">
+           <xsl:with-param name="hour">14h-15h30</xsl:with-param>  
           </xsl:call-template>
         </fo:table-row>
         <fo:table-row height="30mm">
-          <xsl:call-template name="heure">
-           <xsl:with-param name="hour">16h00-18h00</xsl:with-param>  
+          <xsl:call-template name="heure4">
+           <xsl:with-param name="hour">15h45-17h15</xsl:with-param>  
           </xsl:call-template>
         </fo:table-row>
         <!-- 3em ligne -->
@@ -100,7 +100,7 @@
 </fo:root>
 </xsl:template>
 
-<xsl:template name="heure">
+<xsl:template name="heure1">
  <xsl:param name="hour" /> 
    <fo:table-cell padding="6pt" border="1pt solid blue" background-color="silver" number-rows-spanned="1">
      <fo:block> <xsl:value-of select="$hour"/> </fo:block>   
@@ -108,7 +108,146 @@
 
  <xsl:for-each select="*/heure[@debut=$hour]">
    <xsl:for-each select="./*/cours">
-    <fo:table-cell padding="6pt" border="0.5pt solid black" number-rows-spanned="{@heure div 2}" number-columns-spanned="{@groupe}" vertical-align="bottom">
+    <fo:table-cell padding="6pt" border="0.5pt solid black" number-rows-spanned="{@heure div 2}" number-columns-spanned="2" vertical-align="bottom">
+      <xsl:variable name="color" select="'white'"/>
+      <xsl:choose>
+        <xsl:when test="type='CM'"><xsl:variable name="color" select="'mediumpurple'"/>
+         <fo:block vertical-align="bottom" background-color="{$color}"> 
+        <xsl:value-of select="type"/> 
+      </fo:block>
+        </xsl:when>
+        <xsl:when test="type='TD'"><xsl:variable name="color" select="'yellow'"/>
+         <fo:block vertical-align="bottom" background-color="{$color}"> 
+        <xsl:value-of select="type"/> 
+      </fo:block>
+        </xsl:when>
+        <xsl:when test="type='TP'"><xsl:variable name="color" select="'green'"/>
+         <fo:block vertical-align="bottom" background-color="{$color}"> 
+        <xsl:value-of select="type"/> 
+      </fo:block>
+        </xsl:when>
+     </xsl:choose> 
+     
+      <fo:block vertical-align="bottom"> 
+        <xsl:value-of select="matiere"/> 
+      </fo:block>
+      <fo:block vertical-align="bottom"> 
+        <xsl:value-of select="professeur"/> 
+      </fo:block>
+      <fo:block vertical-align="bottom"> 
+        <xsl:value-of select="salle"/> 
+      </fo:block>
+    </fo:table-cell>
+  </xsl:for-each >
+ </xsl:for-each>   
+</xsl:template>
+<xsl:template name="heure2">
+ <xsl:param name="hour" /> 
+   <fo:table-cell padding="6pt" border="1pt solid blue" background-color="silver" number-rows-spanned="1">
+     <fo:block> <xsl:value-of select="$hour"/> </fo:block>   
+   </fo:table-cell>
+
+ <xsl:for-each select="*/heure[@debut=$hour]">
+   <xsl:for-each select="./*/cours">
+    <fo:table-cell padding="6pt" border="0.5pt solid black" number-rows-spanned="{@heure div 2}" number-columns-spanned="2" vertical-align="bottom">
+      <xsl:variable name="color" select="'white'"/>
+      <xsl:choose>
+        <xsl:when test="type='CM'"><xsl:variable name="color" select="'mediumpurple'"/>
+         <fo:block vertical-align="bottom" background-color="{$color}"> 
+        <xsl:value-of select="type"/> 
+      </fo:block>
+        </xsl:when>
+        <xsl:when test="type='TD'"><xsl:variable name="color" select="'yellow'"/>
+         <fo:block vertical-align="bottom" background-color="{$color}"> 
+        <xsl:value-of select="type"/> 
+      </fo:block>
+        </xsl:when>
+        <xsl:when test="type='TP'"><xsl:variable name="color" select="'green'"/>
+         <fo:block vertical-align="bottom" background-color="{$color}"> 
+        <xsl:value-of select="type"/> 
+      </fo:block>
+        </xsl:when>
+     </xsl:choose> 
+      <fo:block vertical-align="bottom"> 
+        <xsl:value-of select="matiere"/> 
+      </fo:block>
+      <fo:block vertical-align="bottom"> 
+        <xsl:value-of select="professeur"/> 
+      </fo:block>
+      <fo:block vertical-align="bottom"> 
+        <xsl:value-of select="salle"/> 
+      </fo:block>
+    </fo:table-cell>
+  </xsl:for-each >
+ </xsl:for-each>   
+</xsl:template>
+<xsl:template name="heure3">
+ <xsl:param name="hour" /> 
+   <fo:table-cell padding="6pt" border="1pt solid blue" background-color="silver" number-rows-spanned="1">
+     <fo:block> <xsl:value-of select="$hour"/> </fo:block>   
+   </fo:table-cell>
+
+ <xsl:for-each select="*/heure[@debut=$hour]">
+   <xsl:for-each select="./*/cours">
+    <fo:table-cell padding="6pt" border="0.5pt solid black" number-rows-spanned="{@heure div 2}" number-columns-spanned="2" vertical-align="bottom">
+       <xsl:variable name="color" select="'white'"/>
+      <xsl:choose>
+        <xsl:when test="type='CM'"><xsl:variable name="color" select="'mediumpurple'"/>
+         <fo:block vertical-align="bottom" background-color="{$color}"> 
+        <xsl:value-of select="type"/> 
+      </fo:block>
+        </xsl:when>
+        <xsl:when test="type='TD'"><xsl:variable name="color" select="'yellow'"/>
+         <fo:block vertical-align="bottom" background-color="{$color}"> 
+        <xsl:value-of select="type"/> 
+      </fo:block>
+        </xsl:when>
+        <xsl:when test="type='TP'"><xsl:variable name="color" select="'green'"/>
+         <fo:block vertical-align="bottom" background-color="{$color}"> 
+        <xsl:value-of select="type"/> 
+      </fo:block>
+        </xsl:when>
+     </xsl:choose> 
+      <fo:block vertical-align="bottom"> 
+        <xsl:value-of select="matiere"/> 
+      </fo:block>
+      <fo:block vertical-align="bottom"> 
+        <xsl:value-of select="professeur"/> 
+      </fo:block>
+      <fo:block vertical-align="bottom"> 
+        <xsl:value-of select="salle"/> 
+      </fo:block>
+    </fo:table-cell>
+  </xsl:for-each >
+ </xsl:for-each>   
+</xsl:template>
+<xsl:template name="heure4">
+ <xsl:param name="hour" /> 
+   <fo:table-cell padding="6pt" border="1pt solid blue" background-color="silver" number-rows-spanned="1">
+     <fo:block> <xsl:value-of select="$hour"/> </fo:block>   
+   </fo:table-cell>
+
+ <xsl:for-each select="*/heure[@debut=$hour]">
+   <xsl:for-each select="./*/cours">
+    <fo:table-cell padding="6pt" border="0.5pt solid black" number-rows-spanned="{@heure div 2}" number-columns-spanned="2" vertical-align="bottom">
+      <xsl:variable name="color" select="'white'"/>
+      <xsl:choose>
+        <xsl:when test="type='CM'"><xsl:variable name="color" select="'mediumpurple'"/>
+         <fo:block vertical-align="bottom" background-color="{$color}"> 
+        <xsl:value-of select="type"/> 
+      </fo:block>
+        </xsl:when>
+        <xsl:when test="type='TD'"><xsl:variable name="color" select="'yellow'"/>
+         <fo:block vertical-align="bottom" background-color="{$color}"> 
+        <xsl:value-of select="type"/> 
+      </fo:block>
+        </xsl:when>
+        <xsl:when test="type='TP'"><xsl:variable name="color" select="'green'"/>
+         <fo:block vertical-align="bottom" background-color="{$color}"> 
+        <xsl:value-of select="type"/> 
+      </fo:block>
+        </xsl:when>
+     </xsl:choose> 
       <fo:block vertical-align="bottom"> 
         <xsl:value-of select="matiere"/> 
       </fo:block>
