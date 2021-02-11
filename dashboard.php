@@ -144,33 +144,32 @@
             <div class="row align-items-start">
 
                 <div class="col">
-                    <div class="card" style="width: 18rem; height :18rem;">
+                    <div class="card text-white bg-success mb-3" style="width: 18rem; height :18rem;">
                         <div class="card-body">
                             <h5 class="card-title">Consulter les résultats d'un Module de GINF2</h5>
-                            <a href="resultat.php" class="btn btn-primary">voir</a>
+                            <a href="resultat.php" class="btn btn-danger">voir</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col">
-                   <div class="card" style="width: 18rem; height :18rem;">   
+                   <div class="card text-white bg-danger mb-3" style="width: 18rem; height :18rem;">   
                      <div class="card-body">
                         <h5 class="card-title">Mettre à jour les données</h5>
-                        <a href="usecase.php" class="btn btn-primary">voir</a>
+                        <a href="usecase.php" class="btn btn-warning">update</a>
                     </div>
                    </div>
                  </div>
 
                    
             <div class="col">
-                    <div class="card" style="width: 18rem; height :18rem;">
+                    <div class="card text-dark bg-warning mb-3" style="width: 18rem; height :18rem;">
                         <div class="card-body">
-                            <h5 class="card-title">Générer les relever de notes des étudiants de GINF2</h5>
-                            <p class="card-text">télécharger un relevé de notes d'un étudiant </p>
+                            <h5 class="card-title">Générer les releves de notes des étudiants de GINF2</h5>
                             <form action="generateurpdf/releve.php" method="GET">
                     <label for="cne">Entrer le CNE( de 330 à 377):</label>
                     <input type="number" id="cne" name="cne">
-                    <input type="submit" class="btn btn-outline-secondary" name="sub">
+                    <input type="submit" class="btn btn-primary" name="sub">
                 </form>
                         </div>
                     </div>
@@ -181,7 +180,7 @@
 
            
                  <div class="col">
-                   <div class="card" style="width: 18rem; height :18rem;">   
+                   <div class="card text-white bg-primary mb-3" style="width: 18rem; height :18rem;">   
                      <div class="card-body">
                         <h5 class="card-title">Générer le procès verbal de la filière GINF2</h5>
                         <form  action="generateurpdf/procesverbal.php" method="GET">
@@ -189,19 +188,19 @@
                     <option value="1">Avec les moyennes des élèves</option>
                     <option value="2">Sans les moyennes des élèves</option>
                      </select>
-                     <input type="submit" class="btn btn-outline-secondary" name="sub">
+                     <input type="submit" class="btn btn-light" name="sub">
                 </form>
                     </div>
                    </div>
                  </div>
                  <div class="col">
-                   <div class="card" style="width: 18rem; height :18rem;">   
+                   <div class="card text-dark bg-light mb-3" style="width: 18rem; height :18rem;">   
                      <div class="card-body">
                         <h5 class="card-title">Générer des attestation de réussite des étudiants de GINF2</h5>
                         <form action="generateurpdf/attestation.php" method="GET">
                     <label for="cne">Entrer le CNE( de 330 à 377):</label>
                     <input type="number" id="cne" name="cne">
-                    <input type="submit" class="btn btn-outline-secondary" name="sub">
+                    <input type="submit" class="btn btn-dark" name="sub">
                 </form>
                     </div>
                    </div>
@@ -209,7 +208,7 @@
 
 
                  <div class="col">
-                   <div class="card" style="width: 18rem; height :18rem;">   
+                   <div class="card text-white bg-dark mb-3" style="width: 18rem; height :18rem;">   
                      <div class="card-body">
                         <h5 class="card-title">Générer des emploi du temps</h5>
                         <form action="liste_groupe.php" method="get">
@@ -218,7 +217,7 @@
                       <option value="avant">Avant CC</option>
                       <option value="apres">Apres CC</option>
                     </select>
-                    <input type="submit" class="btn btn-outline-secondary" name="sub">
+                    <input type="submit" class="btn btn-info" name="sub">
                 </form>
                     </div>
                    </div>
@@ -231,7 +230,7 @@
 <div class="row align-items-start">
 
 <div class="col">
-                    <div class="card" style="width: 18rem; height :18rem;">
+                    <div class="card text-dark bg-info mb-3" style="width: 18rem; height :18rem;">
                         <div class="card-body">
                             <h5 class="card-title">Générer les cartes d'étudiant  </h5>
                             <form action="generateurpdf/carte.php" method="GET">
@@ -258,7 +257,7 @@
                  
                     <label for="cne">Entrer le CNE:</label>
                     <input type="number" id="cne" name="cne">
-                    <input type="submit" class="btn btn-outline-secondary" name="sub">
+                    <input type="submit" class="btn btn-success" name="sub">
                 </form>
                         </div>
                     </div>
