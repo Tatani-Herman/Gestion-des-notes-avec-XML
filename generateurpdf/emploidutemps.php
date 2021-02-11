@@ -1,6 +1,10 @@
 <?php
 require("HTTPPost.php");
 $_GET['class']='GINF2';
+
+if($_GET['periode']=="4eme"){
+  header('Location:../exemplepdf/emploi_ginf2.pdf');
+}
 if(isset($_GET['class']) && isset($_GET['periode']))
 {
     $doc = new DOMDocument();

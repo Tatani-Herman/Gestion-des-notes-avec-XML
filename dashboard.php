@@ -89,6 +89,7 @@
               <form action="generateurpdf/emploidutemps.php" method="get">
                 <label for="Class">Choisissez une periode:</label>
                 <select name="periode" id="periode">
+                  <option value="4eme">4ieme semaine</option>
                   <option value="avant">Avant CC</option>
                   <option value="apres">Apres CC</option>
                 </select>
