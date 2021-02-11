@@ -106,7 +106,18 @@
                     <input type="submit" class="btn btn-outline-secondary" name="sub">
                 </form>
                 </div></a>
-                <a href="generateurpdf/emploidutemps.php" class="list-group-item list-group-item-action list-group-item-success">Générer des emploi du temps</a>
+                <a href="generateurpdf/emploidutemps.php" class="list-group-item list-group-item-action list-group-item-success">Générer des emploi du temps
+                <div>
+              <form action="liste_groupe.php" method="get">
+              <label for="Class">Choisissez une periode:</label>
+                    <select name="periode" id="periode">
+                      <option value="avant">Avant CC</option>
+                      <option value="apres">Apres CC</option>
+                    </select>
+                    <input type="submit" class="btn btn-outline-secondary" name="sub">
+                </form>
+                </div>
+                </a>
               <a href="usecase.php" class="list-group-item list-group-item-action list-group-item-dark">Mettre à jour les données</a>
      </div>
     </div>
