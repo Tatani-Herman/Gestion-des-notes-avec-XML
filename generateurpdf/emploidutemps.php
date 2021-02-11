@@ -1,17 +1,17 @@
 <?php
 require("HTTPPost.php");
 $_GET['class']='GINF2';
-if(isset($_GET['class']))
+if(isset($_GET['class']) && isset($_GET['periode']))
 {
     $doc = new DOMDocument();
-    $doc->load('../xmlResources/emploidutemps_'.$_GET['class'].'.xml');
+    $doc->load('../xmlResources/emploidutemps_'.$_GET['class'].'_'.$_GET['periode'].'CC.xml');
 
   $emploiXml=$doc->saveXML();
   $httppost=new HTTPPost();
-  $pdfdata=$httppost->post_request("localhost","8087","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/emploidutemps.xsl",$emploiXml);
+  $pdfdata=$httppost->post_request("localhost","8087","C://wamp/www/Gestion-des-notes-avec-XML/xsl_foFiles/emploidutemps_dy.xsl",$emploiXml);
 
     // save PDF output to a PDF file
-    $myFile = $_GET['class']."_".$_GET['cne']."_attestation.pdf";
+    $myFile = $_GET['class']."emploidutemps.pdf";
     $fh = fopen($myFile, 'w') or die("can't open file");
     fwrite($fh, $pdfdata);
     fclose($fh);
@@ -27,7 +27,7 @@ if(isset($_GET['class']))
     // Read the file 
     @readfile($myFile); 
     //DELETE PDF
-    unlink($myFile);
+ unlink($myFile);
     }
 else{
     //redirect to dashboard
