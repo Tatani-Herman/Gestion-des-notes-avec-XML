@@ -1,6 +1,5 @@
 <?php
 require("HTTPPost.php");
-$_GET['class']='GINF2';
 if(isset($_GET['class']))
 {
     $doc = new DOMDocument();
