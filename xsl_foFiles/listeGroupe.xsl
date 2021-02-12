@@ -32,7 +32,8 @@ flow-name="xsl-region-body"
  <fo:block text-align="center" padding-top="8mm">
 				<xsl:text >Liste des groupes d'élèves</xsl:text>
 </fo:block>
-  <!--- <xsl:for-each-group select="student" group-by="(position() - 1) idiv 24"> -->
+ <xsl:for-each-group select="student" group-by="position() - 1) idiv 24"> 
+ 
     <fo:table >
             <fo:table-column column-width="4cm"/>
             <fo:table-column column-width="10cm"/>
@@ -54,15 +55,14 @@ flow-name="xsl-region-body"
        <fo:block> <xsl:value-of select="CNE"/></fo:block>
          </fo:table-cell>
          <fo:table-cell>        
-          <fo:block> <xsl:value-of select="FirstName"/></fo:block>
-           <fo:block> <xsl:value-of select="LastName"/></fo:block>  
+          <fo:block> <xsl:value-of select="FirstName"/> <xsl:value-of select="LastName"/></fo:block>  
          </fo:table-cell>
          
       </fo:table-row>
        </xsl:for-each>
      </fo:table-body>
 </fo:table>
- <!-- </xsl:for-each-group>--> 
+ </xsl:for-each-group>
 
 
 

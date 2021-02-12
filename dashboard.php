@@ -142,7 +142,7 @@
 
 
         <div class="col">
-          <div class="card text-dark bg-info mb-3" style="width: 18rem; height :18rem;">
+          <div class="card text-white bg-success mb-3" style="width: 18rem; height :18rem;">
             <div class="card-body">
               <h5 class="card-title">Générer les listes des étudiants </h5>
               <form action="generateurpdf/listeGroupe.php" method="GET">
@@ -166,7 +166,7 @@
                   <option value="G3EI2">G3EI2</option>
                   <option value="G3EI3">G3EI3</option>
                 </select>
-                <input type="submit" class="btn btn-success" name="sub">
+                <input type="submit" class="btn btn-info" name="sub">
               </form>
             </div>
           </div>
