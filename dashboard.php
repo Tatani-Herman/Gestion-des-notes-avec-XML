@@ -138,6 +138,43 @@
             </div>
           </div>
         </div>
+
+
+
+        <div class="col">
+          <div class="card text-dark bg-info mb-3" style="width: 18rem; height :18rem;">
+            <div class="card-body">
+              <h5 class="card-title">Générer les listes des étudiants </h5>
+              <form action="generateurpdf/listeGroupe.php" method="GET">
+                <label for="Class">Choisissez une classe:</label>
+                <select name="class" id="Class">
+                  <option value="AP1">AP1</option>
+                  <option value="AP2">AP2</option>
+                  <option value="GINF1">GINF1</option>
+                  <option value="GINF2">GINF2</option>
+                  <option value="GINF3">GINF3</option>
+                  <option value="GIL1">GIL1</option>
+                  <option value="GIL2">GIL2</option>
+                  <option value="GIL3">GIL3</option>
+                  <option value="GSTR1">GSTR1</option>
+                  <option value="GSTR2">GSTR2</option>
+                  <option value="GSTR3">GSTR3</option>
+                  <option value="GSEA1">GSEA1</option>
+                  <option value="GSEA2">GSEA2</option>
+                  <option value="GSEA3">GSEA3</option>
+                  <option value="G3EI1">G3EI1</option>
+                  <option value="G3EI2">G3EI2</option>
+                  <option value="G3EI3">G3EI3</option>
+                </select>
+                <input type="submit" class="btn btn-success" name="sub">
+              </form>
+            </div>
+          </div>
+        </div>
+
+
+
+
       </div>
     </div>
   </div>
