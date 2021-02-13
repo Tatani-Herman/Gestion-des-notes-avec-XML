@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
-<!DOCTYPE professeurs SYSTEM "professeurs.dtd">
-<professeurs>
+<professeurs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/professeurs.xsd">
   <professeur>
-    <CNE>1</CNE>
+    <CIN>1</CIN>
     <LastName>El Haddad</LastName>
     <FirstName>Mohamed</FirstName>
     <Dept_Attachement>SIC</Dept_Attachement>
@@ -12,7 +11,7 @@
     <matiere>GINF52</matiere>
   </professeur>
   <professeur>
-    <CNE>2</CNE>
+    <CIN>2</CIN>
     <LastName>Hassan</LastName>
     <FirstName>Badir</FirstName>
     <Dept_Attachement>SIC</Dept_Attachement>
@@ -21,7 +20,7 @@
     <matiere>GINF36</matiere>
   </professeur>
   <professeur>
-    <CNE>3</CNE>
+    <CIN>3</CIN>
     <LastName>El Alami</LastName>
     <FirstName>Hassoun</FirstName>
     <Dept_Attachement>MI</Dept_Attachement>
@@ -30,7 +29,7 @@
     <matiere>GINF41</matiere>
   </professeur>
   <professeur>
-    <CNE>4</CNE>
+    <CIN>4</CIN>
     <LastName>Amechnoue</LastName>
     <FirstName>Khalid</FirstName>
     <Dept_Attachement>MI</Dept_Attachement>
@@ -40,7 +39,7 @@
     <matiere>GINF42</matiere>
   </professeur>
   <professeur>
-    <CNE>5</CNE>
+    <CIN>5</CIN>
     <LastName>Fissoune</LastName>
     <FirstName>Rachida</FirstName>
     <Dept_Attachement>SIC</Dept_Attachement>
@@ -49,7 +48,7 @@
     <matiere>GINF25</matiere>
   </professeur>
   <professeur>
-    <CNE>6</CNE>
+    <CIN>6</CIN>
     <LastName>El Azzouzi</LastName>
     <FirstName>Rahali</FirstName>
     <Dept_Attachement>SIC</Dept_Attachement>
