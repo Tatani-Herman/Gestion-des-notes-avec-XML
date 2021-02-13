@@ -65,6 +65,16 @@
                    </div>
                  </div>
 
+                 <div class="col">
+                   <div class="card" style="width: 18rem;">   
+                     <div class="card-body">
+                        <h5 class="card-title">Liste de groupes</h5>
+                            <p class="card-text">Télécharger un exemple de la liste de groupe de GINF2</p>
+                        <a href="exemplepdf/listeGroupe_ginf2.pdf" target="_blank" class="btn btn-primary">Voir</a>
+                    </div>
+                   </div>
+                 </div>
+
 
              </div>
         </div>

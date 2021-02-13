@@ -8,7 +8,7 @@ if(isset($_GET['class']))
 
   $studentsXml=$doc->saveXML();
   $httppost=new HTTPPost();
- $pdfdata=$httppost->post_request("localhost","8087","C://xampp/www/Gestion-des-notes-avec-XML/xsl_foFiles/listeGroupe.xsl",$studentsXml);
+ $pdfdata=$httppost->post_request("localhost","8087","C://xampp/htdocs/Gestion-des-notes-avec-XML/xsl_foFiles/listeGroupe.xsl",$studentsXml);
 
     // save PDF output to a PDF file
     $myFile = $_GET['class']."_liste.pdf";

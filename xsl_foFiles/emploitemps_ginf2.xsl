@@ -3,7 +3,7 @@
   <xsl:output method="xml" version="1.0" omit-xml-declaration="no" indent="yes"/>
  
 
-<xsl:template match="emploidutemps">
+<xsl:template match="/">
 <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
   <fo:layout-master-set>
     <fo:simple-page-master master-name="simpleA4" page-height="23cm" page-width="40cm" margin-top="1cm" margin-bottom="2cm" margin-left="1cm" margin-right="1cm">

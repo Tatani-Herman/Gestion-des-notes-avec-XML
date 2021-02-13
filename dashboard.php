@@ -144,7 +144,17 @@
         <div class="col">
           <div class="card text-white bg-success mb-3" style="width: 18rem; height :18rem;">
             <div class="card-body">
-              <h5 class="card-title">Générer les listes des étudiants </h5>
+              <h5 class="card-title">Générer les fichiers XML des listes de groupes</h5>
+              <a href="generate_liste_groupe.php" class="btn btn-danger">Génerer</a>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col">
+          <div class="card text-white bg-danger mb-3" style="width: 18rem; height :18rem;">
+            <div class="card-body">
+              <h5 class="card-title">Afficher sous format PDF les listes de groupes </h5>
               <form action="generateurpdf/listeGroupe.php" method="GET">
                 <label for="Class">Choisissez une classe:</label>
                 <select name="class" id="Class">
@@ -166,21 +176,13 @@
                   <option value="G3EI2">G3EI2</option>
                   <option value="G3EI3">G3EI3</option>
                 </select>
-                <input type="submit" class="btn btn-info" name="sub">
+                <input type="submit" class="btn btn-warning" name="sub">
               </form>
             </div>
           </div>
         </div>
 
-        <div class="col">
-          <div class="card text-white bg-info mb-3" style="width: 18rem; height :18rem;">
-            <div class="card-body">
-              <h5 class="card-title">Générer les fichiers XML des listes de groupes</h5>
-              <a href="generate_liste_groupe.php" class="btn btn-success">Génerer</a>
-            </div>
-          </div>
-        </div>
-
+        
 
       </div>
     </div>
