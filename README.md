@@ -1,5 +1,5 @@
 # Gestion des notes avec XML
-Programme web qui permet de générer à la demande les documents des étudiants de l'ENSAT: cartes d'étudiant, attestations de réussite, relévés de notes, procès verbal, emplois de temps, listes de groupes....
+Plateforme web qui permet de générer à la demande les documents des étudiants de l'ENSAT: cartes d'étudiant, attestations de réussite, relévés de notes, procès verbal, emplois de temps, listes de groupes....
 
 ![](/img/github/xml1.PNG)
 
@@ -35,11 +35,11 @@ Dans l'invite de commande, placer vous à l'emplacement de votre serveur apache 
  
  
 ## Contributeurs
-* [Seta-Art](https://github.com/Seta-art)
+* [Tolly Stephane](https://github.com/Seta-art)
 * [Tatani Herman](https://github.com/Tatani-Herman)
 
 ## Quelques images de la plateforme
-![](/img/github/xml2.PNG)
-![](/img/github/xml3.PNG)
-![](/img/github/xml4.PNG)
+![](/img/github/xml2.PNG)<br/>
+![](/img/github/xml3.PNG)<br/>
+![](/img/github/xml4.PNG)<br/>
 ![](/img/github/xml5.PNG)
