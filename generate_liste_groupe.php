@@ -30,5 +30,6 @@ foreach($arrayClass as $key=>$class)
   $result->save('xmlResources/listeGroupesXml/liste_'.$class.'_Gr'.($i+1).'.xml');
     }
 }
+header('Location: dashboard.php');
 
 ?>

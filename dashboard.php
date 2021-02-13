@@ -172,7 +172,14 @@
           </div>
         </div>
 
-
+        <div class="col">
+          <div class="card text-white bg-info mb-3" style="width: 18rem; height :18rem;">
+            <div class="card-body">
+              <h5 class="card-title">Générer les fichiers XML des listes de groupes</h5>
+              <a href="generate_liste_groupe.php" class="btn btn-success">Génerer</a>
+            </div>
+          </div>
+        </div>
 
 
       </div>
