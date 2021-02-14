@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
-<!DOCTYPE professeurs SYSTEM "professeurs.dtd">
-<professeurs>
+<professeurs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/professeurs.xsd">
   <professeur>
     <CIN>1</CIN>
     <LastName>El Haddad</LastName>
