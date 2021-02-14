@@ -1,170 +1,170 @@
 <?xml version="1.0"?>
 <students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/Gestion-des-notes-avec-XML/validationResources/students.xsd"><student>
     <CNE>947</CNE>
-    <LastName>Hilel</LastName>
-    <FirstName>Hernandez</FirstName>
-    <DateofBirth>11/05/2002</DateofBirth>
-    <Phone>05 91 47 06 68</Phone>
-    <Email>pede.sagittis@est.org</Email>
+    <LastName>Kindell</LastName>
+    <FirstName>Bevon</FirstName>
+    <DateofBirth>18/03/2001</DateofBirth>
+    <Phone>895 874 1362</Phone>
+    <Email>kgratton0@comsenz.com</Email>
   </student><student>
     <CNE>948</CNE>
-    <LastName>Silas</LastName>
-    <FirstName>Vincent</FirstName>
-    <DateofBirth>12/02/2003</DateofBirth>
-    <Phone>05 25 58 07 68</Phone>
-    <Email>eget@odio.edu</Email>
+    <LastName>Durak</LastName>
+    <FirstName>Lottie</FirstName>
+    <DateofBirth>07/12/1999</DateofBirth>
+    <Phone>274 958 7127</Phone>
+    <Email>mfeavers1@yahoo.com</Email>
   </student><student>
     <CNE>949</CNE>
-    <LastName>Ian</LastName>
-    <FirstName>Petty</FirstName>
-    <DateofBirth>21/03/2004</DateofBirth>
-    <Phone>02 33 69 38 76</Phone>
-    <Email>justo.Praesent@vitaeorciPhasellus.edu</Email>
+    <LastName>Treven</LastName>
+    <FirstName>L;urette</FirstName>
+    <DateofBirth>16/05/1999</DateofBirth>
+    <Phone>737 407 3617</Phone>
+    <Email>doiseau2@com.com</Email>
   </student><student>
     <CNE>950</CNE>
-    <LastName>Fulton</LastName>
-    <FirstName>Powell</FirstName>
-    <DateofBirth>24/07/2004</DateofBirth>
-    <Phone>03 92 59 15 86</Phone>
-    <Email>mi.Duis.risus@dapibusquamquis.ca</Email>
+    <LastName>Paulig</LastName>
+    <FirstName>Selene</FirstName>
+    <DateofBirth>11/03/2001</DateofBirth>
+    <Phone>449 122 3376</Phone>
+    <Email>hquaif3@vk.com</Email>
   </student><student>
     <CNE>951</CNE>
-    <LastName>Nehru</LastName>
-    <FirstName>Haley</FirstName>
-    <DateofBirth>29/07/2002</DateofBirth>
-    <Phone>08 85 13 11 87</Phone>
-    <Email>mauris.Integer.sem@vitaeerat.net</Email>
+    <LastName>Reddie</LastName>
+    <FirstName>Beck</FirstName>
+    <DateofBirth>12/02/2000</DateofBirth>
+    <Phone>880 122 3441</Phone>
+    <Email>hvaskov4@smugmug.com</Email>
   </student><student>
     <CNE>952</CNE>
-    <LastName>Trevor</LastName>
-    <FirstName>Austin</FirstName>
-    <DateofBirth>23/02/1998</DateofBirth>
-    <Phone>06 32 56 21 59</Phone>
-    <Email>id.enim.Curabitur@sem.ca</Email>
+    <LastName>Bingall</LastName>
+    <FirstName>Halie</FirstName>
+    <DateofBirth>07/10/2001</DateofBirth>
+    <Phone>757 705 7394</Phone>
+    <Email>ahartnup5@time.com</Email>
   </student><student>
     <CNE>953</CNE>
-    <LastName>Dalton</LastName>
-    <FirstName>Petersen</FirstName>
-    <DateofBirth>01/02/2005</DateofBirth>
-    <Phone>09 73 48 70 64</Phone>
-    <Email>molestie.Sed@vitae.com</Email>
+    <LastName>Lillee</LastName>
+    <FirstName>Jasmin</FirstName>
+    <DateofBirth>21/04/1998</DateofBirth>
+    <Phone>810 218 8096</Phone>
+    <Email>fdornin6@mtv.com</Email>
   </student><student>
     <CNE>954</CNE>
-    <LastName>Jaime</LastName>
-    <FirstName>Hicks</FirstName>
-    <DateofBirth>28/05/2000</DateofBirth>
-    <Phone>09 02 06 49 89</Phone>
-    <Email>luctus.sit.amet@eu.edu</Email>
+    <LastName>Armstrong</LastName>
+    <FirstName>Corine</FirstName>
+    <DateofBirth>12/08/2000</DateofBirth>
+    <Phone>247 307 0312</Phone>
+    <Email>adeftie7@nba.com</Email>
   </student><student>
     <CNE>955</CNE>
-    <LastName>Anne</LastName>
-    <FirstName>Camacho</FirstName>
-    <DateofBirth>18/05/2001</DateofBirth>
-    <Phone>01 36 48 50 97</Phone>
-    <Email>ipsum@ametfaucibus.ca</Email>
+    <LastName>Ugolini</LastName>
+    <FirstName>Currie</FirstName>
+    <DateofBirth>27/12/1999</DateofBirth>
+    <Phone>879 267 7263</Phone>
+    <Email>fdavet8@fda.gov</Email>
   </student><student>
     <CNE>956</CNE>
-    <LastName>Leo</LastName>
-    <FirstName>Glover</FirstName>
-    <DateofBirth>29/07/1999</DateofBirth>
-    <Phone>06 13 46 40 17</Phone>
-    <Email>ligula.Aliquam@adipiscingelitCurabitur.net</Email>
+    <LastName>Hallad</LastName>
+    <FirstName>Barbe</FirstName>
+    <DateofBirth>24/05/1998</DateofBirth>
+    <Phone>928 497 2546</Phone>
+    <Email>rkinson9@youtube.com</Email>
   </student><student>
     <CNE>957</CNE>
-    <LastName>Marvin</LastName>
-    <FirstName>Hyde</FirstName>
-    <DateofBirth>24/10/2003</DateofBirth>
-    <Phone>01 64 64 40 16</Phone>
-    <Email>molestie.arcu@tinciduntDonecvitae.ca</Email>
+    <LastName>Sperring</LastName>
+    <FirstName>Glynis</FirstName>
+    <DateofBirth>16/12/1998</DateofBirth>
+    <Phone>972 473 9366</Phone>
+    <Email>ynorthidgea@joomla.org</Email>
   </student><student>
     <CNE>958</CNE>
-    <LastName>Shelley</LastName>
-    <FirstName>Daugherty</FirstName>
-    <DateofBirth>02/01/2001</DateofBirth>
-    <Phone>02 18 94 01 80</Phone>
-    <Email>sodales@aliquetlobortisnisi.edu</Email>
+    <LastName>Staresmeare</LastName>
+    <FirstName>Hubie</FirstName>
+    <DateofBirth>25/05/1998</DateofBirth>
+    <Phone>278 277 9521</Phone>
+    <Email>bhabgoodb@cdbaby.com</Email>
   </student><student>
     <CNE>959</CNE>
-    <LastName>Wyoming</LastName>
-    <FirstName>Carroll</FirstName>
-    <DateofBirth>19/03/2003</DateofBirth>
-    <Phone>03 61 52 27 04</Phone>
-    <Email>sollicitudin.commodo@convallis.co.uk</Email>
+    <LastName>O'Regan</LastName>
+    <FirstName>Saudra</FirstName>
+    <DateofBirth>04/08/2000</DateofBirth>
+    <Phone>944 652 9437</Phone>
+    <Email>kheggisonc@bloglines.com</Email>
   </student><student>
     <CNE>960</CNE>
-    <LastName>Benedict</LastName>
-    <FirstName>Edwards</FirstName>
-    <DateofBirth>10/01/2004</DateofBirth>
-    <Phone>06 12 46 88 93</Phone>
-    <Email>quam@ullamcorper.com</Email>
+    <LastName>Paggitt</LastName>
+    <FirstName>Desi</FirstName>
+    <DateofBirth>03/12/2001</DateofBirth>
+    <Phone>140 278 5207</Phone>
+    <Email>aproffittd@zimbio.com</Email>
   </student><student>
     <CNE>961</CNE>
-    <LastName>Eric</LastName>
-    <FirstName>Mullen</FirstName>
-    <DateofBirth>23/09/2003</DateofBirth>
-    <Phone>02 72 28 96 15</Phone>
-    <Email>justo.Proin.non@est.ca</Email>
+    <LastName>Pellman</LastName>
+    <FirstName>Verna</FirstName>
+    <DateofBirth>28/06/2001</DateofBirth>
+    <Phone>141 526 4956</Phone>
+    <Email>asigarse@about.me</Email>
   </student><student>
     <CNE>962</CNE>
-    <LastName>Jennifer</LastName>
-    <FirstName>Dickson</FirstName>
-    <DateofBirth>13/07/2004</DateofBirth>
-    <Phone>04 88 12 25 58</Phone>
-    <Email>id@Phasellusdapibusquam.co.uk</Email>
+    <LastName>Kildahl</LastName>
+    <FirstName>Shirlene</FirstName>
+    <DateofBirth>08/04/1998</DateofBirth>
+    <Phone>293 712 7875</Phone>
+    <Email>lburtonwoodf@upenn.edu</Email>
   </student><student>
     <CNE>963</CNE>
-    <LastName>Zachary</LastName>
-    <FirstName>Sloan</FirstName>
-    <DateofBirth>12/04/2003</DateofBirth>
-    <Phone>02 28 37 30 32</Phone>
-    <Email>cursus.vestibulum@Duis.org</Email>
+    <LastName>Fetherston</LastName>
+    <FirstName>Krisha</FirstName>
+    <DateofBirth>26/10/2001</DateofBirth>
+    <Phone>508 188 8449</Phone>
+    <Email>gschiellg@typepad.com</Email>
   </student><student>
     <CNE>964</CNE>
-    <LastName>Natalie</LastName>
-    <FirstName>Molina</FirstName>
-    <DateofBirth>25/07/2004</DateofBirth>
-    <Phone>09 30 15 64 76</Phone>
-    <Email>Maecenas@anteMaecenas.co.uk</Email>
+    <LastName>Treanor</LastName>
+    <FirstName>Gerty</FirstName>
+    <DateofBirth>01/02/2000</DateofBirth>
+    <Phone>845 592 5119</Phone>
+    <Email>kweedsh@ow.ly</Email>
   </student><student>
     <CNE>965</CNE>
-    <LastName>Hunter</LastName>
-    <FirstName>Christensen</FirstName>
-    <DateofBirth>21/09/2001</DateofBirth>
-    <Phone>09 54 89 53 51</Phone>
-    <Email>est@vitae.net</Email>
+    <LastName>Schirak</LastName>
+    <FirstName>Charles</FirstName>
+    <DateofBirth>19/02/1999</DateofBirth>
+    <Phone>419 336 6937</Phone>
+    <Email>fmidsoni@weather.com</Email>
   </student><student>
     <CNE>966</CNE>
-    <LastName>Victoria</LastName>
-    <FirstName>Griffin</FirstName>
-    <DateofBirth>22/12/2004</DateofBirth>
-    <Phone>01 44 48 48 36</Phone>
-    <Email>arcu.Vestibulum@bibendum.co.uk</Email>
+    <LastName>Alelsandrovich</LastName>
+    <FirstName>Katuscha</FirstName>
+    <DateofBirth>25/02/1998</DateofBirth>
+    <Phone>303 220 5285</Phone>
+    <Email>iivanikhinj@hhs.gov</Email>
   </student><student>
     <CNE>967</CNE>
-    <LastName>Hillary</LastName>
-    <FirstName>Delgado</FirstName>
-    <DateofBirth>21/02/2002</DateofBirth>
-    <Phone>06 40 74 89 93</Phone>
-    <Email>mi@Praesent.ca</Email>
+    <LastName>Arrol</LastName>
+    <FirstName>Charissa</FirstName>
+    <DateofBirth>28/04/1998</DateofBirth>
+    <Phone>184 741 2562</Phone>
+    <Email>htevelovk@thetimes.co.uk</Email>
   </student><student>
     <CNE>968</CNE>
-    <LastName>Brent</LastName>
-    <FirstName>Brady</FirstName>
-    <DateofBirth>11/03/2003</DateofBirth>
-    <Phone>06 70 27 16 22</Phone>
-    <Email>porttitor.interdum.Sed@quam.co.uk</Email>
+    <LastName>Graben</LastName>
+    <FirstName>Merrielle</FirstName>
+    <DateofBirth>03/10/1998</DateofBirth>
+    <Phone>689 331 2520</Phone>
+    <Email>dmactimpanyl@rakuten.co.jp</Email>
   </student><student>
     <CNE>969</CNE>
-    <LastName>Hamish</LastName>
-    <FirstName>Quinn</FirstName>
-    <DateofBirth>29/11/1999</DateofBirth>
-    <Phone>09 04 34 86 99</Phone>
-    <Email>Integer@cursus.net</Email>
+    <LastName>Mercik</LastName>
+    <FirstName>Lucy</FirstName>
+    <DateofBirth>17/03/1999</DateofBirth>
+    <Phone>977 587 4639</Phone>
+    <Email>gmollisonm@amazon.de</Email>
   </student><student>
     <CNE>970</CNE>
-    <LastName>Anika</LastName>
-    <FirstName>Madden</FirstName>
-    <DateofBirth>21/04/2002</DateofBirth>
-    <Phone>05 55 85 87 80</Phone>
-    <Email>neque@eu.co.uk</Email>
+    <LastName>Taft</LastName>
+    <FirstName>Evita</FirstName>
+    <DateofBirth>04/11/2000</DateofBirth>
+    <Phone>847 310 0536</Phone>
+    <Email>cblundenn@paypal.com</Email>
   </student></students>
