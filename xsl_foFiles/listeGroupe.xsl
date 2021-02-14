@@ -80,7 +80,7 @@
 
          <fo:table-body>
          <xsl:for-each select="students/student">
-           <xsl:if test="position() &gt; 24">
+           <xsl:if test="position() &gt; 24 and position() &lt; 49">
               <fo:table-row height="0.5cm" border-color="black" border-width="0.4mm" border-style="solid">
             <fo:table-cell>
              <fo:block> <xsl:value-of select="CNE"/></fo:block>
@@ -96,7 +96,327 @@
     </xsl:for-each>
     </fo:table-body>
   </fo:table>
+
+  <xsl:if test="count(student) &gt; 48">
+
+<fo:block space-before="1cm" font-weight="bold" space-after="0.5cm" text-align="center"> Groupe 3 </fo:block>
+  <fo:table border-color="black" border-width="0.4mm" border-style="solid" text-align="center" display-align="center" table-layout="fixed" width="100%">
+        <fo:table-column column-width="2cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+
+  <fo:table-header background-color="silver" display-align="center">        
+          <fo:table-row font-weight="bold" height="1cm" border-color="black" border-width="0.4mm" border-style="solid">
+           <fo:table-cell>
+              <fo:block>CNE</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>NOM</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>PRENOM</fo:block>
+            </fo:table-cell>
+          </fo:table-row>
+        </fo:table-header>
+
+         <fo:table-body>
+         <xsl:for-each select="students/student">
+           <xsl:if test="position() &gt; 48 and position() &lt; 73">
+              <fo:table-row height="0.5cm" border-color="black" border-width="0.4mm" border-style="solid">
+            <fo:table-cell>
+             <fo:block> <xsl:value-of select="CNE"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block> <xsl:value-of select="FirstName"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block><xsl:value-of select="LastName"/> </fo:block>
+            </fo:table-cell>
+            </fo:table-row>
+            </xsl:if>
+    </xsl:for-each>
+    </fo:table-body>
+  </fo:table>
+
+<fo:block space-before="1cm" font-weight="bold" space-after="0.5cm" text-align="center"> Groupe 4 </fo:block>
+  <fo:table border-color="black" border-width="0.4mm" border-style="solid" text-align="center" display-align="center" table-layout="fixed" width="100%">
+        <fo:table-column column-width="2cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+
+  <fo:table-header background-color="silver" display-align="center">        
+          <fo:table-row font-weight="bold" height="1cm" border-color="black" border-width="0.4mm" border-style="solid">
+           <fo:table-cell>
+              <fo:block>CNE</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>NOM</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>PRENOM</fo:block>
+            </fo:table-cell>
+          </fo:table-row>
+        </fo:table-header>
+
+         <fo:table-body>
+         <xsl:for-each select="students/student">
+           <xsl:if test="position() &gt; 72 and position() &lt; 97">
+              <fo:table-row height="0.5cm" border-color="black" border-width="0.4mm" border-style="solid">
+            <fo:table-cell>
+             <fo:block> <xsl:value-of select="CNE"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block> <xsl:value-of select="FirstName"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block><xsl:value-of select="LastName"/> </fo:block>
+            </fo:table-cell>
+            </fo:table-row>
+            </xsl:if>
+    </xsl:for-each>
+    </fo:table-body>
+  </fo:table>
+
+  <fo:block space-before="1cm" font-weight="bold" space-after="0.5cm" text-align="center"> Groupe 5 </fo:block>
+  <fo:table border-color="black" border-width="0.4mm" border-style="solid" text-align="center" display-align="center" table-layout="fixed" width="100%">
+        <fo:table-column column-width="2cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+
+  <fo:table-header background-color="silver" display-align="center">        
+          <fo:table-row font-weight="bold" height="1cm" border-color="black" border-width="0.4mm" border-style="solid">
+           <fo:table-cell>
+              <fo:block>CNE</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>NOM</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>PRENOM</fo:block>
+            </fo:table-cell>
+          </fo:table-row>
+        </fo:table-header>
+
+         <fo:table-body>
+         <xsl:for-each select="students/student">
+           <xsl:if test="position() &gt; 96 and position() &lt; 121">
+              <fo:table-row height="0.5cm" border-color="black" border-width="0.4mm" border-style="solid">
+            <fo:table-cell>
+             <fo:block> <xsl:value-of select="CNE"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block> <xsl:value-of select="FirstName"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block><xsl:value-of select="LastName"/> </fo:block>
+            </fo:table-cell>
+            </fo:table-row>
+            </xsl:if>
+    </xsl:for-each>
+    </fo:table-body>
+  </fo:table>
+
+  <fo:block space-before="1cm" font-weight="bold" space-after="0.5cm" text-align="center"> Groupe 6 </fo:block>
+  <fo:table border-color="black" border-width="0.4mm" border-style="solid" text-align="center" display-align="center" table-layout="fixed" width="100%">
+        <fo:table-column column-width="2cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+
+  <fo:table-header background-color="silver" display-align="center">        
+          <fo:table-row font-weight="bold" height="1cm" border-color="black" border-width="0.4mm" border-style="solid">
+           <fo:table-cell>
+              <fo:block>CNE</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>NOM</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>PRENOM</fo:block>
+            </fo:table-cell>
+          </fo:table-row>
+        </fo:table-header>
+
+         <fo:table-body>
+         <xsl:for-each select="students/student">
+           <xsl:if test="position() &gt; 120 and position() &lt; 145">
+              <fo:table-row height="0.5cm" border-color="black" border-width="0.4mm" border-style="solid">
+            <fo:table-cell>
+             <fo:block> <xsl:value-of select="CNE"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block> <xsl:value-of select="FirstName"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block><xsl:value-of select="LastName"/> </fo:block>
+            </fo:table-cell>
+            </fo:table-row>
+            </xsl:if>
+    </xsl:for-each>
+    </fo:table-body>
+  </fo:table>
+
+  <fo:block space-before="1cm" font-weight="bold" space-after="0.5cm" text-align="center"> Groupe 7 </fo:block>
+  <fo:table border-color="black" border-width="0.4mm" border-style="solid" text-align="center" display-align="center" table-layout="fixed" width="100%">
+        <fo:table-column column-width="2cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+
+  <fo:table-header background-color="silver" display-align="center">        
+          <fo:table-row font-weight="bold" height="1cm" border-color="black" border-width="0.4mm" border-style="solid">
+           <fo:table-cell>
+              <fo:block>CNE</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>NOM</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>PRENOM</fo:block>
+            </fo:table-cell>
+          </fo:table-row>
+        </fo:table-header>
+
+         <fo:table-body>
+         <xsl:for-each select="students/student">
+           <xsl:if test="position() &gt; 144 and position() &lt; 169">
+              <fo:table-row height="0.5cm" border-color="black" border-width="0.4mm" border-style="solid">
+            <fo:table-cell>
+             <fo:block> <xsl:value-of select="CNE"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block> <xsl:value-of select="FirstName"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block><xsl:value-of select="LastName"/> </fo:block>
+            </fo:table-cell>
+            </fo:table-row>
+            </xsl:if>
+    </xsl:for-each>
+    </fo:table-body>
+  </fo:table>
+
+  <fo:block space-before="1cm" font-weight="bold" space-after="0.5cm" text-align="center"> Groupe 8 </fo:block>
+  <fo:table border-color="black" border-width="0.4mm" border-style="solid" text-align="center" display-align="center" table-layout="fixed" width="100%">
+        <fo:table-column column-width="2cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+
+  <fo:table-header background-color="silver" display-align="center">        
+          <fo:table-row font-weight="bold" height="1cm" border-color="black" border-width="0.4mm" border-style="solid">
+           <fo:table-cell>
+              <fo:block>CNE</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>NOM</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>PRENOM</fo:block>
+            </fo:table-cell>
+          </fo:table-row>
+        </fo:table-header>
+
+         <fo:table-body>
+         <xsl:for-each select="students/student">
+           <xsl:if test="position() &gt; 168 and position() &lt; 193">
+              <fo:table-row height="0.5cm" border-color="black" border-width="0.4mm" border-style="solid">
+            <fo:table-cell>
+             <fo:block> <xsl:value-of select="CNE"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block> <xsl:value-of select="FirstName"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block><xsl:value-of select="LastName"/> </fo:block>
+            </fo:table-cell>
+            </fo:table-row>
+            </xsl:if>
+    </xsl:for-each>
+    </fo:table-body>
+  </fo:table>
+
+<fo:block space-before="1cm" font-weight="bold" space-after="0.5cm" text-align="center"> Groupe 9 </fo:block>
+  <fo:table border-color="black" border-width="0.4mm" border-style="solid" text-align="center" display-align="center" table-layout="fixed" width="100%">
+        <fo:table-column column-width="2cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+
+  <fo:table-header background-color="silver" display-align="center">        
+          <fo:table-row font-weight="bold" height="1cm" border-color="black" border-width="0.4mm" border-style="solid">
+           <fo:table-cell>
+              <fo:block>CNE</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>NOM</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>PRENOM</fo:block>
+            </fo:table-cell>
+          </fo:table-row>
+        </fo:table-header>
+
+         <fo:table-body>
+         <xsl:for-each select="students/student">
+           <xsl:if test="position() &gt; 192 and position() &lt; 217">
+              <fo:table-row height="0.5cm" border-color="black" border-width="0.4mm" border-style="solid">
+            <fo:table-cell>
+             <fo:block> <xsl:value-of select="CNE"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block> <xsl:value-of select="FirstName"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block><xsl:value-of select="LastName"/> </fo:block>
+            </fo:table-cell>
+            </fo:table-row>
+            </xsl:if>
+    </xsl:for-each>
+    </fo:table-body>
+  </fo:table>
+
+  <fo:block space-before="1cm" font-weight="bold" space-after="0.5cm" text-align="center"> Groupe 10 </fo:block>
+  <fo:table border-color="black" border-width="0.4mm" border-style="solid" text-align="center" display-align="center" table-layout="fixed" width="100%">
+        <fo:table-column column-width="2cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+        <fo:table-column column-width="3cm" border-color="black" border-width="0.4mm" border-style="solid"/>
+
+  <fo:table-header background-color="silver" display-align="center">        
+          <fo:table-row font-weight="bold" height="1cm" border-color="black" border-width="0.4mm" border-style="solid">
+           <fo:table-cell>
+              <fo:block>CNE</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>NOM</fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block>PRENOM</fo:block>
+            </fo:table-cell>
+          </fo:table-row>
+        </fo:table-header>
+
+         <fo:table-body>
+         <xsl:for-each select="students/student">
+           <xsl:if test="position() &gt; 216">
+              <fo:table-row height="0.5cm" border-color="black" border-width="0.4mm" border-style="solid">
+            <fo:table-cell>
+             <fo:block> <xsl:value-of select="CNE"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block> <xsl:value-of select="FirstName"/></fo:block>
+            </fo:table-cell>
+            <fo:table-cell>
+              <fo:block><xsl:value-of select="LastName"/> </fo:block>
+            </fo:table-cell>
+            </fo:table-row>
+            </xsl:if>
+    </xsl:for-each>
+    </fo:table-body>
+  </fo:table>
+
+
+
+
+  </xsl:if>
   </fo:block>
+
 </fo:flow>
 </fo:page-sequence>
 </fo:root>
