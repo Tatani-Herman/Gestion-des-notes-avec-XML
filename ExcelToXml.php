@@ -34,7 +34,7 @@ class ExcelToXml
             
             $result = Array();
             $keys = $sheetData[1];
-            for ($i = 2; $i < count($sheetData); $i++) {
+            for ($i = 2; $i <= count($sheetData); $i++) {
                 $rowValue = Array();
                 $row = $sheetData[$i];
                 foreach($row as $key=>$value) {

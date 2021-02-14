@@ -782,4 +782,21 @@
     <matiere codeMat="GSTR25">12</matiere>
     <matiere codeMat="GSTR26">12</matiere>
   </note>
+  <note>
+    <CNE>612</CNE>
+    <LastName>Huntington</LastName>
+    <FirstName>Birchett</FirstName>
+    <matiere codeMat="GSTR11">12</matiere>
+    <matiere codeMat="GSTR12">12</matiere>
+    <matiere codeMat="GSTR13">12</matiere>
+    <matiere codeMat="GSTR14">12</matiere>
+    <matiere codeMat="GSTR15">12</matiere>
+    <matiere codeMat="GSTR16">12</matiere>
+    <matiere codeMat="GSTR21">12</matiere>
+    <matiere codeMat="GSTR22">12</matiere>
+    <matiere codeMat="GSTR23">12</matiere>
+    <matiere codeMat="GSTR24">12</matiere>
+    <matiere codeMat="GSTR25">12</matiere>
+    <matiere codeMat="GSTR26">12</matiere>
+  </note>
 </notes>

@@ -376,4 +376,12 @@
     <Phone>05 52 85 13 69</Phone>
     <Email>velit.dui@porttitorscelerisqueneque.org</Email>
   </student>
+  <student>
+    <CNE>377</CNE>
+    <LastName>Tatani</LastName>
+    <FirstName>Herman</FirstName>
+    <DateofBirth>10/08/1999</DateofBirth>
+    <Phone>02 34 13 92 84</Phone>
+    <Email>fermentum@nonhendrerit.com</Email>
+  </student>
 </students>

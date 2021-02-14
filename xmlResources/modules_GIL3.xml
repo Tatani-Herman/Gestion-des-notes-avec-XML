@@ -49,4 +49,11 @@
     <ElementName>sit amet risus.</ElementName>
     <ElementName>Nulla facilisi. Sed</ElementName>
   </module>
+  <module>
+    <Code>GIL56</Code>
+    <Name>Suspendisse eleifend. Cras</Name>
+    <ChefModule>El Alami Hassoun</ChefModule>
+    <ElementName>velit dui, semper</ElementName>
+    <ElementName>ligula elit, pretium</ElementName>
+  </module>
 </modules>

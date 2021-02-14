@@ -368,4 +368,12 @@
     <Phone>157 188 5615</Phone>
     <Email>kyushankin19@yale.edu</Email>
   </student>
+  <student>
+    <CNE>471</CNE>
+    <LastName>Johann</LastName>
+    <FirstName>Brydon</FirstName>
+    <DateofBirth>30/10/1995</DateofBirth>
+    <Phone>101 226 1124</Phone>
+    <Email>jbrydon1a@51.la</Email>
+  </student>
 </students>

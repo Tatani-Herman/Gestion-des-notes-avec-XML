@@ -153,4 +153,11 @@
     <DateofBirth>02/03/2000</DateofBirth>
     <Phone>597 128 2283</Phone>
     <Email>fknappett19@npr.org</Email>
+  </student><student>
+    <CNE>612</CNE>
+    <LastName>Huntington</LastName>
+    <FirstName>Birchett</FirstName>
+    <DateofBirth>11/09/1999</DateofBirth>
+    <Phone>278 993 1338</Phone>
+    <Email>hbirchett1a@columbia.edu</Email>
   </student></students>

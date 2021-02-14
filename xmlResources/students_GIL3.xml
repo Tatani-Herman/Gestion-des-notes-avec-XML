@@ -368,4 +368,12 @@
     <Phone>162 249 2789</Phone>
     <Email>agavahan19@deviantart.com</Email>
   </student>
+  <student>
+    <CNE>282</CNE>
+    <LastName>Amby</LastName>
+    <FirstName>Blacket</FirstName>
+    <DateofBirth>09/12/1995</DateofBirth>
+    <Phone>653 668 9586</Phone>
+    <Email>ablacket1a@networksolutions.com</Email>
+  </student>
 </students>

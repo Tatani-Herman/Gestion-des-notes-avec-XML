@@ -506,4 +506,15 @@
     <matiere codeMat="GINF55">12</matiere>
     <matiere codeMat="GINF56">12</matiere>
   </note>
+  <note>
+    <CNE>424</CNE>
+    <LastName>Lynn</LastName>
+    <FirstName>Lesor</FirstName>
+    <matiere codeMat="GINF51">12</matiere>
+    <matiere codeMat="GINF52">12</matiere>
+    <matiere codeMat="GINF53">12</matiere>
+    <matiere codeMat="GINF54">12</matiere>
+    <matiere codeMat="GINF55">12</matiere>
+    <matiere codeMat="GINF56">12</matiere>
+  </note>
 </notes>

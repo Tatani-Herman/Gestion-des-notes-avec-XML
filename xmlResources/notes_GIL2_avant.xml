@@ -782,4 +782,21 @@
     <matiere codeMat="GIL45">12</matiere>
     <matiere codeMat="GIL46">12</matiere>
   </note>
+  <note>
+    <CNE>235</CNE>
+    <LastName>Hersch</LastName>
+    <FirstName>Grutchfield</FirstName>
+    <matiere codeMat="GIL31">12</matiere>
+    <matiere codeMat="GIL32">12</matiere>
+    <matiere codeMat="GIL33">12</matiere>
+    <matiere codeMat="GIL34">12</matiere>
+    <matiere codeMat="GIL35">12</matiere>
+    <matiere codeMat="GIL36">12</matiere>
+    <matiere codeMat="GIL41">12</matiere>
+    <matiere codeMat="GIL42">12</matiere>
+    <matiere codeMat="GIL43">12</matiere>
+    <matiere codeMat="GIL44">12</matiere>
+    <matiere codeMat="GIL45">12</matiere>
+    <matiere codeMat="GIL46">12</matiere>
+  </note>
 </notes>

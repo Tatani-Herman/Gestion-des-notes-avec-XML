@@ -368,4 +368,12 @@
     <Phone>789 325 6912</Phone>
     <Email>scharville19@ehow.com</Email>
   </student>
+  <student>
+    <CNE>188</CNE>
+    <LastName>Orland</LastName>
+    <FirstName>Stert</FirstName>
+    <DateofBirth>24/04/2000</DateofBirth>
+    <Phone>854 943 7477</Phone>
+    <Email>ostert1a@goodreads.com</Email>
+  </student>
 </students>

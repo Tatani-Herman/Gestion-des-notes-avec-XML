@@ -54,4 +54,12 @@
     <ElementName> Webservices</ElementName>
     <ElementName> E-commerce et applications</ElementName>
   </module>
+  <module>
+    <Code>GINF56</Code>
+    <Name>Management de l'entreprise</Name>
+    <ChefModule>El Haddad</ChefModule>
+    <ElementName>Cr&#xE9;ation d'Entreprise</ElementName>
+    <ElementName> Projets libres</ElementName>
+    <ElementName> Simulation d'entretien d'embauche et &#xE9;thique de l'ing&#xE9;nieur</ElementName>
+  </module>
 </modules>

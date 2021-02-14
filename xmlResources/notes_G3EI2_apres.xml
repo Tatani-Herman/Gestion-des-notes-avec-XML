@@ -782,4 +782,21 @@
     <matiere codeMat="G3EI145">12</matiere>
     <matiere codeMat="G3EI146">12</matiere>
   </note>
+  <note>
+    <CNE>94</CNE>
+    <LastName>Karin</LastName>
+    <FirstName>Vasyaev</FirstName>
+    <matiere codeMat="G3EI131">12</matiere>
+    <matiere codeMat="G3EI132">12</matiere>
+    <matiere codeMat="G3EI133">12</matiere>
+    <matiere codeMat="G3EI134">12</matiere>
+    <matiere codeMat="G3EI135">12</matiere>
+    <matiere codeMat="G3EI136">12</matiere>
+    <matiere codeMat="G3EI141">12</matiere>
+    <matiere codeMat="G3EI142">12</matiere>
+    <matiere codeMat="G3EI143">12</matiere>
+    <matiere codeMat="G3EI144">12</matiere>
+    <matiere codeMat="G3EI145">12</matiere>
+    <matiere codeMat="G3EI146">12</matiere>
+  </note>
 </notes>

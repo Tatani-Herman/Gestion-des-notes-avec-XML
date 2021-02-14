@@ -153,4 +153,11 @@
     <DateofBirth>18/01/1996</DateofBirth>
     <Phone>609 926 4037</Phone>
     <Email>rgwyer19@free.fr</Email>
+  </student><student>
+    <CNE>706</CNE>
+    <LastName>Johnny</LastName>
+    <FirstName>Barribal</FirstName>
+    <DateofBirth>24/02/1999</DateofBirth>
+    <Phone>473 568 7214</Phone>
+    <Email>jbarribal1a@weibo.com</Email>
   </student></students>

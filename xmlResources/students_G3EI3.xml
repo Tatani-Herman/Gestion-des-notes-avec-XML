@@ -368,4 +368,12 @@
     <Phone>966 707 6043</Phone>
     <Email>lpenhallurick19@people.com.cn</Email>
   </student>
+  <student>
+    <CNE>141</CNE>
+    <LastName>Annissa</LastName>
+    <FirstName>Oliver</FirstName>
+    <DateofBirth>05/06/1999</DateofBirth>
+    <Phone>710 923 3949</Phone>
+    <Email>aoliver1a@parallels.com</Email>
+  </student>
 </students>

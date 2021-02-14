@@ -368,4 +368,12 @@
     <Phone>242 137 2327</Phone>
     <Email>sgoucher19@theguardian.com</Email>
   </student>
+  <student>
+    <CNE>329</CNE>
+    <LastName>Coleman</LastName>
+    <FirstName>Beardshall</FirstName>
+    <DateofBirth>05/07/1997</DateofBirth>
+    <Phone>739 134 7878</Phone>
+    <Email>cbeardshall1a@goo.gl</Email>
+  </student>
 </students>

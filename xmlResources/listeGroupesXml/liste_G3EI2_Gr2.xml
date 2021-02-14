@@ -153,4 +153,11 @@
     <DateofBirth>04/04/2000</DateofBirth>
     <Phone>361 209 9497</Phone>
     <Email>rbendall19@globo.com</Email>
+  </student><student>
+    <CNE>94</CNE>
+    <LastName>Karin</LastName>
+    <FirstName>Vasyaev</FirstName>
+    <DateofBirth>28/05/1996</DateofBirth>
+    <Phone>294 731 4140</Phone>
+    <Email>kvasyaev1a@ft.com</Email>
   </student></students>

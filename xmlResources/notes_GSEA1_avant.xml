@@ -782,4 +782,21 @@
     <matiere codeMat="GSEA25">12</matiere>
     <matiere codeMat="GSEA26">12</matiere>
   </note>
+  <note>
+    <CNE>471</CNE>
+    <LastName>Johann</LastName>
+    <FirstName>Brydon</FirstName>
+    <matiere codeMat="GSEA11">12</matiere>
+    <matiere codeMat="GSEA12">12</matiere>
+    <matiere codeMat="GSEA13">12</matiere>
+    <matiere codeMat="GSEA14">12</matiere>
+    <matiere codeMat="GSEA15">12</matiere>
+    <matiere codeMat="GSEA16">12</matiere>
+    <matiere codeMat="GSEA21">12</matiere>
+    <matiere codeMat="GSEA22">12</matiere>
+    <matiere codeMat="GSEA23">12</matiere>
+    <matiere codeMat="GSEA24">12</matiere>
+    <matiere codeMat="GSEA25">12</matiere>
+    <matiere codeMat="GSEA26">12</matiere>
+  </note>
 </notes>

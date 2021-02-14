@@ -368,4 +368,12 @@
     <Phone>560 346 0006</Phone>
     <Email>mrudyard19@nbcnews.com</Email>
   </student>
+  <student>
+    <CNE>565</CNE>
+    <LastName>Darsie</LastName>
+    <FirstName>Mauchline</FirstName>
+    <DateofBirth>23/08/1999</DateofBirth>
+    <Phone>757 857 7156</Phone>
+    <Email>dmauchline1a@networkadvertising.org</Email>
+  </student>
 </students>

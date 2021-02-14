@@ -153,4 +153,11 @@
     <DateofBirth>13/05/1996</DateofBirth>
     <Phone>987 501 3879</Phone>
     <Email>preaman19@aol.com</Email>
+  </student><student>
+    <CNE>424</CNE>
+    <LastName>Lynn</LastName>
+    <FirstName>Lesor</FirstName>
+    <DateofBirth>20/07/1995</DateofBirth>
+    <Phone>378 623 6249</Phone>
+    <Email>llesor1a@storify.com</Email>
   </student></students>

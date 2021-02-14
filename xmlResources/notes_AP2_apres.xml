@@ -4063,4 +4063,21 @@
     <matiere codeMat="AP45">8.56</matiere>
     <matiere codeMat="AP46">19.26</matiere>
   </note>
+  <note>
+    <CNE>946</CNE>
+    <LastName>Sadat</LastName>
+    <FirstName>Fleur</FirstName>
+    <matiere codeMat="AP31">18.41</matiere>
+    <matiere codeMat="AP32">12.67</matiere>
+    <matiere codeMat="AP33">18.04</matiere>
+    <matiere codeMat="AP34">17.37</matiere>
+    <matiere codeMat="AP35">15.39</matiere>
+    <matiere codeMat="AP36">11.54</matiere>
+    <matiere codeMat="AP41">15</matiere>
+    <matiere codeMat="AP42">19.37</matiere>
+    <matiere codeMat="AP43">15.77</matiere>
+    <matiere codeMat="AP44">11.01</matiere>
+    <matiere codeMat="AP45">11.22</matiere>
+    <matiere codeMat="AP46">10.04</matiere>
+  </note>
 </notes>

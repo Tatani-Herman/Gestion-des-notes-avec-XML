@@ -782,4 +782,21 @@
     <matiere codeMat="GIL25">12</matiere>
     <matiere codeMat="GIL26">12</matiere>
   </note>
+  <note>
+    <CNE>188</CNE>
+    <LastName>Orland</LastName>
+    <FirstName>Stert</FirstName>
+    <matiere codeMat="GIL11">12</matiere>
+    <matiere codeMat="GIL12">12</matiere>
+    <matiere codeMat="GIL13">12</matiere>
+    <matiere codeMat="GIL14">12</matiere>
+    <matiere codeMat="GIL15">12</matiere>
+    <matiere codeMat="GIL16">12</matiere>
+    <matiere codeMat="GIL21">12</matiere>
+    <matiere codeMat="GIL22">12</matiere>
+    <matiere codeMat="GIL23">12</matiere>
+    <matiere codeMat="GIL24">12</matiere>
+    <matiere codeMat="GIL25">12</matiere>
+    <matiere codeMat="GIL26">12</matiere>
+  </note>
 </notes>

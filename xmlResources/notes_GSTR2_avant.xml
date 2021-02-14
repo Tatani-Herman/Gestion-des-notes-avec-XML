@@ -782,4 +782,21 @@
     <matiere codeMat="GSTR45">12</matiere>
     <matiere codeMat="GSTR46">12</matiere>
   </note>
+  <note>
+    <CNE>659</CNE>
+    <LastName>Connor</LastName>
+    <FirstName>Newns</FirstName>
+    <matiere codeMat="GSTR31">12</matiere>
+    <matiere codeMat="GSTR32">12</matiere>
+    <matiere codeMat="GSTR33">12</matiere>
+    <matiere codeMat="GSTR34">12</matiere>
+    <matiere codeMat="GSTR35">12</matiere>
+    <matiere codeMat="GSTR36">12</matiere>
+    <matiere codeMat="GSTR41">12</matiere>
+    <matiere codeMat="GSTR42">12</matiere>
+    <matiere codeMat="GSTR43">12</matiere>
+    <matiere codeMat="GSTR44">12</matiere>
+    <matiere codeMat="GSTR45">12</matiere>
+    <matiere codeMat="GSTR46">12</matiere>
+  </note>
 </notes>

@@ -1912,4 +1912,12 @@
     <Phone>599 581 8745</Phone>
     <Email>rhakewell6m@ucoz.com</Email>
   </student>
+  <student>
+    <CNE>946</CNE>
+    <LastName>Sadat</LastName>
+    <FirstName>Fleur</FirstName>
+    <DateofBirth>06/04/1999</DateofBirth>
+    <Phone>471 650 6456</Phone>
+    <Email>rgravenall6n@nasa.gov</Email>
+  </student>
 </students>

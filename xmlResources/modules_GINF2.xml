@@ -81,4 +81,12 @@
     <ElementName>S&#xE9;curit&#xE9; des syst&#xE8;mes</ElementName>
     <ElementName> Cryptographie</ElementName>
   </module>
+  <module>
+    <Code>GINF46</Code>
+    <Name>Management de l'entreprise</Name>
+    <ChefModule>EL Haddad</ChefModule>
+    <ElementName>Economie &amp; Compta 2</ElementName>
+    <ElementName> Projets collectifs</ElementName>
+    <ElementName> Management de projet</ElementName>
+  </module>
 </modules>

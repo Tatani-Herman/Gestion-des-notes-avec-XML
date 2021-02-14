@@ -506,4 +506,15 @@
     <matiere codeMat="G3EI155">12</matiere>
     <matiere codeMat="G3EI156">12</matiere>
   </note>
+  <note>
+    <CNE>141</CNE>
+    <LastName>Annissa</LastName>
+    <FirstName>Oliver</FirstName>
+    <matiere codeMat="G3EI151">12</matiere>
+    <matiere codeMat="G3EI152">12</matiere>
+    <matiere codeMat="G3EI153">12</matiere>
+    <matiere codeMat="G3EI154">12</matiere>
+    <matiere codeMat="G3EI155">12</matiere>
+    <matiere codeMat="G3EI156">12</matiere>
+  </note>
 </notes>

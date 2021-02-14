@@ -153,4 +153,11 @@
     <DateofBirth>20/07/1995</DateofBirth>
     <Phone>275 503 3187</Phone>
     <Email>fwahlberg19@dedecms.com</Email>
+  </student><student>
+    <CNE>235</CNE>
+    <LastName>Hersch</LastName>
+    <FirstName>Grutchfield</FirstName>
+    <DateofBirth>11/03/2000</DateofBirth>
+    <Phone>881 707 1697</Phone>
+    <Email>hgrutchfield1a@upenn.edu</Email>
   </student></students>

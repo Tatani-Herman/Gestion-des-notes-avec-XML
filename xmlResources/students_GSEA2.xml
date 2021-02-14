@@ -368,4 +368,12 @@
     <Phone>904 198 8803</Phone>
     <Email>shallor19@vimeo.com</Email>
   </student>
+  <student>
+    <CNE>518</CNE>
+    <LastName>Vilma</LastName>
+    <FirstName>Leyfield</FirstName>
+    <DateofBirth>19/03/1996</DateofBirth>
+    <Phone>685 345 0086</Phone>
+    <Email>vleyfield1a@narod.ru</Email>
+  </student>
 </students>

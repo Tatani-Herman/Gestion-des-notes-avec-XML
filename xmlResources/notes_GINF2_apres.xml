@@ -799,4 +799,21 @@
     <matiere codeMat="GINF45">12</matiere>
     <matiere codeMat="GINF46">12</matiere>
   </note>
+  <note>
+    <CNE>377</CNE>
+    <LastName>Tatani</LastName>
+    <FirstName>Herman</FirstName>
+    <matiere codeMat="GINF31">15</matiere>
+    <matiere codeMat="GINF32">15</matiere>
+    <matiere codeMat="GINF33">14</matiere>
+    <matiere codeMat="GINF34">12</matiere>
+    <matiere codeMat="GINF35">12</matiere>
+    <matiere codeMat="GINF36">12</matiere>
+    <matiere codeMat="GINF41">12</matiere>
+    <matiere codeMat="GINF42">12</matiere>
+    <matiere codeMat="GINF43">12</matiere>
+    <matiere codeMat="GINF44">12</matiere>
+    <matiere codeMat="GINF45">12</matiere>
+    <matiere codeMat="GINF46">12</matiere>
+  </note>
 </notes>

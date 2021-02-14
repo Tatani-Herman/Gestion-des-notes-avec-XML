@@ -368,4 +368,12 @@
     <Phone>571 746 2485</Phone>
     <Email>bsalvadore19@irs.gov</Email>
   </student>
+  <student>
+    <CNE>47</CNE>
+    <LastName>Muire</LastName>
+    <FirstName>Roelofs</FirstName>
+    <DateofBirth>30/07/1997</DateofBirth>
+    <Phone>695 798 5852</Phone>
+    <Email>mroelofs1a@upenn.edu</Email>
+  </student>
 </students>
