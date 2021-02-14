@@ -10,7 +10,7 @@
 <xsl:template match="/">
 <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
   <fo:layout-master-set>
-    <fo:simple-page-master master-name="simpleA4" page-height="36cm" page-width="15cm" margin-top="1cm" margin-bottom="0.5cm" margin-left="1cm" margin-right="1cm">
+    <fo:simple-page-master master-name="simpleA4" page-height="36cm" page-width="18cm" margin-top="1cm" margin-bottom="0.5cm" margin-left="1cm" margin-right="1cm">
       <fo:region-body/>
     </fo:simple-page-master>
   </fo:layout-master-set>
@@ -97,7 +97,7 @@
     </fo:table-body>
   </fo:table>
 
-  <xsl:if test="count(student) &gt; 48">
+  <xsl:if test="count(//student) &gt; 48">
 
 <fo:block space-before="1cm" font-weight="bold" space-after="0.5cm" text-align="center"> Groupe 3 </fo:block>
   <fo:table border-color="black" border-width="0.4mm" border-style="solid" text-align="center" display-align="center" table-layout="fixed" width="100%">
@@ -410,9 +410,6 @@
     </xsl:for-each>
     </fo:table-body>
   </fo:table>
-
-
-
 
   </xsl:if>
   </fo:block>
