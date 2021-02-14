@@ -14,7 +14,7 @@ elementFormDefault="qualified">
           <xs:element name="Dep_Attachement" type="xs:string"/>
           <xs:element name="Phone" type="xs:string"/>
           <xs:element name="Email" type="xs:string"/>
-          <xs:element name="matiere" type="xs:string" maxOccurs="6"/>
+          <xs:element name="matiere" type="xs:string" minOccurs="1" maxOccurs="6"/>
         </xs:sequence>
         </xs:complexType>
     </xs:element>
