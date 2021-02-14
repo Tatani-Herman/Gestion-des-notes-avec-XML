@@ -44,7 +44,7 @@
             <fo:block text-align="center" space-after="0.5cm">Le Directeur de l'Ecole Nationale des Sciences Appliquées de Tanger atteste que</fo:block>
             <fo:block text-align="center" space-after="2mm" font-weight="bold">Monsieur <fo:inline font-size="12pt">
               <xsl:value-of select="FirstName"/>
-              <xsl:text></xsl:text>
+              <xsl:text> </xsl:text>
               <xsl:value-of select="LastName"/>
             </fo:inline>
           </fo:block>
